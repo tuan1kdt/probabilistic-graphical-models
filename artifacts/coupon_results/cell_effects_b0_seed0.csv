@@ -1,0 +1,271 @@
+coupon,destination,direction_same,habit_match,time_bin,tau,n TRAIN T=0,n TRAIN T=1,n TEST,CI lo,CI hi,n TRAIN nhỏ nhất,nhóm,CI chứa 0,bề rộng CI
+Bar,Home,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,0,high,evening,0.2814,7,1,1,-0.4993,0.6638,1,τ > 0,True,1.1632
+Bar,Home,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,0,low,evening,0.1812,63,31,28,-0.0023,0.4193,31,τ > 0,True,0.4216
+Bar,Home,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,0,mid,evening,-0.0001,12,6,3,-0.6029,0.4432,6,τ ≤ 0,True,1.0461
+Bar,Home,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,high,evening,0.0147,19,7,12,-0.3379,0.2777,7,τ > 0,True,0.6156
+Bar,Home,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,low,evening,-0.2583,108,43,30,-0.421,-0.0734,43,τ ≤ 0,False,0.3475
+Bar,Home,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Home,1,mid,evening,-0.5544,34,14,5,-0.8438,-0.2896,14,τ ≤ 0,False,0.5542
+Bar,Home,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,0,high,afternoon,-0.4993,7,0,1,-0.4997,-0.4977,0,τ ≤ 0,False,0.002
+Bar,No Urgent Place,0,high,evening,0.0444,9,15,6,-0.3364,0.5552,9,τ > 0,True,0.8915
+Bar,No Urgent Place,0,high,morning,-0.3902,29,3,11,-0.8354,0.3621,3,τ ≤ 0,True,1.1975
+Bar,No Urgent Place,0,low,afternoon,0.2868,61,0,19,0.1665,0.4,0,τ > 0,False,0.2335
+Bar,No Urgent Place,0,low,evening,0.0412,93,109,65,-0.0646,0.1653,93,τ > 0,True,0.23
+Bar,No Urgent Place,0,low,morning,-0.246,176,31,41,-0.3143,-0.1458,31,τ ≤ 0,False,0.1684
+Bar,No Urgent Place,0,mid,afternoon,0.2271,11,0,3,-0.0559,0.4993,0,τ > 0,True,0.5552
+Bar,No Urgent Place,0,mid,evening,0.0964,44,45,10,-0.0832,0.2821,44,τ > 0,True,0.3653
+Bar,No Urgent Place,0,mid,morning,-0.314,60,7,9,-0.6658,0.0418,7,τ ≤ 0,True,0.7076
+Bar,No Urgent Place,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,No Urgent Place,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Bar,Work,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,high,evening,-0.1644,98,18,27,-0.4057,0.0576,18,τ ≤ 0,True,0.4633
+Carry out & Take away,Home,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,low,evening,-0.3344,38,7,11,-0.742,0.0826,7,τ ≤ 0,True,0.8246
+Carry out & Take away,Home,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,0,mid,evening,-0.2692,69,14,16,-0.5796,0.0275,14,τ ≤ 0,True,0.6071
+Carry out & Take away,Home,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,high,evening,0.0336,46,57,22,-0.1022,0.1559,46,τ > 0,True,0.258
+Carry out & Take away,Home,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,low,evening,-0.0588,17,17,13,-0.2968,0.2135,17,τ ≤ 0,True,0.5103
+Carry out & Take away,Home,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Home,1,mid,evening,0.0536,44,39,17,-0.1134,0.1983,39,τ > 0,True,0.3117
+Carry out & Take away,Home,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,0,high,afternoon,-0.3153,59,15,15,-0.5698,-0.1108,15,τ ≤ 0,False,0.459
+Carry out & Take away,No Urgent Place,0,high,evening,0.0682,62,8,17,-0.1702,0.2735,8,τ > 0,True,0.4437
+Carry out & Take away,No Urgent Place,0,high,morning,-0.1576,41,125,35,-0.2917,-0.0119,41,τ ≤ 0,False,0.2798
+Carry out & Take away,No Urgent Place,0,low,afternoon,-0.0004,13,6,4,-0.0019,0.0001,6,τ ≤ 0,True,0.002
+Carry out & Take away,No Urgent Place,0,low,evening,-0.2499,20,4,14,-0.7476,0.2837,4,τ ≤ 0,True,1.0313
+Carry out & Take away,No Urgent Place,0,low,morning,-0.1555,18,30,20,-0.4367,0.0878,18,τ ≤ 0,True,0.5245
+Carry out & Take away,No Urgent Place,0,mid,afternoon,-0.0671,50,6,8,-0.3877,0.1725,6,τ ≤ 0,True,0.5602
+Carry out & Take away,No Urgent Place,0,mid,evening,0.0749,55,7,17,-0.2234,0.3016,7,τ > 0,True,0.525
+Carry out & Take away,No Urgent Place,0,mid,morning,0.0435,35,96,27,-0.1095,0.2584,35,τ > 0,True,0.3679
+Carry out & Take away,No Urgent Place,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,No Urgent Place,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,high,morning,-0.2143,91,0,26,-0.2964,-0.1263,0,τ ≤ 0,False,0.1701
+Carry out & Take away,Work,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,low,morning,-0.2499,36,0,6,-0.3752,-0.0869,0,τ ≤ 0,False,0.2883
+Carry out & Take away,Work,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,0,mid,morning,-0.1623,77,0,10,-0.2894,-0.0571,0,τ ≤ 0,False,0.2323
+Carry out & Take away,Work,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,high,morning,-0.1273,66,90,40,-0.2569,0.0103,66,τ ≤ 0,True,0.2672
+Carry out & Take away,Work,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,low,morning,-0.2916,24,22,10,-0.551,-0.0476,22,τ ≤ 0,False,0.5034
+Carry out & Take away,Work,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Carry out & Take away,Work,1,mid,morning,-0.2198,60,74,18,-0.3717,-0.0836,60,τ ≤ 0,False,0.288
+Coffee House,Home,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,0,high,evening,-0.2803,34,60,20,-0.4149,-0.092,34,τ ≤ 0,False,0.3229
+Coffee House,Home,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,0,low,evening,-0.1028,78,139,37,-0.1934,-0.0005,78,τ ≤ 0,False,0.1929
+Coffee House,Home,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,0,mid,evening,-0.1087,36,69,27,-0.3054,0.0506,36,τ ≤ 0,True,0.356
+Coffee House,Home,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,high,evening,-0.4419,30,23,9,-0.729,-0.2069,23,τ ≤ 0,False,0.5221
+Coffee House,Home,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,low,evening,-0.061,88,35,24,-0.2429,0.1188,35,τ ≤ 0,True,0.3616
+Coffee House,Home,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Home,1,mid,evening,-0.1232,35,16,15,-0.4424,0.1703,16,τ ≤ 0,True,0.6127
+Coffee House,Home,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,0,high,afternoon,-0.1621,63,38,34,-0.3632,0.0214,38,τ ≤ 0,True,0.3846
+Coffee House,No Urgent Place,0,high,evening,-0.557,35,28,19,-0.7374,-0.3486,28,τ ≤ 0,False,0.3888
+Coffee House,No Urgent Place,0,high,morning,-0.1022,52,76,38,-0.2292,0.0244,52,τ ≤ 0,True,0.2536
+Coffee House,No Urgent Place,0,low,afternoon,-0.0549,148,128,39,-0.1336,0.0416,128,τ ≤ 0,True,0.1752
+Coffee House,No Urgent Place,0,low,evening,-0.3981,81,73,37,-0.5363,-0.263,73,τ ≤ 0,False,0.2733
+Coffee House,No Urgent Place,0,low,morning,-0.043,128,204,57,-0.1702,0.0561,128,τ ≤ 0,True,0.2263
+Coffee House,No Urgent Place,0,mid,afternoon,-0.136,89,75,31,-0.2488,-0.0376,75,τ ≤ 0,False,0.2112
+Coffee House,No Urgent Place,0,mid,evening,-0.136,38,47,21,-0.3352,0.066,38,τ ≤ 0,True,0.4012
+Coffee House,No Urgent Place,0,mid,morning,0.1058,52,104,32,-0.0523,0.2713,52,τ > 0,True,0.3236
+Coffee House,No Urgent Place,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,No Urgent Place,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,high,morning,-0.2791,22,42,19,-0.5872,0.0123,22,τ ≤ 0,True,0.5995
+Coffee House,Work,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,low,morning,0.0759,52,123,21,-0.0487,0.2141,52,τ > 0,True,0.2629
+Coffee House,Work,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,0,mid,morning,-0.3231,23,76,16,-0.5922,-0.0789,23,τ ≤ 0,False,0.5133
+Coffee House,Work,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,high,morning,-0.0789,38,38,12,-0.3047,0.0956,38,τ ≤ 0,True,0.4003
+Coffee House,Work,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,low,morning,-0.2449,71,93,31,-0.4012,-0.1057,71,τ ≤ 0,False,0.2955
+Coffee House,Work,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Coffee House,Work,1,mid,morning,-0.2087,30,38,16,-0.4335,0.0314,30,τ ≤ 0,True,0.465
+Restaurant(20-50),Home,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,0,high,evening,-0.339,21,8,5,-0.7266,0.0834,8,τ ≤ 0,True,0.8101
+Restaurant(20-50),Home,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,0,low,evening,-0.2179,140,82,42,-0.3298,-0.1184,82,τ ≤ 0,False,0.2114
+Restaurant(20-50),Home,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,0,mid,evening,-0.4623,55,23,25,-0.6059,-0.2834,23,τ ≤ 0,False,0.3225
+Restaurant(20-50),Home,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,high,evening,0.308,16,1,4,-0.4089,0.4977,1,τ > 0,True,0.9066
+Restaurant(20-50),Home,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,low,evening,0.1311,70,11,16,-0.2499,0.4798,11,τ > 0,True,0.7296
+Restaurant(20-50),Home,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Home,1,mid,evening,-0.3498,20,8,6,-0.7139,0.1531,8,τ ≤ 0,True,0.867
+Restaurant(20-50),Home,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,0,high,afternoon,-0.05,5,4,3,-0.8305,0.4991,4,τ ≤ 0,True,1.3296
+Restaurant(20-50),No Urgent Place,0,high,evening,-0.5667,1,7,2,-0.8526,0.2497,1,τ ≤ 0,True,1.1023
+Restaurant(20-50),No Urgent Place,0,high,morning,-0.6646,3,3,0,-0.9973,0.0,3,τ ≤ 0,True,0.9973
+Restaurant(20-50),No Urgent Place,0,low,afternoon,-0.0319,47,38,17,-0.2387,0.2018,38,τ ≤ 0,True,0.4405
+Restaurant(20-50),No Urgent Place,0,low,evening,-0.1647,21,37,7,-0.4226,0.081,21,τ ≤ 0,True,0.5036
+Restaurant(20-50),No Urgent Place,0,low,morning,-0.3609,29,17,11,-0.5871,-0.0608,17,τ ≤ 0,False,0.5263
+Restaurant(20-50),No Urgent Place,0,mid,afternoon,0.0555,9,10,19,-0.3326,0.5412,9,τ > 0,True,0.8737
+Restaurant(20-50),No Urgent Place,0,mid,evening,-0.3633,11,11,5,-0.7453,0.0004,11,τ ≤ 0,True,0.7457
+Restaurant(20-50),No Urgent Place,0,mid,morning,-0.1458,16,12,3,-0.4179,0.2223,12,τ ≤ 0,True,0.6402
+Restaurant(20-50),No Urgent Place,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),No Urgent Place,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,high,morning,-0.7809,14,1,3,-0.9951,-0.1247,1,τ ≤ 0,False,0.8704
+Restaurant(20-50),Work,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,low,morning,-0.3073,128,29,33,-0.4647,-0.158,29,τ ≤ 0,False,0.3067
+Restaurant(20-50),Work,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,0,mid,morning,-0.321,46,9,16,-0.6267,0.0498,9,τ ≤ 0,True,0.6765
+Restaurant(20-50),Work,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,high,morning,-0.0555,0,9,2,-0.3885,0.2994,0,τ ≤ 0,True,0.6879
+Restaurant(20-50),Work,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,low,morning,-0.3204,0,39,9,-0.4354,-0.1894,0,τ ≤ 0,False,0.2459
+Restaurant(20-50),Work,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(20-50),Work,1,mid,morning,-0.4228,0,13,2,-0.4997,-0.2268,0,τ ≤ 0,False,0.273
+Restaurant(<20),Home,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,0,high,evening,-0.742,11,24,6,-0.9623,-0.4864,11,τ ≤ 0,False,0.4758
+Restaurant(<20),Home,0,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,0,low,evening,-0.416,4,15,6,-0.8559,0.1674,4,τ ≤ 0,True,1.0234
+Restaurant(<20),Home,0,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,0,mid,evening,-0.567,11,25,7,-0.8346,-0.2854,11,τ ≤ 0,False,0.5492
+Restaurant(<20),Home,0,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,high,evening,-0.263,27,87,15,-0.4293,-0.0687,27,τ ≤ 0,False,0.3606
+Restaurant(<20),Home,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,low,evening,-0.2923,17,36,10,-0.5165,-0.0273,17,τ ≤ 0,False,0.4891
+Restaurant(<20),Home,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Home,1,mid,evening,-0.2518,32,68,32,-0.4544,-0.0432,32,τ ≤ 0,False,0.4112
+Restaurant(<20),Home,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,0,high,afternoon,-0.2183,118,66,35,-0.3634,-0.0797,66,τ ≤ 0,False,0.2837
+Restaurant(<20),No Urgent Place,0,high,evening,-0.0966,92,108,39,-0.2066,0.008,92,τ ≤ 0,True,0.2146
+Restaurant(<20),No Urgent Place,0,high,morning,-0.1004,31,53,15,-0.2575,0.0798,31,τ ≤ 0,True,0.3373
+Restaurant(<20),No Urgent Place,0,low,afternoon,-0.3735,63,32,16,-0.6272,-0.1702,32,τ ≤ 0,False,0.4569
+Restaurant(<20),No Urgent Place,0,low,evening,0.035,37,51,21,-0.1334,0.278,37,τ > 0,True,0.4113
+Restaurant(<20),No Urgent Place,0,low,morning,-0.1403,17,31,14,-0.2998,0.0668,17,τ ≤ 0,True,0.3667
+Restaurant(<20),No Urgent Place,0,mid,afternoon,-0.3056,143,58,42,-0.449,-0.1509,58,τ ≤ 0,False,0.2981
+Restaurant(<20),No Urgent Place,0,mid,evening,-0.025,71,134,49,-0.1413,0.0744,71,τ ≤ 0,True,0.2158
+Restaurant(<20),No Urgent Place,0,mid,morning,-0.0759,29,54,17,-0.2782,0.0869,29,τ ≤ 0,True,0.3651
+Restaurant(<20),No Urgent Place,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,high,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,low,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),No Urgent Place,1,mid,morning,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,high,morning,-0.3078,69,49,27,-0.5133,-0.0903,49,τ ≤ 0,False,0.423
+Restaurant(<20),Work,0,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,low,morning,-0.4753,37,22,14,-0.7022,-0.1967,22,τ ≤ 0,False,0.5055
+Restaurant(<20),Work,0,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,0,mid,morning,-0.5035,74,45,32,-0.6868,-0.3321,45,τ ≤ 0,False,0.3547
+Restaurant(<20),Work,1,high,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,high,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,high,morning,-0.5452,22,11,9,-0.8567,-0.2171,11,τ ≤ 0,False,0.6396
+Restaurant(<20),Work,1,low,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,low,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,low,morning,-0.2996,10,5,4,-0.7771,0.286,5,τ ≤ 0,True,1.0632
+Restaurant(<20),Work,1,mid,afternoon,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,mid,evening,0.0,0,0,0,0.0,0.0,0,τ ≤ 0,True,0.0
+Restaurant(<20),Work,1,mid,morning,-0.4559,19,15,12,-0.741,-0.1599,15,τ ≤ 0,False,0.581

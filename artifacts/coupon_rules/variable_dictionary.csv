@@ -1,0 +1,15 @@
+biến,số mức,mức = số dòng,tầng,vai trò
+habit_match,3,"low = 4925, mid = 3750, high = 3362",1. người trả lời (trước T),có thể → Y; cấm → T
+age_bin,4,"26-35 = 4342, <26 = 3033, 36-50 = 2956, 50+ = 1706",1. người trả lời (trước T),có thể → Y; cấm → T
+income_bin,3,"<37.5k = 4621, 37.5-75k = 4116, 75k+ = 3300",1. người trả lời (trước T),có thể → Y; cấm → T
+gender,2,"Female = 6193, Male = 5844",1. người trả lời (trước T),có thể → Y; cấm → T
+has_children,2,"0 = 7073, 1 = 4964",1. người trả lời (trước T),có thể → Y; cấm → T
+coupon,5,"Coffee House = 3924, Restaurant(<20) = 2759, Carry out & Take away = 2371, Bar = 1513, Restaurant(20-50) = 1470",2. kịch bản (trước T),có thể → T và → Y
+destination,3,"No Urgent Place = 6184, Home = 3197, Work = 2656",2. kịch bản (trước T),có thể → T và → Y
+time_bin,3,"evening = 5166, morning = 4894, afternoon = 1977",2. kịch bản (trước T),có thể → T và → Y
+passenger,4,"Alone = 6748, Friend(s) = 3249, Partner = 1054, Kid(s) = 986",2. kịch bản (trước T),có thể → T và → Y
+weather,3,"Sunny = 9635, Snowy = 1305, Rainy = 1097",2. kịch bản (trước T),có thể → T và → Y
+dist,3,"<15 = 5455, 15-25 = 5449, 25+ = 1133",2. kịch bản (trước T),có thể → T và → Y
+direction_same,2,"0 = 9432, 1 = 2605",2. kịch bản (trước T),có thể → T và → Y
+T,2,"0 = 6521, 1 = 5516",3. treatment,"hạn coupon: 0 = 1 ngày, 1 = 2 giờ"
+Y,2,"1 = 6942, 0 = 5095",4. outcome,1 = chấp nhận coupon

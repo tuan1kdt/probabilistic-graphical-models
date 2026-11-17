@@ -1,0 +1,28 @@
+# Python
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.DS_Store
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Claude Code local config
+.claude/
+
+# Course handout
+HK1_2026_IT701100_*.pdf

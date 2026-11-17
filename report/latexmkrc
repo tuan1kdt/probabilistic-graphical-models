@@ -1,0 +1,2 @@
+# Báo cáo tiếng Việt: biên dịch bằng XeLaTeX (latexmk report.tex)
+$pdf_mode = 5;

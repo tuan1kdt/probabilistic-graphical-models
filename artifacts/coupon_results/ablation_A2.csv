@@ -1,0 +1,6 @@
+seed,ngưỡng,số cạnh,cạnh người→T,"max A[người,T]",backdoor DoWhy,ATE A2,ATE H2,log loss A2,"SHD(H2,A2)"
+0,0.15,32,0,0.046,"destination, weather, coupon",-0.1443,-0.1443,0.6111,0
+1,0.1,36,0,0.057,"destination, weather, coupon",-0.1452,-0.1452,0.5844,0
+2,0.15,32,0,0.041,"destination, weather, coupon",-0.1566,-0.1566,0.6032,0
+3,0.15,32,0,0.116,"destination, coupon",-0.1785,-0.1785,0.5963,0
+4,0.15,33,0,0.055,"destination, weather, coupon",-0.153,-0.153,0.5979,0

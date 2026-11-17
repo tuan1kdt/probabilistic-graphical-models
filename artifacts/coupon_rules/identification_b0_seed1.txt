@@ -1,0 +1,25 @@
+Estimand type: EstimandType.NONPARAMETRIC_ATE
+
+### Estimand : 1
+Estimand name: backdoor
+Estimand expression:
+ d                                                      
+────(E[Y|direction_same,coupon,habit_match,destination])
+d[T]                                                    
+Estimand assumption 1, Unconfoundedness: If U→{T} and U→Y then P(Y|T,direction_same,coupon,habit_match,destination,U) = P(Y|T,direction_same,coupon,habit_match,destination)
+
+### Estimand : 2
+Estimand name: iv
+No such variable(s) found!
+
+### Estimand : 3
+Estimand name: frontdoor
+No such variable(s) found!
+
+### Estimand : 4
+Estimand name: general_adjustment
+Estimand expression:
+ d                                                           
+────(E[Y|passenger,destination,coupon,dist,time_bin,weather])
+d[T]                                                         
+Estimand assumption 1, Unconfoundedness: If U→{T} and U→Y then P(Y|T,passenger,destination,coupon,dist,time_bin,weather,U) = P(Y|T,passenger,destination,coupon,dist,time_bin,weather)

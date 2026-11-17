@@ -1,0 +1,41 @@
+DAG,seed,tập,Z,|Z|,chứa hậu duệ của T,chặn mọi đường backdoor,tối thiểu,hợp lệ
+B0,0,DoWhy chọn,"coupon, destination, direction_same, habit_match, time_bin",5,False,True,True,True
+B0,0,parents(T),"coupon, destination, dist, passenger, time_bin, weather",6,False,True,True,True
+B0,0,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+B0,0,rỗng,,0,False,False,False,False
+H2,0,DoWhy chọn,"coupon, destination, weather",3,False,True,True,True
+H2,0,parents(T),"coupon, destination, direction_same, dist, passenger, time_bin, weather",7,False,True,False,True
+H2,0,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+H2,0,rỗng,,0,False,False,False,False
+B0,1,DoWhy chọn,"coupon, destination, direction_same, habit_match",4,False,True,True,True
+B0,1,parents(T),"coupon, destination, dist, passenger, time_bin, weather",6,False,True,True,True
+B0,1,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+B0,1,rỗng,,0,False,False,False,False
+H2,1,DoWhy chọn,"coupon, destination, weather",3,False,True,True,True
+H2,1,parents(T),"coupon, destination, direction_same, dist, passenger, time_bin, weather",7,False,True,False,True
+H2,1,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+H2,1,rỗng,,0,False,False,False,False
+B0,2,DoWhy chọn,"coupon, destination, direction_same, habit_match, time_bin",5,False,True,True,True
+B0,2,parents(T),"coupon, destination, dist, passenger, time_bin, weather",6,False,True,True,True
+B0,2,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+B0,2,rỗng,,0,False,False,False,False
+H2,2,DoWhy chọn,"coupon, destination, weather",3,False,True,True,True
+H2,2,parents(T),"coupon, destination, direction_same, dist, passenger, time_bin, weather",7,False,True,False,True
+H2,2,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+H2,2,rỗng,,0,False,False,False,False
+B0,3,DoWhy chọn,"coupon, destination, habit_match",3,False,True,True,True
+B0,3,parents(T),"coupon, destination, dist, weather",4,False,True,True,True
+B0,3,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+B0,3,rỗng,,0,False,False,False,False
+H2,3,DoWhy chọn,"coupon, destination",2,False,True,True,True
+H2,3,parents(T),"coupon, destination, direction_same, dist, passenger, time_bin, weather",7,False,True,False,True
+H2,3,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+H2,3,rỗng,,0,False,False,False,False
+B0,4,DoWhy chọn,"coupon, destination, direction_same, habit_match",4,False,True,True,True
+B0,4,parents(T),"coupon, destination, dist, passenger, time_bin, weather",6,False,True,True,True
+B0,4,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+B0,4,rỗng,,0,False,False,False,False
+H2,4,DoWhy chọn,"coupon, destination, weather",3,False,True,True,True
+H2,4,parents(T),"coupon, destination, direction_same, dist, passenger, time_bin, weather",7,False,True,False,True
+H2,4,C_full,"age_bin, coupon, destination, direction_same, dist, gender, habit_match, has_children, income_bin, passenger, time_bin, weather",12,False,True,False,True
+H2,4,rỗng,,0,False,False,False,False

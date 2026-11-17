@@ -1,0 +1,19 @@
+biến,số mức,mức = số dòng,tầng,vai trò
+Bar,4,"low = 8339, mid = 2380, high = 1375, missing = 103",1. người trả lời (trước T),có thể → Y; cấm → T
+CoffeeHouse,4,"low = 6102, mid = 3107, high = 2778, missing = 210",1. người trả lời (trước T),có thể → Y; cấm → T
+CarryAway,4,"high = 5630, mid = 4489, low = 1929, missing = 149",1. người trả lời (trước T),có thể → Y; cấm → T
+RestaurantLessThan20,4,"mid = 5164, high = 4691, low = 2216, missing = 126",1. người trả lời (trước T),có thể → Y; cấm → T
+Restaurant20To50,4,"low = 7901, mid = 3159, high = 957, missing = 180",1. người trả lời (trước T),có thể → Y; cấm → T
+age_bin,4,"26-35 = 4420, <26 = 3066, 36-50 = 2985, 50+ = 1726",1. người trả lời (trước T),có thể → Y; cấm → T
+income_bin,3,"<37.5k = 4681, 37.5-75k = 4166, 75k+ = 3350",1. người trả lời (trước T),có thể → Y; cấm → T
+gender,2,"Female = 6263, Male = 5934",1. người trả lời (trước T),có thể → Y; cấm → T
+has_children,2,"0 = 7155, 1 = 5042",1. người trả lời (trước T),có thể → Y; cấm → T
+coupon,5,"Coffee House = 3996, Restaurant(<20) = 2786, Carry out & Take away = 2393, Bar = 1530, Restaurant(20-50) = 1492",2. kịch bản (trước T),có thể → T và → Y
+destination,3,"No Urgent Place = 6283, Home = 3237, Work = 2677",2. kịch bản (trước T),có thể → T và → Y
+time_bin,3,"evening = 5236, morning = 4952, afternoon = 2009",2. kịch bản (trước T),có thể → T và → Y
+passenger,4,"Alone = 6818, Friend(s) = 3298, Partner = 1075, Kid(s) = 1006",2. kịch bản (trước T),có thể → T và → Y
+weather,3,"Sunny = 9771, Snowy = 1320, Rainy = 1106",2. kịch bản (trước T),có thể → T và → Y
+dist,3,"<15 = 5533, 15-25 = 5522, 25+ = 1142",2. kịch bản (trước T),có thể → T và → Y
+direction_same,2,"0 = 9562, 1 = 2635",2. kịch bản (trước T),có thể → T và → Y
+T,2,"0 = 6604, 1 = 5593",3. treatment,"hạn coupon: 0 = 1 ngày, 1 = 2 giờ"
+Y,2,"1 = 7032, 0 = 5165",4. outcome,1 = chấp nhận coupon

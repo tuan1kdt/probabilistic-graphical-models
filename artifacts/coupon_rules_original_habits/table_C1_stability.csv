@@ -1,0 +1,4 @@
+mô hình,số cạnh (ít nhất – nhiều nhất),số bộ cha của Y khác nhau,bộ cha của Y hay gặp nhất,ATE trung bình,ATE độ lệch chuẩn,ATE nhỏ nhất,ATE lớn nhất,số seed ATE < 0,số seed CI không chứa 0
+B0,47 – 62,3,"CoffeeHouse, T, coupon, destination, direction_same (2/5 seed)",-0.15732394644326333,0.008924800556819715,-0.17091274816275595,-0.14883419493864394,5/5,5/5
+H1,47 – 62,3,"CoffeeHouse, T, coupon, destination, direction_same (2/5 seed)",-0.1549834391623926,0.004008188898916573,-0.15933120820854269,-0.15029691573423196,5/5,5/5
+H2,37 – 45,1,"CoffeeHouse, T, coupon, destination, weather (5/5 seed)",-0.1475497293897776,0.008886808449474098,-0.1582914402245582,-0.13484391566230736,5/5,5/5

@@ -1,0 +1,4 @@
+mô hình,số cạnh (ít nhất – nhiều nhất),số bộ cha của Y khác nhau,bộ cha của Y hay gặp nhất,ATE trung bình,ATE độ lệch chuẩn,ATE nhỏ nhất,ATE lớn nhất,số seed ATE < 0,số seed CI không chứa 0
+B0,35 – 41,3,"T, coupon, destination, direction_same, habit_match, time_bin (2/5 seed)",-0.1642788363479437,0.012543308308155088,-0.17854805830382606,-0.15032747080286293,5/5,5/5
+H1,35 – 41,3,"T, coupon, destination, direction_same, habit_match, time_bin (2/5 seed)",-0.16302773340142016,0.0055967630163261724,-0.16939786365745882,-0.15654985267970795,5/5,5/5
+H2,29 – 31,2,"T, coupon, destination, habit_match (3/5 seed)",-0.16009389170943367,0.016476831993202427,-0.17854805830382606,-0.14433452775211358,5/5,5/5

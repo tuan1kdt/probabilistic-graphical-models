@@ -1,0 +1,6 @@
+ứng viên,hợp lệ,số cạnh,cha của Y,cha của T,val log-loss Y,val LL cả mạng
+ngưỡng 0.15,True,40,"CoffeeHouse, T, coupon, destination, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6010434599953551,-15.92350160198487
+ngưỡng 0.10,True,46,"CoffeeHouse, T, coupon, destination, passenger, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6193281808013417,-18.032691838039522
+ngưỡng 0.20,True,27,"T, coupon","coupon, direction_same, dist, passenger, time_bin, weather",0.6376256564669284,-14.49872596839171
+ngưỡng 0.30,True,23,"T, coupon","coupon, direction_same, dist, passenger, time_bin, weather",0.6376256564669284,-14.549468379062345
+ngưỡng 0.05,True,59,"CoffeeHouse, Restaurant20To50, T, age_bin, coupon, destination, direction_same, dist, passenger, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",1.4512749282126218,-20.125118112142555

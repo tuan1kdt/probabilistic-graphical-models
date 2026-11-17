@@ -1,0 +1,16 @@
+λ₁(T)×,ngưỡng,số cạnh,chu trình bỏ,T→Y thêm,hợp lệ,parents(T),parents(Y),val log-loss Y,val log-loss T,val LL/dòng
+0.1,0.15,32,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, weather",0.6136453156714293,0.35777098283195113,-10.48183087596348
+0.3,0.15,33,0,0,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, weather",0.6136453156714293,0.37521225867284236,-10.526067664069997
+1.0,0.15,27,0,0,True,,"T, coupon, destination, habit_match, weather",0.6136453156714293,0.6903590988154154,-10.841214504212571
+0.1,0.2,26,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6238891074884435,0.35777098283195113,-10.68688003709868
+0.3,0.2,25,0,0,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6238891074884435,0.37521225867284236,-10.70432131293957
+0.1,0.3,22,0,1,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6238891074884435,0.37521225867284236,-10.810668508822895
+0.3,0.3,20,0,1,True,"coupon, passenger, time_bin, weather","T, coupon, habit_match",0.6238891074884435,0.5011289899003442,-10.936585240050398
+1.0,0.2,19,0,0,True,,"T, coupon, habit_match",0.6238891074884435,0.6903590988154154,-11.023088124638493
+1.0,0.3,16,0,1,True,,"T, coupon, habit_match",0.6238891074884435,0.6903590988154154,-11.12581534896547
+0.1,0.1,36,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, passenger, weather",0.652601629486167,0.35777098283195113,-10.545583530353356
+0.3,0.1,35,0,0,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, passenger, weather",0.652601629486167,0.37521225867284236,-10.563024806194246
+1.0,0.1,29,0,0,True,,"T, coupon, destination, habit_match, passenger, weather",0.652601629486167,0.6903590988154154,-10.87817164633682
+0.1,0.05,41,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, direction_same, habit_match, passenger, weather",0.6715749409889906,0.35777098283195113,-10.34053835443736
+0.3,0.05,40,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, direction_same, habit_match, passenger, weather",0.6715749409889906,0.35777098283195113,-10.340583610048999
+1.0,0.05,34,0,0,True,,"T, coupon, destination, direction_same, habit_match, passenger, weather",0.6715749409889906,0.6903590988154154,-10.673126470420824

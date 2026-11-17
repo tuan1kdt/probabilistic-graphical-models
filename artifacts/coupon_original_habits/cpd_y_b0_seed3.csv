@@ -1,0 +1,41 @@
+CoffeeHouse,T,coupon,p1
+high,0,Bar,0.5293877551020408
+high,0,Carry out & Take away,0.7498580352072686
+high,0,Coffee House,0.7969110189027202
+high,0,Restaurant(20-50),0.532441200324412
+high,0,Restaurant(<20),0.8280757097791798
+high,1,Bar,0.3976
+high,1,Carry out & Take away,0.6422663358147229
+high,1,Coffee House,0.5736884261113336
+high,1,Restaurant(20-50),0.2474302496328928
+high,1,Restaurant(<20),0.5740312319259687
+low,0,Bar,0.3592964824120603
+low,0,Carry out & Take away,0.7928421543483329
+low,0,Coffee House,0.37814879906268306
+low,0,Restaurant(20-50),0.4953289217594395
+low,0,Restaurant(<20),0.8275724541345387
+low,1,Bar,0.35011709601873536
+low,1,Carry out & Take away,0.6815990357573323
+low,1,Coffee House,0.28930148863078686
+low,1,Restaurant(20-50),0.2476340694006309
+low,1,Restaurant(<20),0.5324350107321727
+mid,0,Bar,0.4863481228668942
+mid,0,Carry out & Take away,0.779449260581336
+mid,0,Coffee House,0.7514373323112303
+mid,0,Restaurant(20-50),0.6068592057761732
+mid,0,Restaurant(<20),0.8935071323167733
+mid,1,Bar,0.4270687237026648
+mid,1,Carry out & Take away,0.6849551414768806
+mid,1,Coffee House,0.5995193666949392
+mid,1,Restaurant(20-50),0.4632063074901445
+mid,1,Restaurant(<20),0.6537722248918789
+missing,0,Bar,0.5
+missing,0,Carry out & Take away,0.9123711340206185
+missing,0,Coffee House,0.5451977401129944
+missing,0,Restaurant(20-50),0.33505154639175255
+missing,0,Restaurant(<20),0.6415929203539823
+missing,1,Bar,0.3651685393258427
+missing,1,Carry out & Take away,0.8146067415730337
+missing,1,Coffee House,0.41416309012875535
+missing,1,Restaurant(20-50),0.006172839506172839
+missing,1,Restaurant(<20),0.5993788819875776

@@ -1,0 +1,111 @@
+{
+ "config": {
+  "zip_url": "https://archive.ics.uci.edu/static/public/603/in+vehicle+coupon+recommendation.zip",
+  "csv_name": "in-vehicle-coupon-recommendation.csv",
+  "seeds": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "split": [
+   0.7,
+   0.15,
+   0.15
+  ],
+  "ess": 5.0,
+  "b0_scores": [
+   "bic-d",
+   "bdeu",
+   "k2"
+  ],
+  "b0_max_indegree": [
+   4,
+   6
+  ],
+  "h1_hidden": [
+   32,
+   16
+  ],
+  "h1_dropout": 0.2,
+  "h1_lr": 0.001,
+  "h1_batch": 256,
+  "h1_max_epochs": 200,
+  "h1_patience": 10,
+  "h2_hidden": 10,
+  "h2_lambda1": 0.01,
+  "h2_lambda2": 0.01,
+  "h2_l1_scale_T": 0.1,
+  "h2_max_outer": 20,
+  "h2_inner_steps": 100,
+  "h2_h_tol": 1e-08,
+  "h2_rho_max": 1e+16,
+  "h2_thresholds": [
+   0.05,
+   0.1,
+   0.15,
+   0.2,
+   0.3
+  ],
+  "n_boot": 100,
+  "n_refute": 100,
+  "subset_fraction": 0.8,
+  "n_placebo": 20
+ },
+ "quick": false,
+ "tiers": {
+  "respondent": [
+   "habit_match",
+   "age_bin",
+   "income_bin",
+   "gender",
+   "has_children"
+  ],
+  "scenario": [
+   "coupon",
+   "destination",
+   "time_bin",
+   "passenger",
+   "weather",
+   "dist",
+   "direction_same"
+  ],
+  "treatment": [
+   "T"
+  ],
+  "outcome": [
+   "Y"
+  ]
+ },
+ "required_edges": [
+  [
+   "T",
+   "Y"
+  ]
+ ],
+ "n_forbidden_edges": 65,
+ "source": {
+  "bộ dữ liệu": "In-Vehicle Coupon Recommendation",
+  "UCI ID": 603,
+  "DOI": "10.24432/C5GS4P",
+  "giấy phép": "CC BY 4.0",
+  "file": "in-vehicle-coupon-recommendation.csv",
+  "sha256": "d47897367f5a12a31dece0f4e42d7bd9da76d7016b568da511b50335d08dcb43",
+  "ngày tải": "2026-11-06",
+  "trích dẫn": "Wang, Rudin, Doshi-Velez, Liu, Klampfl, MacNeille (2017). JMLR 18(70):1-37."
+ },
+ "env": {
+  "python": "3.13.18",
+  "máy": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "số lõi CPU": 8,
+  "GPU (cuda)": false,
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "networkx": "3.7",
+  "scikit-learn": "1.9.1",
+  "pgmpy": "1.1.2",
+  "dowhy": "0.14",
+  "torch": "2.15.0"
+ }
+}

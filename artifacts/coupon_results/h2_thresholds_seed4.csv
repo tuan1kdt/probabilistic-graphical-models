@@ -1,0 +1,16 @@
+λ₁(T)×,ngưỡng,số cạnh,chu trình bỏ,T→Y thêm,hợp lệ,parents(T),parents(Y),val log-loss Y,val log-loss T,val LL/dòng
+0.1,0.15,33,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, weather",0.5907297361822946,0.30449081208150425,-10.615493102905555
+0.3,0.15,33,0,0,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, weather",0.5907297361822946,0.3259181714620257,-10.635811681320563
+1.0,0.15,25,0,0,True,,"T, coupon, destination, habit_match, weather",0.5907297361822946,0.686754978552211,-10.94667907466996
+0.1,0.2,26,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6081114782001203,0.30449081208150425,-10.80614060179925
+0.1,0.3,22,0,1,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6081114782001203,0.30449081208150425,-11.027071007776764
+0.3,0.2,27,0,0,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6081114782001203,0.3259181714620257,-10.909611906517734
+0.3,0.3,21,0,1,True,"coupon, direction_same, dist, passenger, time_bin, weather","T, coupon, habit_match",0.6081114782001203,0.3259181714620257,-11.048498367157285
+1.0,0.2,18,0,0,True,,"T, coupon, habit_match",0.6081114782001203,0.686754978552211,-11.218782638392236
+1.0,0.3,15,0,1,True,,"T, coupon, habit_match",0.6081114782001203,0.686754978552211,-11.40933517424747
+0.3,0.1,37,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, passenger, weather",0.6093444218894456,0.30449081208150425,-10.586185308730157
+0.1,0.1,37,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, coupon, destination, habit_match, passenger, weather",0.6093444218894456,0.30449081208150425,-10.586185308730157
+1.0,0.1,30,0,0,True,coupon,"T, coupon, destination, habit_match, passenger, weather",0.6093444218894456,0.6732329990888598,-10.956036276703024
+0.1,0.05,43,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, age_bin, coupon, destination, dist, habit_match, passenger, weather",1.0259179814359738,0.30449081208150425,-10.718915609780725
+0.3,0.05,43,0,0,True,"coupon, destination, direction_same, dist, passenger, time_bin, weather","T, age_bin, coupon, destination, dist, habit_match, passenger, weather",1.0259179814359738,0.30449081208150425,-10.758113990400943
+1.0,0.05,36,0,0,True,coupon,"T, age_bin, coupon, destination, dist, habit_match, passenger, weather",1.0259179814359738,0.6732329990888598,-11.105036120473727

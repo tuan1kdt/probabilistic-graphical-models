@@ -1,0 +1,1441 @@
+CoffeeHouse,T,coupon,destination,passenger,weather,p1
+high,0,Bar,Home,Alone,Rainy,0.46154873164218957
+high,0,Bar,Home,Alone,Snowy,0.5
+high,0,Bar,Home,Alone,Sunny,0.6969489742240926
+high,0,Bar,Home,Friend(s),Rainy,0.5
+high,0,Bar,Home,Friend(s),Snowy,0.5
+high,0,Bar,Home,Friend(s),Sunny,0.5
+high,0,Bar,Home,Kid(s),Rainy,0.5
+high,0,Bar,Home,Kid(s),Snowy,0.5
+high,0,Bar,Home,Kid(s),Sunny,0.5
+high,0,Bar,Home,Partner,Rainy,0.0017301038062283735
+high,0,Bar,Home,Partner,Snowy,0.5
+high,0,Bar,Home,Partner,Sunny,0.6664739884393064
+high,0,Bar,No Urgent Place,Alone,Rainy,0.42106705645898046
+high,0,Bar,No Urgent Place,Alone,Snowy,0.2857674187949417
+high,0,Bar,No Urgent Place,Alone,Sunny,0.5999768572089794
+high,0,Bar,No Urgent Place,Friend(s),Rainy,0.5
+high,0,Bar,No Urgent Place,Friend(s),Snowy,0.5
+high,0,Bar,No Urgent Place,Friend(s),Sunny,0.5937398285776283
+high,0,Bar,No Urgent Place,Kid(s),Rainy,0.00028918449971081553
+high,0,Bar,No Urgent Place,Kid(s),Snowy,0.2500723170378941
+high,0,Bar,No Urgent Place,Kid(s),Sunny,0.2501084598698482
+high,0,Bar,No Urgent Place,Partner,Rainy,0.5
+high,0,Bar,No Urgent Place,Partner,Snowy,0.0017301038062283735
+high,0,Bar,No Urgent Place,Partner,Sunny,0.7498915401301519
+high,0,Bar,Work,Alone,Rainy,0.5
+high,0,Bar,Work,Alone,Snowy,0.5
+high,0,Bar,Work,Alone,Sunny,0.5
+high,0,Bar,Work,Friend(s),Rainy,0.5
+high,0,Bar,Work,Friend(s),Snowy,0.5
+high,0,Bar,Work,Friend(s),Sunny,0.5
+high,0,Bar,Work,Kid(s),Rainy,0.5
+high,0,Bar,Work,Kid(s),Snowy,0.5
+high,0,Bar,Work,Kid(s),Sunny,0.5
+high,0,Bar,Work,Partner,Rainy,0.5
+high,0,Bar,Work,Partner,Snowy,0.5
+high,0,Bar,Work,Partner,Sunny,0.5
+high,0,Carry out & Take away,Home,Alone,Rainy,0.5
+high,0,Carry out & Take away,Home,Alone,Snowy,0.7691588785046729
+high,0,Carry out & Take away,Home,Alone,Sunny,0.8792876384316073
+high,0,Carry out & Take away,Home,Friend(s),Rainy,0.5
+high,0,Carry out & Take away,Home,Friend(s),Snowy,0.5
+high,0,Carry out & Take away,Home,Friend(s),Sunny,0.5
+high,0,Carry out & Take away,Home,Kid(s),Rainy,0.5
+high,0,Carry out & Take away,Home,Kid(s),Snowy,0.5
+high,0,Carry out & Take away,Home,Kid(s),Sunny,0.5
+high,0,Carry out & Take away,Home,Partner,Rainy,0.999421965317919
+high,0,Carry out & Take away,Home,Partner,Snowy,0.5
+high,0,Carry out & Take away,Home,Partner,Sunny,0.5
+high,0,Carry out & Take away,No Urgent Place,Alone,Rainy,0.5
+high,0,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+high,0,Carry out & Take away,No Urgent Place,Alone,Sunny,0.9996530187369883
+high,0,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+high,0,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.6153692081719856
+high,0,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.8181567111181252
+high,0,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.5
+high,0,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+high,0,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.999566348655681
+high,0,Carry out & Take away,No Urgent Place,Partner,Rainy,0.9982698961937716
+high,0,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+high,0,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+high,0,Carry out & Take away,Work,Alone,Rainy,0.7894207929837384
+high,0,Carry out & Take away,Work,Alone,Snowy,0.7142325812050583
+high,0,Carry out & Take away,Work,Alone,Sunny,0.7316876958252181
+high,0,Carry out & Take away,Work,Friend(s),Rainy,0.5
+high,0,Carry out & Take away,Work,Friend(s),Snowy,0.5
+high,0,Carry out & Take away,Work,Friend(s),Sunny,0.5
+high,0,Carry out & Take away,Work,Kid(s),Rainy,0.5
+high,0,Carry out & Take away,Work,Kid(s),Snowy,0.5
+high,0,Carry out & Take away,Work,Kid(s),Sunny,0.5
+high,0,Carry out & Take away,Work,Partner,Rainy,0.5
+high,0,Carry out & Take away,Work,Partner,Snowy,0.5
+high,0,Carry out & Take away,Work,Partner,Sunny,0.5
+high,0,Coffee House,Home,Alone,Rainy,0.40006939625260235
+high,0,Coffee House,Home,Alone,Snowy,0.5
+high,0,Coffee House,Home,Alone,Sunny,0.8823138976820177
+high,0,Coffee House,Home,Friend(s),Rainy,0.5
+high,0,Coffee House,Home,Friend(s),Snowy,0.5
+high,0,Coffee House,Home,Friend(s),Sunny,0.5
+high,0,Coffee House,Home,Kid(s),Rainy,0.5
+high,0,Coffee House,Home,Kid(s),Snowy,0.5
+high,0,Coffee House,Home,Kid(s),Sunny,0.5
+high,0,Coffee House,Home,Partner,Rainy,0.9991334488734835
+high,0,Coffee House,Home,Partner,Snowy,0.5
+high,0,Coffee House,Home,Partner,Sunny,0.9991334488734835
+high,0,Coffee House,No Urgent Place,Alone,Rainy,0.8570543020084305
+high,0,Coffee House,No Urgent Place,Alone,Snowy,0.5
+high,0,Coffee House,No Urgent Place,Alone,Sunny,0.7894207929837384
+high,0,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+high,0,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+high,0,Coffee House,No Urgent Place,Friend(s),Sunny,0.8023133755904558
+high,0,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+high,0,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+high,0,Coffee House,No Urgent Place,Kid(s),Sunny,0.8181316080164116
+high,0,Coffee House,No Urgent Place,Partner,Rainy,0.5
+high,0,Coffee House,No Urgent Place,Partner,Snowy,0.5
+high,0,Coffee House,No Urgent Place,Partner,Sunny,0.9997521070897373
+high,0,Coffee House,Work,Alone,Rainy,0.5
+high,0,Coffee House,Work,Alone,Snowy,0.8420427553444181
+high,0,Coffee House,Work,Alone,Sunny,0.7499728762070088
+high,0,Coffee House,Work,Friend(s),Rainy,0.5
+high,0,Coffee House,Work,Friend(s),Snowy,0.5
+high,0,Coffee House,Work,Friend(s),Sunny,0.5
+high,0,Coffee House,Work,Kid(s),Rainy,0.5
+high,0,Coffee House,Work,Kid(s),Snowy,0.5
+high,0,Coffee House,Work,Kid(s),Sunny,0.5
+high,0,Coffee House,Work,Partner,Rainy,0.5
+high,0,Coffee House,Work,Partner,Snowy,0.5
+high,0,Coffee House,Work,Partner,Sunny,0.5
+high,0,Restaurant(20-50),Home,Alone,Rainy,0.5
+high,0,Restaurant(20-50),Home,Alone,Snowy,0.5
+high,0,Restaurant(20-50),Home,Alone,Sunny,0.5810772767794304
+high,0,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+high,0,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+high,0,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+high,0,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+high,0,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+high,0,Restaurant(20-50),Home,Kid(s),Sunny,0.33342972816657035
+high,0,Restaurant(20-50),Home,Partner,Rainy,0.5
+high,0,Restaurant(20-50),Home,Partner,Snowy,0.5
+high,0,Restaurant(20-50),Home,Partner,Sunny,0.5
+high,0,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.0017301038062283735
+high,0,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.40006939625260235
+high,0,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.46154873164218957
+high,0,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+high,0,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.888738912456614
+high,0,Restaurant(20-50),Work,Alone,Rainy,0.20020818875780713
+high,0,Restaurant(20-50),Work,Alone,Snowy,0.3077436582109479
+high,0,Restaurant(20-50),Work,Alone,Sunny,0.4000138869601444
+high,0,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+high,0,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+high,0,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+high,0,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+high,0,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+high,0,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+high,0,Restaurant(20-50),Work,Partner,Rainy,0.5
+high,0,Restaurant(20-50),Work,Partner,Snowy,0.5
+high,0,Restaurant(20-50),Work,Partner,Sunny,0.5
+high,0,Restaurant(<20),Home,Alone,Rainy,0.5
+high,0,Restaurant(<20),Home,Alone,Snowy,0.5
+high,0,Restaurant(<20),Home,Alone,Sunny,0.7142325812050583
+high,0,Restaurant(<20),Home,Friend(s),Rainy,0.5
+high,0,Restaurant(<20),Home,Friend(s),Snowy,0.5
+high,0,Restaurant(<20),Home,Friend(s),Sunny,0.5
+high,0,Restaurant(<20),Home,Kid(s),Rainy,0.5
+high,0,Restaurant(<20),Home,Kid(s),Snowy,0.5
+high,0,Restaurant(<20),Home,Kid(s),Sunny,0.5
+high,0,Restaurant(<20),Home,Partner,Rainy,0.5
+high,0,Restaurant(<20),Home,Partner,Snowy,0.5
+high,0,Restaurant(<20),Home,Partner,Sunny,0.799791811242193
+high,0,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+high,0,Restaurant(<20),No Urgent Place,Alone,Snowy,0.8332369106161411
+high,0,Restaurant(<20),No Urgent Place,Alone,Sunny,0.7948455443781715
+high,0,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.5
+high,0,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.8420427553444181
+high,0,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.9411314204023281
+high,0,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+high,0,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+high,0,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.8946647177050978
+high,0,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5
+high,0,Restaurant(<20),No Urgent Place,Partner,Snowy,0.6664739884393064
+high,0,Restaurant(<20),No Urgent Place,Partner,Sunny,0.5999306037473976
+high,0,Restaurant(<20),Work,Alone,Rainy,0.5
+high,0,Restaurant(<20),Work,Alone,Snowy,0.5
+high,0,Restaurant(<20),Work,Alone,Sunny,0.627896649172386
+high,0,Restaurant(<20),Work,Friend(s),Rainy,0.5
+high,0,Restaurant(<20),Work,Friend(s),Snowy,0.5
+high,0,Restaurant(<20),Work,Friend(s),Sunny,0.5
+high,0,Restaurant(<20),Work,Kid(s),Rainy,0.5
+high,0,Restaurant(<20),Work,Kid(s),Snowy,0.5
+high,0,Restaurant(<20),Work,Kid(s),Sunny,0.5
+high,0,Restaurant(<20),Work,Partner,Rainy,0.5
+high,0,Restaurant(<20),Work,Partner,Snowy,0.5
+high,0,Restaurant(<20),Work,Partner,Sunny,0.5
+high,1,Bar,Home,Alone,Rainy,0.5
+high,1,Bar,Home,Alone,Snowy,0.5
+high,1,Bar,Home,Alone,Sunny,0.21435655839325565
+high,1,Bar,Home,Friend(s),Rainy,0.5
+high,1,Bar,Home,Friend(s),Snowy,0.5
+high,1,Bar,Home,Friend(s),Sunny,0.5
+high,1,Bar,Home,Kid(s),Rainy,0.5
+high,1,Bar,Home,Kid(s),Snowy,0.5
+high,1,Bar,Home,Kid(s),Sunny,0.5
+high,1,Bar,Home,Partner,Rainy,0.5
+high,1,Bar,Home,Partner,Snowy,0.5
+high,1,Bar,Home,Partner,Sunny,0.6665702718334298
+high,1,Bar,No Urgent Place,Alone,Rainy,0.5
+high,1,Bar,No Urgent Place,Alone,Snowy,0.5
+high,1,Bar,No Urgent Place,Alone,Sunny,0.5
+high,1,Bar,No Urgent Place,Friend(s),Rainy,0.3077436582109479
+high,1,Bar,No Urgent Place,Friend(s),Snowy,0.5
+high,1,Bar,No Urgent Place,Friend(s),Sunny,0.5789329435410195
+high,1,Bar,No Urgent Place,Kid(s),Rainy,0.5
+high,1,Bar,No Urgent Place,Kid(s),Snowy,0.5
+high,1,Bar,No Urgent Place,Kid(s),Sunny,0.5
+high,1,Bar,No Urgent Place,Partner,Rainy,0.6664739884393064
+high,1,Bar,No Urgent Place,Partner,Snowy,0.5
+high,1,Bar,No Urgent Place,Partner,Sunny,0.28582052553296977
+high,1,Bar,Work,Alone,Rainy,0.5
+high,1,Bar,Work,Alone,Snowy,0.5
+high,1,Bar,Work,Alone,Sunny,0.5
+high,1,Bar,Work,Friend(s),Rainy,0.5
+high,1,Bar,Work,Friend(s),Snowy,0.5
+high,1,Bar,Work,Friend(s),Sunny,0.5
+high,1,Bar,Work,Kid(s),Rainy,0.5
+high,1,Bar,Work,Kid(s),Snowy,0.5
+high,1,Bar,Work,Kid(s),Sunny,0.5
+high,1,Bar,Work,Partner,Rainy,0.5
+high,1,Bar,Work,Partner,Snowy,0.5
+high,1,Bar,Work,Partner,Sunny,0.5
+high,1,Carry out & Take away,Home,Alone,Rainy,0.5
+high,1,Carry out & Take away,Home,Alone,Snowy,0.5
+high,1,Carry out & Take away,Home,Alone,Sunny,0.812466095258761
+high,1,Carry out & Take away,Home,Friend(s),Rainy,0.5
+high,1,Carry out & Take away,Home,Friend(s),Snowy,0.5
+high,1,Carry out & Take away,Home,Friend(s),Sunny,0.5
+high,1,Carry out & Take away,Home,Kid(s),Rainy,0.5
+high,1,Carry out & Take away,Home,Kid(s),Snowy,0.5
+high,1,Carry out & Take away,Home,Kid(s),Sunny,0.5
+high,1,Carry out & Take away,Home,Partner,Rainy,0.5
+high,1,Carry out & Take away,Home,Partner,Snowy,0.5
+high,1,Carry out & Take away,Home,Partner,Sunny,0.6665702718334298
+high,1,Carry out & Take away,No Urgent Place,Alone,Rainy,0.6666184553080706
+high,1,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+high,1,Carry out & Take away,No Urgent Place,Alone,Sunny,0.5
+high,1,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+high,1,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.5
+high,1,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.5454509587311608
+high,1,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.6665702718334298
+high,1,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+high,1,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.2501084598698482
+high,1,Carry out & Take away,No Urgent Place,Partner,Rainy,0.5
+high,1,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+high,1,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+high,1,Carry out & Take away,Work,Alone,Rainy,0.2857674187949417
+high,1,Carry out & Take away,Work,Alone,Snowy,0.5
+high,1,Carry out & Take away,Work,Alone,Sunny,0.6399805582557978
+high,1,Carry out & Take away,Work,Friend(s),Rainy,0.5
+high,1,Carry out & Take away,Work,Friend(s),Snowy,0.5
+high,1,Carry out & Take away,Work,Friend(s),Sunny,0.5
+high,1,Carry out & Take away,Work,Kid(s),Rainy,0.5
+high,1,Carry out & Take away,Work,Kid(s),Snowy,0.5
+high,1,Carry out & Take away,Work,Kid(s),Sunny,0.5
+high,1,Carry out & Take away,Work,Partner,Rainy,0.5
+high,1,Carry out & Take away,Work,Partner,Snowy,0.5
+high,1,Carry out & Take away,Work,Partner,Sunny,0.5
+high,1,Coffee House,Home,Alone,Rainy,0.2632011693769413
+high,1,Coffee House,Home,Alone,Snowy,0.21057920701626165
+high,1,Coffee House,Home,Alone,Sunny,0.4523848888154088
+high,1,Coffee House,Home,Friend(s),Rainy,0.5
+high,1,Coffee House,Home,Friend(s),Snowy,0.5
+high,1,Coffee House,Home,Friend(s),Sunny,0.5
+high,1,Coffee House,Home,Kid(s),Rainy,0.5
+high,1,Coffee House,Home,Kid(s),Snowy,0.5
+high,1,Coffee House,Home,Kid(s),Sunny,0.5
+high,1,Coffee House,Home,Partner,Rainy,0.5
+high,1,Coffee House,Home,Partner,Snowy,0.5
+high,1,Coffee House,Home,Partner,Sunny,0.5
+high,1,Coffee House,No Urgent Place,Alone,Rainy,0.5
+high,1,Coffee House,No Urgent Place,Alone,Snowy,0.5
+high,1,Coffee House,No Urgent Place,Alone,Sunny,0.6249891502473743
+high,1,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+high,1,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+high,1,Coffee House,No Urgent Place,Friend(s),Sunny,0.5869532399894327
+high,1,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+high,1,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+high,1,Coffee House,No Urgent Place,Kid(s),Sunny,0.5
+high,1,Coffee House,No Urgent Place,Partner,Rainy,0.5
+high,1,Coffee House,No Urgent Place,Partner,Snowy,0.5
+high,1,Coffee House,No Urgent Place,Partner,Sunny,0.9998422215209846
+high,1,Coffee House,Work,Alone,Rainy,0.5
+high,1,Coffee House,Work,Alone,Snowy,0.5
+high,1,Coffee House,Work,Alone,Sunny,0.548778422322903
+high,1,Coffee House,Work,Friend(s),Rainy,0.5
+high,1,Coffee House,Work,Friend(s),Snowy,0.5
+high,1,Coffee House,Work,Friend(s),Sunny,0.5
+high,1,Coffee House,Work,Kid(s),Rainy,0.5
+high,1,Coffee House,Work,Kid(s),Snowy,0.5
+high,1,Coffee House,Work,Kid(s),Sunny,0.5
+high,1,Coffee House,Work,Partner,Rainy,0.5
+high,1,Coffee House,Work,Partner,Snowy,0.5
+high,1,Coffee House,Work,Partner,Sunny,0.5
+high,1,Restaurant(20-50),Home,Alone,Rainy,0.5
+high,1,Restaurant(20-50),Home,Alone,Snowy,0.07703604806408546
+high,1,Restaurant(20-50),Home,Alone,Sunny,0.28582052553296977
+high,1,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+high,1,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+high,1,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+high,1,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+high,1,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+high,1,Restaurant(20-50),Home,Kid(s),Sunny,0.36367939413064054
+high,1,Restaurant(20-50),Home,Partner,Rainy,0.5
+high,1,Restaurant(20-50),Home,Partner,Snowy,0.5
+high,1,Restaurant(20-50),Home,Partner,Sunny,0.5
+high,1,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.5
+high,1,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5999306037473976
+high,1,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.23084112149532712
+high,1,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.16685945633314056
+high,1,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.0017301038062283735
+high,1,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+high,1,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.6664739884393064
+high,1,Restaurant(20-50),Work,Alone,Rainy,0.5
+high,1,Restaurant(20-50),Work,Alone,Snowy,0.5
+high,1,Restaurant(20-50),Work,Alone,Sunny,0.29632248939179634
+high,1,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+high,1,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+high,1,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+high,1,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+high,1,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+high,1,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+high,1,Restaurant(20-50),Work,Partner,Rainy,0.5
+high,1,Restaurant(20-50),Work,Partner,Snowy,0.5
+high,1,Restaurant(20-50),Work,Partner,Sunny,0.5
+high,1,Restaurant(<20),Home,Alone,Rainy,0.5
+high,1,Restaurant(<20),Home,Alone,Snowy,0.21435655839325565
+high,1,Restaurant(<20),Home,Alone,Sunny,0.7187262666811327
+high,1,Restaurant(<20),Home,Friend(s),Rainy,0.5
+high,1,Restaurant(<20),Home,Friend(s),Snowy,0.5
+high,1,Restaurant(<20),Home,Friend(s),Sunny,0.5
+high,1,Restaurant(<20),Home,Kid(s),Rainy,0.5
+high,1,Restaurant(<20),Home,Kid(s),Snowy,0.5
+high,1,Restaurant(<20),Home,Kid(s),Sunny,0.5
+high,1,Restaurant(<20),Home,Partner,Rainy,0.5
+high,1,Restaurant(<20),Home,Partner,Snowy,0.5
+high,1,Restaurant(<20),Home,Partner,Sunny,0.6664739884393064
+high,1,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+high,1,Restaurant(<20),No Urgent Place,Alone,Snowy,0.5
+high,1,Restaurant(<20),No Urgent Place,Alone,Sunny,0.7777420599202778
+high,1,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.9982698961937716
+high,1,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.5
+high,1,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.6794791898508792
+high,1,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+high,1,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+high,1,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.5555448408871746
+high,1,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5
+high,1,Restaurant(<20),No Urgent Place,Partner,Snowy,0.5
+high,1,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9996530187369883
+high,1,Restaurant(<20),Work,Alone,Rainy,0.4000138869601444
+high,1,Restaurant(<20),Work,Alone,Snowy,0.3571782791966278
+high,1,Restaurant(<20),Work,Alone,Sunny,0.5
+high,1,Restaurant(<20),Work,Friend(s),Rainy,0.5
+high,1,Restaurant(<20),Work,Friend(s),Snowy,0.5
+high,1,Restaurant(<20),Work,Friend(s),Sunny,0.5
+high,1,Restaurant(<20),Work,Kid(s),Rainy,0.5
+high,1,Restaurant(<20),Work,Kid(s),Snowy,0.5
+high,1,Restaurant(<20),Work,Kid(s),Sunny,0.5
+high,1,Restaurant(<20),Work,Partner,Rainy,0.5
+high,1,Restaurant(<20),Work,Partner,Snowy,0.5
+high,1,Restaurant(<20),Work,Partner,Sunny,0.5
+low,0,Bar,Home,Alone,Rainy,0.300017359604201
+low,0,Bar,Home,Alone,Snowy,0.5
+low,0,Bar,Home,Alone,Sunny,0.5324660684492943
+low,0,Bar,Home,Friend(s),Rainy,0.5
+low,0,Bar,Home,Friend(s),Snowy,0.5
+low,0,Bar,Home,Friend(s),Sunny,0.5
+low,0,Bar,Home,Kid(s),Rainy,0.5
+low,0,Bar,Home,Kid(s),Snowy,0.5
+low,0,Bar,Home,Kid(s),Sunny,0.5
+low,0,Bar,Home,Partner,Rainy,0.0017301038062283735
+low,0,Bar,Home,Partner,Snowy,0.5
+low,0,Bar,Home,Partner,Sunny,0.3571782791966278
+low,0,Bar,No Urgent Place,Alone,Rainy,0.23336419395903252
+low,0,Bar,No Urgent Place,Alone,Snowy,0.2250238694557764
+low,0,Bar,No Urgent Place,Alone,Sunny,0.3809622220385219
+low,0,Bar,No Urgent Place,Friend(s),Rainy,0.5
+low,0,Bar,No Urgent Place,Friend(s),Snowy,0.5
+low,0,Bar,No Urgent Place,Friend(s),Sunny,0.49090966479388926
+low,0,Bar,No Urgent Place,Kid(s),Rainy,0.09103818239192175
+low,0,Bar,No Urgent Place,Kid(s),Snowy,0.0909736468360423
+low,0,Bar,No Urgent Place,Kid(s),Sunny,0.04354716981132076
+low,0,Bar,No Urgent Place,Partner,Rainy,0.5
+low,0,Bar,No Urgent Place,Partner,Snowy,0.0017301038062283735
+low,0,Bar,No Urgent Place,Partner,Sunny,0.4473732297852901
+low,0,Bar,Work,Alone,Rainy,0.5
+low,0,Bar,Work,Alone,Snowy,0.5
+low,0,Bar,Work,Alone,Sunny,0.5
+low,0,Bar,Work,Friend(s),Rainy,0.5
+low,0,Bar,Work,Friend(s),Snowy,0.5
+low,0,Bar,Work,Friend(s),Sunny,0.5
+low,0,Bar,Work,Kid(s),Rainy,0.5
+low,0,Bar,Work,Kid(s),Snowy,0.5
+low,0,Bar,Work,Kid(s),Sunny,0.5
+low,0,Bar,Work,Partner,Rainy,0.5
+low,0,Bar,Work,Partner,Snowy,0.5
+low,0,Bar,Work,Partner,Sunny,0.5
+low,0,Carry out & Take away,Home,Alone,Rainy,0.5
+low,0,Carry out & Take away,Home,Alone,Snowy,0.7499276829621059
+low,0,Carry out & Take away,Home,Alone,Sunny,0.765617794656178
+low,0,Carry out & Take away,Home,Friend(s),Rainy,0.5
+low,0,Carry out & Take away,Home,Friend(s),Snowy,0.5
+low,0,Carry out & Take away,Home,Friend(s),Sunny,0.5
+low,0,Carry out & Take away,Home,Kid(s),Rainy,0.5
+low,0,Carry out & Take away,Home,Kid(s),Snowy,0.5
+low,0,Carry out & Take away,Home,Kid(s),Sunny,0.5
+low,0,Carry out & Take away,Home,Partner,Rainy,0.7498915401301519
+low,0,Carry out & Take away,Home,Partner,Snowy,0.5
+low,0,Carry out & Take away,Home,Partner,Sunny,0.5
+low,0,Carry out & Take away,No Urgent Place,Alone,Rainy,0.5
+low,0,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+low,0,Carry out & Take away,No Urgent Place,Alone,Sunny,0.8946647177050978
+low,0,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+low,0,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.8593555037161612
+low,0,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.9114917806114611
+low,0,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.5
+low,0,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+low,0,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.7776706517547243
+low,0,Carry out & Take away,No Urgent Place,Partner,Rainy,0.9982698961937716
+low,0,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+low,0,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+low,0,Carry out & Take away,Work,Alone,Rainy,0.6666473787756046
+low,0,Carry out & Take away,Work,Alone,Snowy,0.6499869802968492
+low,0,Carry out & Take away,Work,Alone,Sunny,0.7767771336454102
+low,0,Carry out & Take away,Work,Friend(s),Rainy,0.5
+low,0,Carry out & Take away,Work,Friend(s),Snowy,0.5
+low,0,Carry out & Take away,Work,Friend(s),Sunny,0.5
+low,0,Carry out & Take away,Work,Kid(s),Rainy,0.5
+low,0,Carry out & Take away,Work,Kid(s),Snowy,0.5
+low,0,Carry out & Take away,Work,Kid(s),Sunny,0.5
+low,0,Carry out & Take away,Work,Partner,Rainy,0.5
+low,0,Carry out & Take away,Work,Partner,Snowy,0.5
+low,0,Carry out & Take away,Work,Partner,Sunny,0.5
+low,0,Coffee House,Home,Alone,Rainy,0.5454402019564532
+low,0,Coffee House,Home,Alone,Snowy,0.3030510257759074
+low,0,Coffee House,Home,Alone,Sunny,0.15117687431870483
+low,0,Coffee House,Home,Friend(s),Rainy,0.5
+low,0,Coffee House,Home,Friend(s),Snowy,0.5
+low,0,Coffee House,Home,Friend(s),Sunny,0.5
+low,0,Coffee House,Home,Kid(s),Rainy,0.5
+low,0,Coffee House,Home,Kid(s),Snowy,0.5
+low,0,Coffee House,Home,Kid(s),Sunny,0.5
+low,0,Coffee House,Home,Partner,Rainy,0.38464619492656876
+low,0,Coffee House,Home,Partner,Snowy,0.5
+low,0,Coffee House,Home,Partner,Sunny,0.4166907723459647
+low,0,Coffee House,No Urgent Place,Alone,Rainy,0.5384581144841093
+low,0,Coffee House,No Urgent Place,Alone,Snowy,0.5
+low,0,Coffee House,No Urgent Place,Alone,Sunny,0.5454509587311608
+low,0,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+low,0,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+low,0,Coffee House,No Urgent Place,Friend(s),Sunny,0.47887358382916295
+low,0,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+low,0,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+low,0,Coffee House,No Urgent Place,Kid(s),Sunny,0.31430413649439537
+low,0,Coffee House,No Urgent Place,Partner,Rainy,0.5
+low,0,Coffee House,No Urgent Place,Partner,Snowy,0.5
+low,0,Coffee House,No Urgent Place,Partner,Sunny,0.3513652998029464
+low,0,Coffee House,Work,Alone,Rainy,0.5
+low,0,Coffee House,Work,Alone,Snowy,0.5
+low,0,Coffee House,Work,Alone,Sunny,0.3333402223783739
+low,0,Coffee House,Work,Friend(s),Rainy,0.5
+low,0,Coffee House,Work,Friend(s),Snowy,0.5
+low,0,Coffee House,Work,Friend(s),Sunny,0.5
+low,0,Coffee House,Work,Kid(s),Rainy,0.5
+low,0,Coffee House,Work,Kid(s),Snowy,0.5
+low,0,Coffee House,Work,Kid(s),Sunny,0.5
+low,0,Coffee House,Work,Partner,Rainy,0.5
+low,0,Coffee House,Work,Partner,Snowy,0.5
+low,0,Coffee House,Work,Partner,Sunny,0.5
+low,0,Restaurant(20-50),Home,Alone,Rainy,0.5
+low,0,Restaurant(20-50),Home,Alone,Snowy,0.5
+low,0,Restaurant(20-50),Home,Alone,Sunny,0.4417190329108531
+low,0,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+low,0,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+low,0,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+low,0,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+low,0,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+low,0,Restaurant(20-50),Home,Kid(s),Sunny,0.5999652898299201
+low,0,Restaurant(20-50),Home,Partner,Rainy,0.5
+low,0,Restaurant(20-50),Home,Partner,Snowy,0.5
+low,0,Restaurant(20-50),Home,Partner,Sunny,0.5
+low,0,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.9982698961937716
+low,0,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.36844509409830073
+low,0,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.36844509409830073
+low,0,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+low,0,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.6285586747346493
+low,0,Restaurant(20-50),Work,Alone,Rainy,0.45455979804354685
+low,0,Restaurant(20-50),Work,Alone,Snowy,0.4375067809482478
+low,0,Restaurant(20-50),Work,Alone,Sunny,0.5161281290250322
+low,0,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+low,0,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+low,0,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+low,0,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+low,0,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+low,0,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+low,0,Restaurant(20-50),Work,Partner,Rainy,0.5
+low,0,Restaurant(20-50),Work,Partner,Snowy,0.5
+low,0,Restaurant(20-50),Work,Partner,Sunny,0.5
+low,0,Restaurant(<20),Home,Alone,Rainy,0.5
+low,0,Restaurant(<20),Home,Alone,Snowy,0.5
+low,0,Restaurant(<20),Home,Alone,Sunny,0.8499696206926481
+low,0,Restaurant(<20),Home,Friend(s),Rainy,0.5
+low,0,Restaurant(<20),Home,Friend(s),Snowy,0.5
+low,0,Restaurant(<20),Home,Friend(s),Sunny,0.5
+low,0,Restaurant(<20),Home,Kid(s),Rainy,0.5
+low,0,Restaurant(<20),Home,Kid(s),Snowy,0.5
+low,0,Restaurant(<20),Home,Kid(s),Sunny,0.5
+low,0,Restaurant(<20),Home,Partner,Rainy,0.5
+low,0,Restaurant(<20),Home,Partner,Snowy,0.5
+low,0,Restaurant(<20),Home,Partner,Sunny,0.6666391139031245
+low,0,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+low,0,Restaurant(<20),No Urgent Place,Alone,Snowy,0.6666184553080706
+low,0,Restaurant(<20),No Urgent Place,Alone,Sunny,0.8431255744289751
+low,0,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.5
+low,0,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.6999768545307257
+low,0,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.9350453172205437
+low,0,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+low,0,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+low,0,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.6908970393283252
+low,0,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5
+low,0,Restaurant(<20),No Urgent Place,Partner,Snowy,0.6249457700650759
+low,0,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9031806473289282
+low,0,Restaurant(<20),Work,Alone,Rainy,0.5
+low,0,Restaurant(<20),Work,Alone,Snowy,0.27279899021773435
+low,0,Restaurant(<20),Work,Alone,Sunny,0.8482034907151936
+low,0,Restaurant(<20),Work,Friend(s),Rainy,0.5
+low,0,Restaurant(<20),Work,Friend(s),Snowy,0.5
+low,0,Restaurant(<20),Work,Friend(s),Sunny,0.5
+low,0,Restaurant(<20),Work,Kid(s),Rainy,0.5
+low,0,Restaurant(<20),Work,Kid(s),Snowy,0.5
+low,0,Restaurant(<20),Work,Kid(s),Sunny,0.5
+low,0,Restaurant(<20),Work,Partner,Rainy,0.5
+low,0,Restaurant(<20),Work,Partner,Snowy,0.5
+low,0,Restaurant(<20),Work,Partner,Sunny,0.5
+low,1,Bar,Home,Alone,Rainy,0.5
+low,1,Bar,Home,Alone,Snowy,0.5
+low,1,Bar,Home,Alone,Sunny,0.42425039452919516
+low,1,Bar,Home,Friend(s),Rainy,0.5
+low,1,Bar,Home,Friend(s),Snowy,0.5
+low,1,Bar,Home,Friend(s),Sunny,0.5
+low,1,Bar,Home,Kid(s),Rainy,0.5
+low,1,Bar,Home,Kid(s),Snowy,0.5
+low,1,Bar,Home,Kid(s),Sunny,0.8569657907783838
+low,1,Bar,Home,Partner,Rainy,0.5
+low,1,Bar,Home,Partner,Snowy,0.5
+low,1,Bar,Home,Partner,Sunny,0.18191858630482804
+low,1,Bar,No Urgent Place,Alone,Rainy,0.5
+low,1,Bar,No Urgent Place,Alone,Snowy,0.5
+low,1,Bar,No Urgent Place,Alone,Sunny,0.5
+low,1,Bar,No Urgent Place,Friend(s),Rainy,0.6562330476293805
+low,1,Bar,No Urgent Place,Friend(s),Snowy,0.5
+low,1,Bar,No Urgent Place,Friend(s),Sunny,0.5
+low,1,Bar,No Urgent Place,Kid(s),Rainy,0.5
+low,1,Bar,No Urgent Place,Kid(s),Snowy,0.5
+low,1,Bar,No Urgent Place,Kid(s),Sunny,0.0001928268414963363
+low,1,Bar,No Urgent Place,Partner,Rainy,0.12516268980477224
+low,1,Bar,No Urgent Place,Partner,Snowy,0.5
+low,1,Bar,No Urgent Place,Partner,Sunny,0.39395055234087323
+low,1,Bar,Work,Alone,Rainy,0.5
+low,1,Bar,Work,Alone,Snowy,0.5
+low,1,Bar,Work,Alone,Sunny,0.5
+low,1,Bar,Work,Friend(s),Rainy,0.5
+low,1,Bar,Work,Friend(s),Snowy,0.5
+low,1,Bar,Work,Friend(s),Sunny,0.5
+low,1,Bar,Work,Kid(s),Rainy,0.5
+low,1,Bar,Work,Kid(s),Snowy,0.5
+low,1,Bar,Work,Kid(s),Sunny,0.5
+low,1,Bar,Work,Partner,Rainy,0.5
+low,1,Bar,Work,Partner,Snowy,0.5
+low,1,Bar,Work,Partner,Sunny,0.5
+low,1,Carry out & Take away,Home,Alone,Rainy,0.5
+low,1,Carry out & Take away,Home,Alone,Snowy,0.5
+low,1,Carry out & Take away,Home,Alone,Sunny,0.7741781934255474
+low,1,Carry out & Take away,Home,Friend(s),Rainy,0.5
+low,1,Carry out & Take away,Home,Friend(s),Snowy,0.5
+low,1,Carry out & Take away,Home,Friend(s),Sunny,0.5
+low,1,Carry out & Take away,Home,Kid(s),Rainy,0.5
+low,1,Carry out & Take away,Home,Kid(s),Snowy,0.5
+low,1,Carry out & Take away,Home,Kid(s),Sunny,0.4286068418443233
+low,1,Carry out & Take away,Home,Partner,Rainy,0.5
+low,1,Carry out & Take away,Home,Partner,Snowy,0.5
+low,1,Carry out & Take away,Home,Partner,Sunny,0.7272010097822658
+low,1,Carry out & Take away,No Urgent Place,Alone,Rainy,0.6666184553080706
+low,1,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+low,1,Carry out & Take away,No Urgent Place,Alone,Sunny,0.5
+low,1,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+low,1,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.5
+low,1,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.6739064799788655
+low,1,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.9089618176080783
+low,1,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+low,1,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.8260377358490566
+low,1,Carry out & Take away,No Urgent Place,Partner,Rainy,0.6666184553080706
+low,1,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+low,1,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+low,1,Carry out & Take away,Work,Alone,Rainy,0.27501952955472614
+low,1,Carry out & Take away,Work,Alone,Snowy,0.5
+low,1,Carry out & Take away,Work,Alone,Sunny,0.6935375483003864
+low,1,Carry out & Take away,Work,Friend(s),Rainy,0.5
+low,1,Carry out & Take away,Work,Friend(s),Snowy,0.5
+low,1,Carry out & Take away,Work,Friend(s),Sunny,0.5
+low,1,Carry out & Take away,Work,Kid(s),Rainy,0.5
+low,1,Carry out & Take away,Work,Kid(s),Snowy,0.5
+low,1,Carry out & Take away,Work,Kid(s),Sunny,0.5
+low,1,Carry out & Take away,Work,Partner,Rainy,0.5
+low,1,Carry out & Take away,Work,Partner,Snowy,0.5
+low,1,Carry out & Take away,Work,Partner,Sunny,0.5
+low,1,Coffee House,Home,Alone,Rainy,0.2666936697141534
+low,1,Coffee House,Home,Alone,Snowy,0.10004629093854878
+low,1,Coffee House,Home,Alone,Sunny,0.1238219635594061
+low,1,Coffee House,Home,Friend(s),Rainy,0.5
+low,1,Coffee House,Home,Friend(s),Snowy,0.5
+low,1,Coffee House,Home,Friend(s),Sunny,0.5
+low,1,Coffee House,Home,Kid(s),Rainy,0.5
+low,1,Coffee House,Home,Kid(s),Snowy,0.5
+low,1,Coffee House,Home,Kid(s),Sunny,0.5
+low,1,Coffee House,Home,Partner,Rainy,0.5
+low,1,Coffee House,Home,Partner,Snowy,0.5
+low,1,Coffee House,Home,Partner,Sunny,0.5
+low,1,Coffee House,No Urgent Place,Alone,Rainy,0.5
+low,1,Coffee House,No Urgent Place,Alone,Snowy,0.5
+low,1,Coffee House,No Urgent Place,Alone,Sunny,0.36082972402190644
+low,1,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+low,1,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+low,1,Coffee House,No Urgent Place,Friend(s),Sunny,0.39535052728476605
+low,1,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+low,1,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+low,1,Coffee House,No Urgent Place,Kid(s),Sunny,0.09379407616361073
+low,1,Coffee House,No Urgent Place,Partner,Rainy,0.5
+low,1,Coffee House,No Urgent Place,Partner,Snowy,0.5
+low,1,Coffee House,No Urgent Place,Partner,Sunny,0.43750452079566005
+low,1,Coffee House,Work,Alone,Rainy,0.5
+low,1,Coffee House,Work,Alone,Snowy,0.5
+low,1,Coffee House,Work,Alone,Sunny,0.2682966074422859
+low,1,Coffee House,Work,Friend(s),Rainy,0.5
+low,1,Coffee House,Work,Friend(s),Snowy,0.5
+low,1,Coffee House,Work,Friend(s),Sunny,0.5
+low,1,Coffee House,Work,Kid(s),Rainy,0.5
+low,1,Coffee House,Work,Kid(s),Snowy,0.5
+low,1,Coffee House,Work,Kid(s),Sunny,0.5
+low,1,Coffee House,Work,Partner,Rainy,0.5
+low,1,Coffee House,Work,Partner,Snowy,0.5
+low,1,Coffee House,Work,Partner,Sunny,0.5
+low,1,Restaurant(20-50),Home,Alone,Rainy,0.5
+low,1,Restaurant(20-50),Home,Alone,Snowy,0.21878051426711512
+low,1,Restaurant(20-50),Home,Alone,Sunny,0.12508136255152963
+low,1,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+low,1,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+low,1,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+low,1,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+low,1,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+low,1,Restaurant(20-50),Home,Kid(s),Sunny,0.22227579556412727
+low,1,Restaurant(20-50),Home,Partner,Rainy,0.5
+low,1,Restaurant(20-50),Home,Partner,Snowy,0.5
+low,1,Restaurant(20-50),Home,Partner,Sunny,0.5
+low,1,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.5
+low,1,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.2632011693769413
+low,1,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.5937398285776283
+low,1,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.0001577784790154623
+low,1,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.0017301038062283735
+low,1,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+low,1,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.5
+low,1,Restaurant(20-50),Work,Alone,Rainy,0.5
+low,1,Restaurant(20-50),Work,Alone,Snowy,0.5
+low,1,Restaurant(20-50),Work,Alone,Sunny,0.08698769718469317
+low,1,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+low,1,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+low,1,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+low,1,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+low,1,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+low,1,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+low,1,Restaurant(20-50),Work,Partner,Rainy,0.5
+low,1,Restaurant(20-50),Work,Partner,Snowy,0.5
+low,1,Restaurant(20-50),Work,Partner,Sunny,0.5
+low,1,Restaurant(<20),Home,Alone,Rainy,0.5
+low,1,Restaurant(<20),Home,Alone,Snowy,0.20515445562182855
+low,1,Restaurant(<20),Home,Alone,Sunny,0.5714256189806969
+low,1,Restaurant(<20),Home,Friend(s),Rainy,0.5
+low,1,Restaurant(<20),Home,Friend(s),Snowy,0.5
+low,1,Restaurant(<20),Home,Friend(s),Sunny,0.5
+low,1,Restaurant(<20),Home,Kid(s),Rainy,0.5
+low,1,Restaurant(<20),Home,Kid(s),Snowy,0.5
+low,1,Restaurant(<20),Home,Kid(s),Sunny,0.5
+low,1,Restaurant(<20),Home,Partner,Rainy,0.5
+low,1,Restaurant(<20),Home,Partner,Snowy,0.5
+low,1,Restaurant(<20),Home,Partner,Sunny,0.2501084598698482
+low,1,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+low,1,Restaurant(<20),No Urgent Place,Alone,Snowy,0.5
+low,1,Restaurant(<20),No Urgent Place,Alone,Sunny,0.586949958487433
+low,1,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.9982698961937716
+low,1,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.5
+low,1,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.7135095062029616
+low,1,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+low,1,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+low,1,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.5116269681065806
+low,1,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5833092276540353
+low,1,Restaurant(<20),No Urgent Place,Partner,Snowy,0.5
+low,1,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9284651624101166
+low,1,Restaurant(<20),Work,Alone,Rainy,0.2727452063441963
+low,1,Restaurant(<20),Work,Alone,Snowy,0.24245134139926353
+low,1,Restaurant(<20),Work,Alone,Sunny,0.5
+low,1,Restaurant(<20),Work,Friend(s),Rainy,0.5
+low,1,Restaurant(<20),Work,Friend(s),Snowy,0.5
+low,1,Restaurant(<20),Work,Friend(s),Sunny,0.5
+low,1,Restaurant(<20),Work,Kid(s),Rainy,0.5
+low,1,Restaurant(<20),Work,Kid(s),Snowy,0.5
+low,1,Restaurant(<20),Work,Kid(s),Sunny,0.5
+low,1,Restaurant(<20),Work,Partner,Rainy,0.5
+low,1,Restaurant(<20),Work,Partner,Snowy,0.5
+low,1,Restaurant(<20),Work,Partner,Sunny,0.5
+mid,0,Bar,Home,Alone,Rainy,0.26672066651238135
+mid,0,Bar,Home,Alone,Snowy,0.5
+mid,0,Bar,Home,Alone,Sunny,0.6666538075765759
+mid,0,Bar,Home,Friend(s),Rainy,0.5
+mid,0,Bar,Home,Friend(s),Snowy,0.5
+mid,0,Bar,Home,Friend(s),Sunny,0.5
+mid,0,Bar,Home,Kid(s),Rainy,0.5
+mid,0,Bar,Home,Kid(s),Snowy,0.5
+mid,0,Bar,Home,Kid(s),Sunny,0.5
+mid,0,Bar,Home,Partner,Rainy,0.5
+mid,0,Bar,Home,Partner,Snowy,0.5
+mid,0,Bar,Home,Partner,Sunny,0.33352601156069367
+mid,0,Bar,No Urgent Place,Alone,Rainy,0.5
+mid,0,Bar,No Urgent Place,Alone,Snowy,0.4000231427910206
+mid,0,Bar,No Urgent Place,Alone,Sunny,0.47059424137226874
+mid,0,Bar,No Urgent Place,Friend(s),Rainy,0.5
+mid,0,Bar,No Urgent Place,Friend(s),Snowy,0.5
+mid,0,Bar,No Urgent Place,Friend(s),Sunny,0.6551538369448102
+mid,0,Bar,No Urgent Place,Kid(s),Rainy,0.20020818875780713
+mid,0,Bar,No Urgent Place,Kid(s),Snowy,0.4000347101700798
+mid,0,Bar,No Urgent Place,Kid(s),Sunny,0.1765366550949561
+mid,0,Bar,No Urgent Place,Partner,Rainy,0.5
+mid,0,Bar,No Urgent Place,Partner,Snowy,0.5
+mid,0,Bar,No Urgent Place,Partner,Sunny,0.7777242044358728
+mid,0,Bar,Work,Alone,Rainy,0.5
+mid,0,Bar,Work,Alone,Snowy,0.5
+mid,0,Bar,Work,Alone,Sunny,0.5
+mid,0,Bar,Work,Friend(s),Rainy,0.5
+mid,0,Bar,Work,Friend(s),Snowy,0.5
+mid,0,Bar,Work,Friend(s),Sunny,0.5
+mid,0,Bar,Work,Kid(s),Rainy,0.5
+mid,0,Bar,Work,Kid(s),Snowy,0.5
+mid,0,Bar,Work,Kid(s),Sunny,0.5
+mid,0,Bar,Work,Partner,Rainy,0.5
+mid,0,Bar,Work,Partner,Snowy,0.5
+mid,0,Bar,Work,Partner,Sunny,0.5
+mid,0,Carry out & Take away,Home,Alone,Rainy,0.5
+mid,0,Carry out & Take away,Home,Alone,Snowy,0.999421965317919
+mid,0,Carry out & Take away,Home,Alone,Sunny,0.7894560516537735
+mid,0,Carry out & Take away,Home,Friend(s),Rainy,0.5
+mid,0,Carry out & Take away,Home,Friend(s),Snowy,0.5
+mid,0,Carry out & Take away,Home,Friend(s),Sunny,0.5
+mid,0,Carry out & Take away,Home,Kid(s),Rainy,0.5
+mid,0,Carry out & Take away,Home,Kid(s),Snowy,0.5
+mid,0,Carry out & Take away,Home,Kid(s),Sunny,0.5
+mid,0,Carry out & Take away,Home,Partner,Rainy,0.888738912456614
+mid,0,Carry out & Take away,Home,Partner,Snowy,0.5
+mid,0,Carry out & Take away,Home,Partner,Sunny,0.5
+mid,0,Carry out & Take away,No Urgent Place,Alone,Rainy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Alone,Sunny,0.8331405436668595
+mid,0,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.6333179030204837
+mid,0,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.9073812126277888
+mid,0,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.9982698961937716
+mid,0,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.799791811242193
+mid,0,Carry out & Take away,No Urgent Place,Partner,Rainy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+mid,0,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+mid,0,Carry out & Take away,Work,Alone,Rainy,0.5714108604016861
+mid,0,Carry out & Take away,Work,Alone,Snowy,0.7646518276495814
+mid,0,Carry out & Take away,Work,Alone,Sunny,0.7825873650841573
+mid,0,Carry out & Take away,Work,Friend(s),Rainy,0.5
+mid,0,Carry out & Take away,Work,Friend(s),Snowy,0.5
+mid,0,Carry out & Take away,Work,Friend(s),Sunny,0.5
+mid,0,Carry out & Take away,Work,Kid(s),Rainy,0.5
+mid,0,Carry out & Take away,Work,Kid(s),Snowy,0.5
+mid,0,Carry out & Take away,Work,Kid(s),Sunny,0.5
+mid,0,Carry out & Take away,Work,Partner,Rainy,0.5
+mid,0,Carry out & Take away,Work,Partner,Snowy,0.5
+mid,0,Carry out & Take away,Work,Partner,Sunny,0.5
+mid,0,Coffee House,Home,Alone,Rainy,0.9982698961937716
+mid,0,Coffee House,Home,Alone,Snowy,0.5294057586277313
+mid,0,Coffee House,Home,Alone,Sunny,0.5749934901484246
+mid,0,Coffee House,Home,Friend(s),Rainy,0.5
+mid,0,Coffee House,Home,Friend(s),Snowy,0.5
+mid,0,Coffee House,Home,Friend(s),Sunny,0.5
+mid,0,Coffee House,Home,Kid(s),Rainy,0.5
+mid,0,Coffee House,Home,Kid(s),Snowy,0.5
+mid,0,Coffee House,Home,Kid(s),Sunny,0.5
+mid,0,Coffee House,Home,Partner,Rainy,0.6664739884393064
+mid,0,Coffee House,Home,Partner,Snowy,0.5
+mid,0,Coffee House,Home,Partner,Sunny,0.5555341303509449
+mid,0,Coffee House,No Urgent Place,Alone,Rainy,0.7856434416067444
+mid,0,Coffee House,No Urgent Place,Alone,Snowy,0.5
+mid,0,Coffee House,No Urgent Place,Alone,Sunny,0.684176868262379
+mid,0,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+mid,0,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+mid,0,Coffee House,No Urgent Place,Friend(s),Sunny,0.805814933423226
+mid,0,Coffee House,No Urgent Place,Kid(s),Rainy,0.9982698961937716
+mid,0,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+mid,0,Coffee House,No Urgent Place,Kid(s),Sunny,0.8181316080164116
+mid,0,Coffee House,No Urgent Place,Partner,Rainy,0.5
+mid,0,Coffee House,No Urgent Place,Partner,Snowy,0.5
+mid,0,Coffee House,No Urgent Place,Partner,Sunny,0.6666184553080706
+mid,0,Coffee House,Work,Alone,Rainy,0.5
+mid,0,Coffee House,Work,Alone,Snowy,0.8570543020084305
+mid,0,Coffee House,Work,Alone,Sunny,0.8157606212882594
+mid,0,Coffee House,Work,Friend(s),Rainy,0.5
+mid,0,Coffee House,Work,Friend(s),Snowy,0.5
+mid,0,Coffee House,Work,Friend(s),Sunny,0.5
+mid,0,Coffee House,Work,Kid(s),Rainy,0.5
+mid,0,Coffee House,Work,Kid(s),Snowy,0.5
+mid,0,Coffee House,Work,Kid(s),Sunny,0.5
+mid,0,Coffee House,Work,Partner,Rainy,0.5
+mid,0,Coffee House,Work,Partner,Snowy,0.5
+mid,0,Coffee House,Work,Partner,Sunny,0.5
+mid,0,Restaurant(20-50),Home,Alone,Rainy,0.5
+mid,0,Restaurant(20-50),Home,Alone,Snowy,0.5
+mid,0,Restaurant(20-50),Home,Alone,Sunny,0.5866626545067358
+mid,0,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+mid,0,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+mid,0,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+mid,0,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+mid,0,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+mid,0,Restaurant(20-50),Home,Kid(s),Sunny,0.8331405436668595
+mid,0,Restaurant(20-50),Home,Partner,Rainy,0.5
+mid,0,Restaurant(20-50),Home,Partner,Snowy,0.5
+mid,0,Restaurant(20-50),Home,Partner,Sunny,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.999421965317919
+mid,0,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.9997108155002893
+mid,0,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.818081413695172
+mid,0,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+mid,0,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.7777242044358728
+mid,0,Restaurant(20-50),Work,Alone,Rainy,0.9982698961937716
+mid,0,Restaurant(20-50),Work,Alone,Snowy,0.4666743809303402
+mid,0,Restaurant(20-50),Work,Alone,Sunny,0.6052535404294198
+mid,0,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+mid,0,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+mid,0,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+mid,0,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+mid,0,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+mid,0,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+mid,0,Restaurant(20-50),Work,Partner,Rainy,0.5
+mid,0,Restaurant(20-50),Work,Partner,Snowy,0.5
+mid,0,Restaurant(20-50),Work,Partner,Sunny,0.5
+mid,0,Restaurant(<20),Home,Alone,Rainy,0.5
+mid,0,Restaurant(<20),Home,Alone,Snowy,0.5
+mid,0,Restaurant(<20),Home,Alone,Sunny,0.7058403103941189
+mid,0,Restaurant(<20),Home,Friend(s),Rainy,0.5
+mid,0,Restaurant(<20),Home,Friend(s),Snowy,0.5
+mid,0,Restaurant(<20),Home,Friend(s),Sunny,0.5
+mid,0,Restaurant(<20),Home,Kid(s),Rainy,0.5
+mid,0,Restaurant(<20),Home,Kid(s),Snowy,0.5
+mid,0,Restaurant(<20),Home,Kid(s),Sunny,0.5
+mid,0,Restaurant(<20),Home,Partner,Rainy,0.5
+mid,0,Restaurant(<20),Home,Partner,Snowy,0.5
+mid,0,Restaurant(<20),Home,Partner,Sunny,0.8332369106161411
+mid,0,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+mid,0,Restaurant(<20),No Urgent Place,Alone,Snowy,0.999421965317919
+mid,0,Restaurant(<20),No Urgent Place,Alone,Sunny,0.9622338683262365
+mid,0,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.5
+mid,0,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.8570543020084305
+mid,0,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.9999473961073119
+mid,0,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+mid,0,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+mid,0,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.8204842873675776
+mid,0,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5
+mid,0,Restaurant(<20),No Urgent Place,Partner,Snowy,0.888738912456614
+mid,0,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9284651624101166
+mid,0,Restaurant(<20),Work,Alone,Rainy,0.5
+mid,0,Restaurant(<20),Work,Alone,Snowy,0.999421965317919
+mid,0,Restaurant(<20),Work,Alone,Sunny,0.8333140443261385
+mid,0,Restaurant(<20),Work,Friend(s),Rainy,0.5
+mid,0,Restaurant(<20),Work,Friend(s),Snowy,0.5
+mid,0,Restaurant(<20),Work,Friend(s),Sunny,0.5
+mid,0,Restaurant(<20),Work,Kid(s),Rainy,0.5
+mid,0,Restaurant(<20),Work,Kid(s),Snowy,0.5
+mid,0,Restaurant(<20),Work,Kid(s),Sunny,0.5
+mid,0,Restaurant(<20),Work,Partner,Rainy,0.5
+mid,0,Restaurant(<20),Work,Partner,Snowy,0.5
+mid,0,Restaurant(<20),Work,Partner,Sunny,0.5
+mid,1,Bar,Home,Alone,Rainy,0.5
+mid,1,Bar,Home,Alone,Snowy,0.5
+mid,1,Bar,Home,Alone,Sunny,0.3529712068613437
+mid,1,Bar,Home,Friend(s),Rainy,0.5
+mid,1,Bar,Home,Friend(s),Snowy,0.5
+mid,1,Bar,Home,Friend(s),Sunny,0.5
+mid,1,Bar,Home,Kid(s),Rainy,0.5
+mid,1,Bar,Home,Kid(s),Snowy,0.5
+mid,1,Bar,Home,Kid(s),Sunny,0.33342972816657035
+mid,1,Bar,Home,Partner,Rainy,0.5
+mid,1,Bar,Home,Partner,Snowy,0.5
+mid,1,Bar,Home,Partner,Sunny,0.20020818875780713
+mid,1,Bar,No Urgent Place,Alone,Rainy,0.5
+mid,1,Bar,No Urgent Place,Alone,Snowy,0.5
+mid,1,Bar,No Urgent Place,Alone,Sunny,0.5
+mid,1,Bar,No Urgent Place,Friend(s),Rainy,0.5999768572089794
+mid,1,Bar,No Urgent Place,Friend(s),Snowy,0.5
+mid,1,Bar,No Urgent Place,Friend(s),Sunny,0.7142325812050583
+mid,1,Bar,No Urgent Place,Kid(s),Rainy,0.5
+mid,1,Bar,No Urgent Place,Kid(s),Snowy,0.5
+mid,1,Bar,No Urgent Place,Kid(s),Sunny,0.20020818875780713
+mid,1,Bar,No Urgent Place,Partner,Rainy,0.5555341303509449
+mid,1,Bar,No Urgent Place,Partner,Snowy,0.5
+mid,1,Bar,No Urgent Place,Partner,Sunny,0.4166907723459647
+mid,1,Bar,Work,Alone,Rainy,0.5
+mid,1,Bar,Work,Alone,Snowy,0.5
+mid,1,Bar,Work,Alone,Sunny,0.5
+mid,1,Bar,Work,Friend(s),Rainy,0.5
+mid,1,Bar,Work,Friend(s),Snowy,0.5
+mid,1,Bar,Work,Friend(s),Sunny,0.5
+mid,1,Bar,Work,Kid(s),Rainy,0.5
+mid,1,Bar,Work,Kid(s),Snowy,0.5
+mid,1,Bar,Work,Kid(s),Sunny,0.5
+mid,1,Bar,Work,Partner,Rainy,0.5
+mid,1,Bar,Work,Partner,Snowy,0.5
+mid,1,Bar,Work,Partner,Sunny,0.5
+mid,1,Carry out & Take away,Home,Alone,Rainy,0.5
+mid,1,Carry out & Take away,Home,Alone,Snowy,0.5
+mid,1,Carry out & Take away,Home,Alone,Sunny,0.8275469891057106
+mid,1,Carry out & Take away,Home,Friend(s),Rainy,0.5
+mid,1,Carry out & Take away,Home,Friend(s),Snowy,0.5
+mid,1,Carry out & Take away,Home,Friend(s),Sunny,0.5
+mid,1,Carry out & Take away,Home,Kid(s),Rainy,0.5
+mid,1,Carry out & Take away,Home,Kid(s),Snowy,0.5
+mid,1,Carry out & Take away,Home,Kid(s),Sunny,0.16685945633314056
+mid,1,Carry out & Take away,Home,Partner,Rainy,0.5
+mid,1,Carry out & Take away,Home,Partner,Snowy,0.5
+mid,1,Carry out & Take away,Home,Partner,Sunny,0.5999306037473976
+mid,1,Carry out & Take away,No Urgent Place,Alone,Rainy,0.6664739884393064
+mid,1,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+mid,1,Carry out & Take away,No Urgent Place,Alone,Sunny,0.5
+mid,1,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.9991334488734835
+mid,1,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.5
+mid,1,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.6922948521065634
+mid,1,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.5999306037473976
+mid,1,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+mid,1,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.7058403103941189
+mid,1,Carry out & Take away,No Urgent Place,Partner,Rainy,0.6666023910528346
+mid,1,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+mid,1,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+mid,1,Carry out & Take away,Work,Alone,Rainy,0.4000231427910206
+mid,1,Carry out & Take away,Work,Alone,Snowy,0.5
+mid,1,Carry out & Take away,Work,Alone,Sunny,0.8157606212882594
+mid,1,Carry out & Take away,Work,Friend(s),Rainy,0.5
+mid,1,Carry out & Take away,Work,Friend(s),Snowy,0.5
+mid,1,Carry out & Take away,Work,Friend(s),Sunny,0.5
+mid,1,Carry out & Take away,Work,Kid(s),Rainy,0.5
+mid,1,Carry out & Take away,Work,Kid(s),Snowy,0.5
+mid,1,Carry out & Take away,Work,Kid(s),Sunny,0.5
+mid,1,Carry out & Take away,Work,Partner,Rainy,0.5
+mid,1,Carry out & Take away,Work,Partner,Snowy,0.5
+mid,1,Carry out & Take away,Work,Partner,Sunny,0.5
+mid,1,Coffee House,Home,Alone,Rainy,0.3571782791966278
+mid,1,Coffee House,Home,Alone,Snowy,0.2857674187949417
+mid,1,Coffee House,Home,Alone,Sunny,0.5087713955046598
+mid,1,Coffee House,Home,Friend(s),Rainy,0.5
+mid,1,Coffee House,Home,Friend(s),Snowy,0.5
+mid,1,Coffee House,Home,Friend(s),Sunny,0.5
+mid,1,Coffee House,Home,Kid(s),Rainy,0.5
+mid,1,Coffee House,Home,Kid(s),Snowy,0.5
+mid,1,Coffee House,Home,Kid(s),Sunny,0.5
+mid,1,Coffee House,Home,Partner,Rainy,0.5
+mid,1,Coffee House,Home,Partner,Snowy,0.5
+mid,1,Coffee House,Home,Partner,Sunny,0.5
+mid,1,Coffee House,No Urgent Place,Alone,Rainy,0.5
+mid,1,Coffee House,No Urgent Place,Alone,Snowy,0.5
+mid,1,Coffee House,No Urgent Place,Alone,Sunny,0.6304249377311495
+mid,1,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+mid,1,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+mid,1,Coffee House,No Urgent Place,Friend(s),Sunny,0.7723500352858151
+mid,1,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+mid,1,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+mid,1,Coffee House,No Urgent Place,Kid(s),Sunny,0.3478490566037736
+mid,1,Coffee House,No Urgent Place,Partner,Rainy,0.5
+mid,1,Coffee House,No Urgent Place,Partner,Snowy,0.44446586964905516
+mid,1,Coffee House,No Urgent Place,Partner,Sunny,0.8332690453230472
+mid,1,Coffee House,Work,Alone,Rainy,0.5
+mid,1,Coffee House,Work,Alone,Snowy,0.5
+mid,1,Coffee House,Work,Alone,Sunny,0.3796334994373895
+mid,1,Coffee House,Work,Friend(s),Rainy,0.5
+mid,1,Coffee House,Work,Friend(s),Snowy,0.5
+mid,1,Coffee House,Work,Friend(s),Sunny,0.5
+mid,1,Coffee House,Work,Kid(s),Rainy,0.5
+mid,1,Coffee House,Work,Kid(s),Snowy,0.5
+mid,1,Coffee House,Work,Kid(s),Sunny,0.5
+mid,1,Coffee House,Work,Partner,Rainy,0.5
+mid,1,Coffee House,Work,Partner,Snowy,0.5
+mid,1,Coffee House,Work,Partner,Sunny,0.5
+mid,1,Restaurant(20-50),Home,Alone,Rainy,0.5
+mid,1,Restaurant(20-50),Home,Alone,Snowy,0.33337190465170097
+mid,1,Restaurant(20-50),Home,Alone,Sunny,0.2501084598698482
+mid,1,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+mid,1,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+mid,1,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+mid,1,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+mid,1,Restaurant(20-50),Home,Kid(s),Snowy,0.0017301038062283735
+mid,1,Restaurant(20-50),Home,Kid(s),Sunny,0.6363206058693595
+mid,1,Restaurant(20-50),Home,Partner,Rainy,0.5
+mid,1,Restaurant(20-50),Home,Partner,Snowy,0.5
+mid,1,Restaurant(20-50),Home,Partner,Sunny,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.8331405436668595
+mid,1,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.4375135604252549
+mid,1,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.40006939625260235
+mid,1,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+mid,1,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.5
+mid,1,Restaurant(20-50),Work,Alone,Rainy,0.5
+mid,1,Restaurant(20-50),Work,Alone,Snowy,0.5
+mid,1,Restaurant(20-50),Work,Alone,Sunny,0.45455262742622693
+mid,1,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+mid,1,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+mid,1,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+mid,1,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+mid,1,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+mid,1,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+mid,1,Restaurant(20-50),Work,Partner,Rainy,0.5
+mid,1,Restaurant(20-50),Work,Partner,Snowy,0.5
+mid,1,Restaurant(20-50),Work,Partner,Sunny,0.5
+mid,1,Restaurant(<20),Home,Alone,Rainy,0.5
+mid,1,Restaurant(<20),Home,Alone,Snowy,0.33337190465170097
+mid,1,Restaurant(<20),Home,Alone,Sunny,0.48485007890583903
+mid,1,Restaurant(<20),Home,Friend(s),Rainy,0.5
+mid,1,Restaurant(<20),Home,Friend(s),Snowy,0.5
+mid,1,Restaurant(<20),Home,Friend(s),Sunny,0.5
+mid,1,Restaurant(<20),Home,Kid(s),Rainy,0.5
+mid,1,Restaurant(<20),Home,Kid(s),Snowy,0.5
+mid,1,Restaurant(<20),Home,Kid(s),Sunny,0.5
+mid,1,Restaurant(<20),Home,Partner,Rainy,0.5
+mid,1,Restaurant(<20),Home,Partner,Snowy,0.5
+mid,1,Restaurant(<20),Home,Partner,Sunny,0.6666023910528346
+mid,1,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Alone,Snowy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Alone,Sunny,0.7726842354426385
+mid,1,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.999421965317919
+mid,1,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.8333204737471548
+mid,1,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.7407097852642407
+mid,1,Restaurant(<20),No Urgent Place,Partner,Rainy,0.6666023910528346
+mid,1,Restaurant(<20),No Urgent Place,Partner,Snowy,0.5
+mid,1,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9997108155002893
+mid,1,Restaurant(<20),Work,Alone,Rainy,0.3889103182256509
+mid,1,Restaurant(<20),Work,Alone,Snowy,0.3333654773384764
+mid,1,Restaurant(<20),Work,Alone,Sunny,0.5
+mid,1,Restaurant(<20),Work,Friend(s),Rainy,0.5
+mid,1,Restaurant(<20),Work,Friend(s),Snowy,0.5
+mid,1,Restaurant(<20),Work,Friend(s),Sunny,0.5
+mid,1,Restaurant(<20),Work,Kid(s),Rainy,0.5
+mid,1,Restaurant(<20),Work,Kid(s),Snowy,0.5
+mid,1,Restaurant(<20),Work,Kid(s),Sunny,0.5
+mid,1,Restaurant(<20),Work,Partner,Rainy,0.5
+mid,1,Restaurant(<20),Work,Partner,Snowy,0.5
+mid,1,Restaurant(<20),Work,Partner,Sunny,0.5
+missing,0,Bar,Home,Alone,Rainy,0.5
+missing,0,Bar,Home,Alone,Snowy,0.5
+missing,0,Bar,Home,Alone,Sunny,0.0008665511265164644
+missing,0,Bar,Home,Friend(s),Rainy,0.5
+missing,0,Bar,Home,Friend(s),Snowy,0.5
+missing,0,Bar,Home,Friend(s),Sunny,0.5
+missing,0,Bar,Home,Kid(s),Rainy,0.5
+missing,0,Bar,Home,Kid(s),Snowy,0.5
+missing,0,Bar,Home,Kid(s),Sunny,0.5
+missing,0,Bar,Home,Partner,Rainy,0.5
+missing,0,Bar,Home,Partner,Snowy,0.5
+missing,0,Bar,Home,Partner,Sunny,0.5
+missing,0,Bar,No Urgent Place,Alone,Rainy,0.0008665511265164644
+missing,0,Bar,No Urgent Place,Alone,Snowy,0.5
+missing,0,Bar,No Urgent Place,Alone,Sunny,0.0017301038062283735
+missing,0,Bar,No Urgent Place,Friend(s),Rainy,0.5
+missing,0,Bar,No Urgent Place,Friend(s),Snowy,0.5
+missing,0,Bar,No Urgent Place,Friend(s),Sunny,0.33352601156069367
+missing,0,Bar,No Urgent Place,Kid(s),Rainy,0.5
+missing,0,Bar,No Urgent Place,Kid(s),Snowy,0.0017301038062283735
+missing,0,Bar,No Urgent Place,Kid(s),Sunny,0.0017301038062283735
+missing,0,Bar,No Urgent Place,Partner,Rainy,0.5
+missing,0,Bar,No Urgent Place,Partner,Snowy,0.5
+missing,0,Bar,No Urgent Place,Partner,Sunny,0.5
+missing,0,Bar,Work,Alone,Rainy,0.5
+missing,0,Bar,Work,Alone,Snowy,0.5
+missing,0,Bar,Work,Alone,Sunny,0.5
+missing,0,Bar,Work,Friend(s),Rainy,0.5
+missing,0,Bar,Work,Friend(s),Snowy,0.5
+missing,0,Bar,Work,Friend(s),Sunny,0.5
+missing,0,Bar,Work,Kid(s),Rainy,0.5
+missing,0,Bar,Work,Kid(s),Snowy,0.5
+missing,0,Bar,Work,Kid(s),Sunny,0.5
+missing,0,Bar,Work,Partner,Rainy,0.5
+missing,0,Bar,Work,Partner,Snowy,0.5
+missing,0,Bar,Work,Partner,Sunny,0.5
+missing,0,Carry out & Take away,Home,Alone,Rainy,0.5
+missing,0,Carry out & Take away,Home,Alone,Snowy,0.5
+missing,0,Carry out & Take away,Home,Alone,Sunny,0.5999306037473976
+missing,0,Carry out & Take away,Home,Friend(s),Rainy,0.5
+missing,0,Carry out & Take away,Home,Friend(s),Snowy,0.5
+missing,0,Carry out & Take away,Home,Friend(s),Sunny,0.5
+missing,0,Carry out & Take away,Home,Kid(s),Rainy,0.5
+missing,0,Carry out & Take away,Home,Kid(s),Snowy,0.5
+missing,0,Carry out & Take away,Home,Kid(s),Sunny,0.5
+missing,0,Carry out & Take away,Home,Partner,Rainy,0.9982698961937716
+missing,0,Carry out & Take away,Home,Partner,Snowy,0.5
+missing,0,Carry out & Take away,Home,Partner,Sunny,0.5
+missing,0,Carry out & Take away,No Urgent Place,Alone,Rainy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Alone,Sunny,0.5
+missing,0,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.9991334488734835
+missing,0,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.9982698961937716
+missing,0,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.9982698961937716
+missing,0,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.5
+missing,0,Carry out & Take away,No Urgent Place,Partner,Rainy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+missing,0,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+missing,0,Carry out & Take away,Work,Alone,Rainy,0.5
+missing,0,Carry out & Take away,Work,Alone,Snowy,0.5
+missing,0,Carry out & Take away,Work,Alone,Sunny,0.6664739884393064
+missing,0,Carry out & Take away,Work,Friend(s),Rainy,0.5
+missing,0,Carry out & Take away,Work,Friend(s),Snowy,0.5
+missing,0,Carry out & Take away,Work,Friend(s),Sunny,0.5
+missing,0,Carry out & Take away,Work,Kid(s),Rainy,0.5
+missing,0,Carry out & Take away,Work,Kid(s),Snowy,0.5
+missing,0,Carry out & Take away,Work,Kid(s),Sunny,0.5
+missing,0,Carry out & Take away,Work,Partner,Rainy,0.5
+missing,0,Carry out & Take away,Work,Partner,Snowy,0.5
+missing,0,Carry out & Take away,Work,Partner,Sunny,0.5
+missing,0,Coffee House,Home,Alone,Rainy,0.5
+missing,0,Coffee House,Home,Alone,Snowy,0.9991334488734835
+missing,0,Coffee House,Home,Alone,Sunny,0.2502168256721596
+missing,0,Coffee House,Home,Friend(s),Rainy,0.5
+missing,0,Coffee House,Home,Friend(s),Snowy,0.5
+missing,0,Coffee House,Home,Friend(s),Sunny,0.5
+missing,0,Coffee House,Home,Kid(s),Rainy,0.5
+missing,0,Coffee House,Home,Kid(s),Snowy,0.5
+missing,0,Coffee House,Home,Kid(s),Sunny,0.5
+missing,0,Coffee House,Home,Partner,Rainy,0.5
+missing,0,Coffee House,Home,Partner,Snowy,0.5
+missing,0,Coffee House,Home,Partner,Sunny,0.9982698961937716
+missing,0,Coffee House,No Urgent Place,Alone,Rainy,0.5
+missing,0,Coffee House,No Urgent Place,Alone,Snowy,0.5
+missing,0,Coffee House,No Urgent Place,Alone,Sunny,0.5
+missing,0,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+missing,0,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+missing,0,Coffee House,No Urgent Place,Friend(s),Sunny,0.5999306037473976
+missing,0,Coffee House,No Urgent Place,Kid(s),Rainy,0.9982698961937716
+missing,0,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+missing,0,Coffee House,No Urgent Place,Kid(s),Sunny,0.5
+missing,0,Coffee House,No Urgent Place,Partner,Rainy,0.5
+missing,0,Coffee House,No Urgent Place,Partner,Snowy,0.5
+missing,0,Coffee House,No Urgent Place,Partner,Sunny,0.5
+missing,0,Coffee House,Work,Alone,Rainy,0.5
+missing,0,Coffee House,Work,Alone,Snowy,0.5
+missing,0,Coffee House,Work,Alone,Sunny,0.6664739884393064
+missing,0,Coffee House,Work,Friend(s),Rainy,0.5
+missing,0,Coffee House,Work,Friend(s),Snowy,0.5
+missing,0,Coffee House,Work,Friend(s),Sunny,0.5
+missing,0,Coffee House,Work,Kid(s),Rainy,0.5
+missing,0,Coffee House,Work,Kid(s),Snowy,0.5
+missing,0,Coffee House,Work,Kid(s),Sunny,0.5
+missing,0,Coffee House,Work,Partner,Rainy,0.5
+missing,0,Coffee House,Work,Partner,Snowy,0.5
+missing,0,Coffee House,Work,Partner,Sunny,0.5
+missing,0,Restaurant(20-50),Home,Alone,Rainy,0.5
+missing,0,Restaurant(20-50),Home,Alone,Snowy,0.5
+missing,0,Restaurant(20-50),Home,Alone,Sunny,0.6664739884393064
+missing,0,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+missing,0,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+missing,0,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+missing,0,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+missing,0,Restaurant(20-50),Home,Kid(s),Snowy,0.5
+missing,0,Restaurant(20-50),Home,Kid(s),Sunny,0.0008665511265164644
+missing,0,Restaurant(20-50),Home,Partner,Rainy,0.5
+missing,0,Restaurant(20-50),Home,Partner,Snowy,0.5
+missing,0,Restaurant(20-50),Home,Partner,Sunny,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.0017301038062283735
+missing,0,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+missing,0,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.7497831743278404
+missing,0,Restaurant(20-50),Work,Alone,Rainy,0.5
+missing,0,Restaurant(20-50),Work,Alone,Snowy,0.0017301038062283735
+missing,0,Restaurant(20-50),Work,Alone,Sunny,0.0017301038062283735
+missing,0,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+missing,0,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+missing,0,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+missing,0,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+missing,0,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+missing,0,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+missing,0,Restaurant(20-50),Work,Partner,Rainy,0.5
+missing,0,Restaurant(20-50),Work,Partner,Snowy,0.5
+missing,0,Restaurant(20-50),Work,Partner,Sunny,0.5
+missing,0,Restaurant(<20),Home,Alone,Rainy,0.5
+missing,0,Restaurant(<20),Home,Alone,Snowy,0.5
+missing,0,Restaurant(<20),Home,Alone,Sunny,0.5
+missing,0,Restaurant(<20),Home,Friend(s),Rainy,0.5
+missing,0,Restaurant(<20),Home,Friend(s),Snowy,0.5
+missing,0,Restaurant(<20),Home,Friend(s),Sunny,0.5
+missing,0,Restaurant(<20),Home,Kid(s),Rainy,0.5
+missing,0,Restaurant(<20),Home,Kid(s),Snowy,0.5
+missing,0,Restaurant(<20),Home,Kid(s),Sunny,0.5
+missing,0,Restaurant(<20),Home,Partner,Rainy,0.5
+missing,0,Restaurant(<20),Home,Partner,Snowy,0.5
+missing,0,Restaurant(<20),Home,Partner,Sunny,0.0017301038062283735
+missing,0,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Alone,Snowy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Alone,Sunny,0.9982698961937716
+missing,0,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.0008665511265164644
+missing,0,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.9991334488734835
+missing,0,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.9991334488734835
+missing,0,Restaurant(<20),No Urgent Place,Partner,Rainy,0.5
+missing,0,Restaurant(<20),No Urgent Place,Partner,Snowy,0.0017301038062283735
+missing,0,Restaurant(<20),No Urgent Place,Partner,Sunny,0.9982698961937716
+missing,0,Restaurant(<20),Work,Alone,Rainy,0.5
+missing,0,Restaurant(<20),Work,Alone,Snowy,0.5
+missing,0,Restaurant(<20),Work,Alone,Sunny,0.9991334488734835
+missing,0,Restaurant(<20),Work,Friend(s),Rainy,0.5
+missing,0,Restaurant(<20),Work,Friend(s),Snowy,0.5
+missing,0,Restaurant(<20),Work,Friend(s),Sunny,0.5
+missing,0,Restaurant(<20),Work,Kid(s),Rainy,0.5
+missing,0,Restaurant(<20),Work,Kid(s),Snowy,0.5
+missing,0,Restaurant(<20),Work,Kid(s),Sunny,0.5
+missing,0,Restaurant(<20),Work,Partner,Rainy,0.5
+missing,0,Restaurant(<20),Work,Partner,Snowy,0.5
+missing,0,Restaurant(<20),Work,Partner,Sunny,0.5
+missing,1,Bar,Home,Alone,Rainy,0.5
+missing,1,Bar,Home,Alone,Snowy,0.5
+missing,1,Bar,Home,Alone,Sunny,0.0008665511265164644
+missing,1,Bar,Home,Friend(s),Rainy,0.5
+missing,1,Bar,Home,Friend(s),Snowy,0.5
+missing,1,Bar,Home,Friend(s),Sunny,0.5
+missing,1,Bar,Home,Kid(s),Rainy,0.5
+missing,1,Bar,Home,Kid(s),Snowy,0.5
+missing,1,Bar,Home,Kid(s),Sunny,0.5
+missing,1,Bar,Home,Partner,Rainy,0.5
+missing,1,Bar,Home,Partner,Snowy,0.5
+missing,1,Bar,Home,Partner,Sunny,0.0017301038062283735
+missing,1,Bar,No Urgent Place,Alone,Rainy,0.5
+missing,1,Bar,No Urgent Place,Alone,Snowy,0.5
+missing,1,Bar,No Urgent Place,Alone,Sunny,0.5
+missing,1,Bar,No Urgent Place,Friend(s),Rainy,0.0017301038062283735
+missing,1,Bar,No Urgent Place,Friend(s),Snowy,0.5
+missing,1,Bar,No Urgent Place,Friend(s),Sunny,0.5
+missing,1,Bar,No Urgent Place,Kid(s),Rainy,0.5
+missing,1,Bar,No Urgent Place,Kid(s),Snowy,0.5
+missing,1,Bar,No Urgent Place,Kid(s),Sunny,0.5
+missing,1,Bar,No Urgent Place,Partner,Rainy,0.0017301038062283735
+missing,1,Bar,No Urgent Place,Partner,Snowy,0.5
+missing,1,Bar,No Urgent Place,Partner,Sunny,0.33352601156069367
+missing,1,Bar,Work,Alone,Rainy,0.5
+missing,1,Bar,Work,Alone,Snowy,0.5
+missing,1,Bar,Work,Alone,Sunny,0.5
+missing,1,Bar,Work,Friend(s),Rainy,0.5
+missing,1,Bar,Work,Friend(s),Snowy,0.5
+missing,1,Bar,Work,Friend(s),Sunny,0.5
+missing,1,Bar,Work,Kid(s),Rainy,0.5
+missing,1,Bar,Work,Kid(s),Snowy,0.5
+missing,1,Bar,Work,Kid(s),Sunny,0.5
+missing,1,Bar,Work,Partner,Rainy,0.5
+missing,1,Bar,Work,Partner,Snowy,0.5
+missing,1,Bar,Work,Partner,Sunny,0.5
+missing,1,Carry out & Take away,Home,Alone,Rainy,0.5
+missing,1,Carry out & Take away,Home,Alone,Snowy,0.5
+missing,1,Carry out & Take away,Home,Alone,Sunny,0.999421965317919
+missing,1,Carry out & Take away,Home,Friend(s),Rainy,0.5
+missing,1,Carry out & Take away,Home,Friend(s),Snowy,0.5
+missing,1,Carry out & Take away,Home,Friend(s),Sunny,0.5
+missing,1,Carry out & Take away,Home,Kid(s),Rainy,0.5
+missing,1,Carry out & Take away,Home,Kid(s),Snowy,0.5
+missing,1,Carry out & Take away,Home,Kid(s),Sunny,0.5
+missing,1,Carry out & Take away,Home,Partner,Rainy,0.5
+missing,1,Carry out & Take away,Home,Partner,Snowy,0.5
+missing,1,Carry out & Take away,Home,Partner,Sunny,0.5
+missing,1,Carry out & Take away,No Urgent Place,Alone,Rainy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Alone,Snowy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Alone,Sunny,0.5
+missing,1,Carry out & Take away,No Urgent Place,Friend(s),Rainy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Friend(s),Snowy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Friend(s),Sunny,0.0005780346820809248
+missing,1,Carry out & Take away,No Urgent Place,Kid(s),Rainy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Kid(s),Snowy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Kid(s),Sunny,0.9982698961937716
+missing,1,Carry out & Take away,No Urgent Place,Partner,Rainy,0.9982698961937716
+missing,1,Carry out & Take away,No Urgent Place,Partner,Snowy,0.5
+missing,1,Carry out & Take away,No Urgent Place,Partner,Sunny,0.5
+missing,1,Carry out & Take away,Work,Alone,Rainy,0.5
+missing,1,Carry out & Take away,Work,Alone,Snowy,0.5
+missing,1,Carry out & Take away,Work,Alone,Sunny,0.9982698961937716
+missing,1,Carry out & Take away,Work,Friend(s),Rainy,0.5
+missing,1,Carry out & Take away,Work,Friend(s),Snowy,0.5
+missing,1,Carry out & Take away,Work,Friend(s),Sunny,0.5
+missing,1,Carry out & Take away,Work,Kid(s),Rainy,0.5
+missing,1,Carry out & Take away,Work,Kid(s),Snowy,0.5
+missing,1,Carry out & Take away,Work,Kid(s),Sunny,0.5
+missing,1,Carry out & Take away,Work,Partner,Rainy,0.5
+missing,1,Carry out & Take away,Work,Partner,Snowy,0.5
+missing,1,Carry out & Take away,Work,Partner,Sunny,0.5
+missing,1,Coffee House,Home,Alone,Rainy,0.0008665511265164644
+missing,1,Coffee House,Home,Alone,Snowy,0.0008665511265164644
+missing,1,Coffee House,Home,Alone,Sunny,0.0005780346820809248
+missing,1,Coffee House,Home,Friend(s),Rainy,0.5
+missing,1,Coffee House,Home,Friend(s),Snowy,0.5
+missing,1,Coffee House,Home,Friend(s),Sunny,0.5
+missing,1,Coffee House,Home,Kid(s),Rainy,0.5
+missing,1,Coffee House,Home,Kid(s),Snowy,0.5
+missing,1,Coffee House,Home,Kid(s),Sunny,0.5
+missing,1,Coffee House,Home,Partner,Rainy,0.5
+missing,1,Coffee House,Home,Partner,Snowy,0.5
+missing,1,Coffee House,Home,Partner,Sunny,0.5
+missing,1,Coffee House,No Urgent Place,Alone,Rainy,0.5
+missing,1,Coffee House,No Urgent Place,Alone,Snowy,0.5
+missing,1,Coffee House,No Urgent Place,Alone,Sunny,0.9991334488734835
+missing,1,Coffee House,No Urgent Place,Friend(s),Rainy,0.5
+missing,1,Coffee House,No Urgent Place,Friend(s),Snowy,0.5
+missing,1,Coffee House,No Urgent Place,Friend(s),Sunny,0.5999306037473976
+missing,1,Coffee House,No Urgent Place,Kid(s),Rainy,0.5
+missing,1,Coffee House,No Urgent Place,Kid(s),Snowy,0.5
+missing,1,Coffee House,No Urgent Place,Kid(s),Sunny,0.5
+missing,1,Coffee House,No Urgent Place,Partner,Rainy,0.5
+missing,1,Coffee House,No Urgent Place,Partner,Snowy,0.0017301038062283735
+missing,1,Coffee House,No Urgent Place,Partner,Sunny,0.5
+missing,1,Coffee House,Work,Alone,Rainy,0.5
+missing,1,Coffee House,Work,Alone,Snowy,0.5
+missing,1,Coffee House,Work,Alone,Sunny,0.5
+missing,1,Coffee House,Work,Friend(s),Rainy,0.5
+missing,1,Coffee House,Work,Friend(s),Snowy,0.5
+missing,1,Coffee House,Work,Friend(s),Sunny,0.5
+missing,1,Coffee House,Work,Kid(s),Rainy,0.5
+missing,1,Coffee House,Work,Kid(s),Snowy,0.5
+missing,1,Coffee House,Work,Kid(s),Sunny,0.5
+missing,1,Coffee House,Work,Partner,Rainy,0.5
+missing,1,Coffee House,Work,Partner,Snowy,0.5
+missing,1,Coffee House,Work,Partner,Sunny,0.5
+missing,1,Restaurant(20-50),Home,Alone,Rainy,0.5
+missing,1,Restaurant(20-50),Home,Alone,Snowy,0.0017301038062283735
+missing,1,Restaurant(20-50),Home,Alone,Sunny,0.0017301038062283735
+missing,1,Restaurant(20-50),Home,Friend(s),Rainy,0.5
+missing,1,Restaurant(20-50),Home,Friend(s),Snowy,0.5
+missing,1,Restaurant(20-50),Home,Friend(s),Sunny,0.5
+missing,1,Restaurant(20-50),Home,Kid(s),Rainy,0.5
+missing,1,Restaurant(20-50),Home,Kid(s),Snowy,0.0017301038062283735
+missing,1,Restaurant(20-50),Home,Kid(s),Sunny,0.0017301038062283735
+missing,1,Restaurant(20-50),Home,Partner,Rainy,0.5
+missing,1,Restaurant(20-50),Home,Partner,Snowy,0.5
+missing,1,Restaurant(20-50),Home,Partner,Sunny,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Alone,Rainy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Alone,Snowy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Alone,Sunny,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Friend(s),Rainy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Friend(s),Snowy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Friend(s),Sunny,0.0008665511265164644
+missing,1,Restaurant(20-50),No Urgent Place,Kid(s),Rainy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Kid(s),Snowy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Kid(s),Sunny,0.0017301038062283735
+missing,1,Restaurant(20-50),No Urgent Place,Partner,Rainy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Partner,Snowy,0.5
+missing,1,Restaurant(20-50),No Urgent Place,Partner,Sunny,0.5
+missing,1,Restaurant(20-50),Work,Alone,Rainy,0.5
+missing,1,Restaurant(20-50),Work,Alone,Snowy,0.5
+missing,1,Restaurant(20-50),Work,Alone,Sunny,0.0005780346820809248
+missing,1,Restaurant(20-50),Work,Friend(s),Rainy,0.5
+missing,1,Restaurant(20-50),Work,Friend(s),Snowy,0.5
+missing,1,Restaurant(20-50),Work,Friend(s),Sunny,0.5
+missing,1,Restaurant(20-50),Work,Kid(s),Rainy,0.5
+missing,1,Restaurant(20-50),Work,Kid(s),Snowy,0.5
+missing,1,Restaurant(20-50),Work,Kid(s),Sunny,0.5
+missing,1,Restaurant(20-50),Work,Partner,Rainy,0.5
+missing,1,Restaurant(20-50),Work,Partner,Snowy,0.5
+missing,1,Restaurant(20-50),Work,Partner,Sunny,0.5
+missing,1,Restaurant(<20),Home,Alone,Rainy,0.5
+missing,1,Restaurant(<20),Home,Alone,Snowy,0.5
+missing,1,Restaurant(<20),Home,Alone,Sunny,0.5
+missing,1,Restaurant(<20),Home,Friend(s),Rainy,0.5
+missing,1,Restaurant(<20),Home,Friend(s),Snowy,0.5
+missing,1,Restaurant(<20),Home,Friend(s),Sunny,0.5
+missing,1,Restaurant(<20),Home,Kid(s),Rainy,0.5
+missing,1,Restaurant(<20),Home,Kid(s),Snowy,0.5
+missing,1,Restaurant(<20),Home,Kid(s),Sunny,0.5
+missing,1,Restaurant(<20),Home,Partner,Rainy,0.5
+missing,1,Restaurant(<20),Home,Partner,Snowy,0.5
+missing,1,Restaurant(<20),Home,Partner,Sunny,0.0017301038062283735
+missing,1,Restaurant(<20),No Urgent Place,Alone,Rainy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Alone,Snowy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Alone,Sunny,0.33352601156069367
+missing,1,Restaurant(<20),No Urgent Place,Friend(s),Rainy,0.9982698961937716
+missing,1,Restaurant(<20),No Urgent Place,Friend(s),Snowy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Friend(s),Sunny,0.5999306037473976
+missing,1,Restaurant(<20),No Urgent Place,Kid(s),Rainy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Kid(s),Snowy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Kid(s),Sunny,0.9991334488734835
+missing,1,Restaurant(<20),No Urgent Place,Partner,Rainy,0.9982698961937716
+missing,1,Restaurant(<20),No Urgent Place,Partner,Snowy,0.5
+missing,1,Restaurant(<20),No Urgent Place,Partner,Sunny,0.999421965317919
+missing,1,Restaurant(<20),Work,Alone,Rainy,0.9982698961937716
+missing,1,Restaurant(<20),Work,Alone,Snowy,0.9991334488734835
+missing,1,Restaurant(<20),Work,Alone,Sunny,0.5
+missing,1,Restaurant(<20),Work,Friend(s),Rainy,0.5
+missing,1,Restaurant(<20),Work,Friend(s),Snowy,0.5
+missing,1,Restaurant(<20),Work,Friend(s),Sunny,0.5
+missing,1,Restaurant(<20),Work,Kid(s),Rainy,0.5
+missing,1,Restaurant(<20),Work,Kid(s),Snowy,0.5
+missing,1,Restaurant(<20),Work,Kid(s),Sunny,0.5
+missing,1,Restaurant(<20),Work,Partner,Rainy,0.5
+missing,1,Restaurant(<20),Work,Partner,Snowy,0.5
+missing,1,Restaurant(<20),Work,Partner,Sunny,0.5

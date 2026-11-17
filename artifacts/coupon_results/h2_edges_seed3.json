@@ -1,0 +1,143 @@
+{
+ "seed": 3,
+ "l1_scale_T": 0.1,
+ "threshold": 0.15,
+ "edges": [
+  [
+   "T",
+   "Y"
+  ],
+  [
+   "coupon",
+   "T"
+  ],
+  [
+   "coupon",
+   "Y"
+  ],
+  [
+   "coupon",
+   "destination"
+  ],
+  [
+   "coupon",
+   "direction_same"
+  ],
+  [
+   "coupon",
+   "dist"
+  ],
+  [
+   "coupon",
+   "time_bin"
+  ],
+  [
+   "destination",
+   "T"
+  ],
+  [
+   "destination",
+   "Y"
+  ],
+  [
+   "destination",
+   "direction_same"
+  ],
+  [
+   "destination",
+   "passenger"
+  ],
+  [
+   "destination",
+   "time_bin"
+  ],
+  [
+   "direction_same",
+   "T"
+  ],
+  [
+   "dist",
+   "T"
+  ],
+  [
+   "dist",
+   "destination"
+  ],
+  [
+   "dist",
+   "direction_same"
+  ],
+  [
+   "dist",
+   "passenger"
+  ],
+  [
+   "gender",
+   "has_children"
+  ],
+  [
+   "habit_match",
+   "Y"
+  ],
+  [
+   "habit_match",
+   "coupon"
+  ],
+  [
+   "has_children",
+   "age_bin"
+  ],
+  [
+   "has_children",
+   "passenger"
+  ],
+  [
+   "income_bin",
+   "age_bin"
+  ],
+  [
+   "income_bin",
+   "gender"
+  ],
+  [
+   "income_bin",
+   "has_children"
+  ],
+  [
+   "passenger",
+   "T"
+  ],
+  [
+   "passenger",
+   "direction_same"
+  ],
+  [
+   "passenger",
+   "time_bin"
+  ],
+  [
+   "time_bin",
+   "T"
+  ],
+  [
+   "weather",
+   "T"
+  ],
+  [
+   "weather",
+   "dist"
+  ],
+  [
+   "weather",
+   "passenger"
+  ]
+ ],
+ "removed": [],
+ "added": [],
+ "info": {
+  "ce": 11.264426231384277,
+  "h": 9.5367431640625e-07,
+  "rho": 1e+16,
+  "iters": 9
+ }
+}

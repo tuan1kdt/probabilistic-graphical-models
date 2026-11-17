@@ -1,0 +1,163 @@
+{
+ "CONFIG": {
+  "data": {
+   "uci_id": 603,
+   "name": "In-Vehicle Coupon Recommendation",
+   "doi": "10.24432/C5GS4P",
+   "license": "CC BY 4.0",
+   "zip_url": "https://archive.ics.uci.edu/static/public/603/in+vehicle+coupon+recommendation.zip",
+   "csv_name": "in-vehicle-coupon-recommendation.csv",
+   "treatment": "T",
+   "treatment_coding": {
+    "1d": 0,
+    "2h": 1
+   },
+   "outcome": "Y"
+  },
+  "seeds": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "split": {
+   "train": 0.7,
+   "val": 0.15,
+   "test": 0.15,
+   "group": "resp_id",
+   "stratify_on": "tertile tỉ lệ Y của người"
+  },
+  "tiers": {
+   "respondent": [
+    "habit_match",
+    "age_bin",
+    "income_bin",
+    "gender",
+    "has_children"
+   ],
+   "scenario": [
+    "coupon",
+    "destination",
+    "time_bin",
+    "passenger",
+    "weather",
+    "dist",
+    "direction_same"
+   ],
+   "treatment": [
+    "T"
+   ],
+   "outcome": [
+    "Y"
+   ]
+  },
+  "cpd": {
+   "estimator": "BayesianEstimator",
+   "prior_type": "BDeu",
+   "equivalent_sample_size": 5
+  },
+  "b0": {
+   "candidates": {
+    "scoring": [
+     "bic-d",
+     "bdeu",
+     "k2",
+     "aic-d"
+    ],
+    "max_indegree": [
+     3,
+     4,
+     6
+    ]
+   },
+   "pc": {
+    "ci_test": "chi_square",
+    "significance_level": 0.01
+   },
+   "select_on": "validation log-loss của Y (tie-break: log-likelihood toàn BN trên VALIDATION)"
+  },
+  "h1": {
+   "replace_node": "Y",
+   "hidden": [
+    32,
+    16
+   ],
+   "dropout": 0.2,
+   "lr": 0.001,
+   "weight_decay": 0.0,
+   "batch_size": 256,
+   "max_epochs": 200,
+   "patience": 10,
+   "loss": "BCEWithLogits"
+  },
+  "h2": {
+   "method": "NOTEARS-MLP (nonlinear) cho biến phân loại, one-hot, mask cạnh cấm",
+   "hidden": 10,
+   "lambda1": 0.01,
+   "lambda2": 0.01,
+   "rho_max": 1e+16,
+   "h_tol": 1e-08,
+   "max_iter": 20,
+   "inner_steps": 100,
+   "thresholds": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.3
+   ],
+   "l1_scale_T_grid": [
+    1.0,
+    0.3,
+    0.1
+   ],
+   "cycle_repair": "bỏ cạnh yếu nhất trong mỗi chu trình",
+   "required_edges": [
+    [
+     "T",
+     "Y"
+    ]
+   ]
+  },
+  "f1_threshold": "chọn trên VALIDATION để tối đa macro-F1 (lưới 0.05–0.95)",
+  "refute": {
+   "placebo": {
+    "placebo_type": "permute",
+    "num_simulations": 100
+   },
+   "subset": {
+    "subset_fraction": 0.8,
+    "num_simulations": 100
+   }
+  },
+  "uncertainty": {
+   "method": "cluster bootstrap TRAIN theo resp_id, DAG cố định, cohort TEST cố định",
+   "n_boot": 200,
+   "level": 0.95
+  }
+ },
+ "ENV": {
+  "python": "3.13.18",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "cpu_count": 8,
+  "cuda": false,
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "networkx": "3.7",
+  "scikit-learn": "1.9.1",
+  "pgmpy": "1.1.2",
+  "dowhy": "0.14",
+  "torch": "2.15.0"
+ },
+ "SOURCE": {
+  "UCI ID": 603,
+  "DOI": "10.24432/C5GS4P",
+  "license": "CC BY 4.0",
+  "file": "data/raw/coupon/in-vehicle-coupon-recommendation.csv",
+  "sha256": "d47897367f5a12a31dece0f4e42d7bd9da76d7016b568da511b50335d08dcb43",
+  "ngày tải": "2026-11-06",
+  "trích dẫn": "Wang, Rudin, Doshi-Velez, Liu, Klampfl, MacNeille (2017). JMLR 18(70):1-37."
+ }
+}

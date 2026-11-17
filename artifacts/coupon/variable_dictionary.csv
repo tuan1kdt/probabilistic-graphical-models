@@ -1,0 +1,16 @@
+variable,n_levels,levels,timing,role
+habit_match,3,"low=4925, mid=3750, high=3362","người trả lời, trước T",baseline C (→Y); cấm →T
+age_bin,4,"26-35=4342, <26=3033, 36-50=2956, 50+=1706","người trả lời, trước T",baseline C (→Y); cấm →T
+income_bin,3,"<37.5k=4621, 37.5-75k=4116, 75k+=3300","người trả lời, trước T",baseline C (→Y); cấm →T
+gender,2,"Female=6193, Male=5844","người trả lời, trước T",baseline C (→Y); cấm →T
+has_children,2,"0=7073, 1=4964","người trả lời, trước T",baseline C (→Y); cấm →T
+coupon,5,"Coffee House=3924, Restaurant(<20)=2759, Carry out & Take away=2371, Bar=1513, Restaurant(20-50)=1470","thiết kế kịch bản, trước T","confounder C_core (→T, →Y; positivity đầy đủ)"
+destination,3,"No Urgent Place=6184, Home=3197, Work=2656","thiết kế kịch bản, trước T","confounder C_core (→T, →Y; positivity đầy đủ)"
+time_bin,3,"evening=5166, morning=4894, afternoon=1977","thiết kế kịch bản, trước T","confounder C_ext (→T, →Y; có ô trống, chỉ độ nhạy)"
+passenger,4,"Alone=6748, Friend(s)=3249, Partner=1054, Kid(s)=986","thiết kế kịch bản, trước T",C phụ (→Y)
+weather,3,"Sunny=9635, Snowy=1305, Rainy=1097","thiết kế kịch bản, trước T","confounder C_ext (→T, →Y; có ô trống, chỉ độ nhạy)"
+dist,3,"<15=5455, 15-25=5449, 25+=1133","thiết kế kịch bản, trước T",C phụ (→Y)
+direction_same,2,"0=9432, 1=2605","thiết kế kịch bản, trước T",C phụ (→Y)
+T,2,"0=6521, 1=5516",lúc hiển thị coupon,"treatment: expiration 1d=0, 2h=1"
+Y,2,"1=6942, 0=5095",sau T,outcome: chấp nhận coupon
+education_bin,3,"bachelor+=5891, some_college=5208, <=HS=938",người trả lời,chỉ ablation

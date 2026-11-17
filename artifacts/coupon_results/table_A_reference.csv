@@ -1,0 +1,11 @@
+model,seed,AUROC,macro-F1,Brier,log loss,fit_time
+Logistic (13 biến),0,0.729,0.6688,0.2061,0.6,0.0727
+HistGradientBoosting (13 biến),0,0.7464,0.6799,0.2002,0.5875,0.8771
+Logistic (13 biến),1,0.744,0.6875,0.2002,0.5873,0.1219
+HistGradientBoosting (13 biến),1,0.754,0.6846,0.1965,0.5769,1.3997
+Logistic (13 biến),2,0.7312,0.6777,0.2052,0.5975,0.1165
+HistGradientBoosting (13 biến),2,0.7553,0.6865,0.1977,0.5807,1.0822
+Logistic (13 biến),3,0.7309,0.6648,0.2063,0.5999,0.1171
+HistGradientBoosting (13 biến),3,0.761,0.6823,0.1971,0.5771,1.0622
+Logistic (13 biến),4,0.7346,0.6787,0.2042,0.596,0.1137
+HistGradientBoosting (13 biến),4,0.7505,0.691,0.2001,0.589,0.9478

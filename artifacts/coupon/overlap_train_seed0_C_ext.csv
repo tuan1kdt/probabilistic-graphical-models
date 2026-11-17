@@ -1,0 +1,55 @@
+coupon,destination,time_bin,weather,n_T0,n_T1,y_rate_T0,y_rate_T1,min_arm,p_T1
+Bar,Home,evening,Rainy,66.0,0.0,0.3333333333333333,,0,0.0
+Bar,Home,evening,Sunny,177.0,102.0,0.5706214689265536,0.3627450980392157,102,0.3655913978494624
+Bar,No Urgent Place,afternoon,Snowy,67.0,0.0,0.2835820895522388,,0,0.0
+Bar,No Urgent Place,afternoon,Sunny,12.0,0.0,0.3333333333333333,,0,0.0
+Bar,No Urgent Place,evening,Rainy,20.0,74.0,0.1,0.4594594594594595,20,0.7872340425531915
+Bar,No Urgent Place,evening,Snowy,39.0,0.0,0.28205128205128205,,0,0.0
+Bar,No Urgent Place,evening,Sunny,87.0,95.0,0.6091954022988506,0.5368421052631579,87,0.521978021978022
+Bar,No Urgent Place,morning,Rainy,62.0,0.0,0.3870967741935484,,0,0.0
+Bar,No Urgent Place,morning,Sunny,203.0,41.0,0.4039408866995074,0.0975609756097561,41,0.1680327868852459
+Carry out & Take away,Home,evening,Rainy,22.0,0.0,0.8636363636363636,,0,0.0
+Carry out & Take away,Home,evening,Snowy,28.0,0.0,0.7142857142857143,,0,0.0
+Carry out & Take away,Home,evening,Sunny,262.0,152.0,0.8091603053435115,0.7763157894736842,152,0.3671497584541063
+Carry out & Take away,No Urgent Place,afternoon,Rainy,0.0,27.0,,0.7407407407407407,0,1.0
+Carry out & Take away,No Urgent Place,afternoon,Sunny,122.0,0.0,0.9180327868852459,,0,0.0
+Carry out & Take away,No Urgent Place,evening,Rainy,9.0,19.0,0.8888888888888888,0.7894736842105263,9,0.6785714285714286
+Carry out & Take away,No Urgent Place,evening,Snowy,50.0,0.0,0.66,,0,0.0
+Carry out & Take away,No Urgent Place,evening,Sunny,78.0,0.0,0.8589743589743589,,0,0.0
+Carry out & Take away,No Urgent Place,morning,Rainy,0.0,22.0,,0.6363636363636364,0,1.0
+Carry out & Take away,No Urgent Place,morning,Snowy,50.0,0.0,0.7,,0,0.0
+Carry out & Take away,No Urgent Place,morning,Sunny,44.0,229.0,0.8409090909090909,0.6986899563318777,44,0.8388278388278388
+Carry out & Take away,Work,morning,Rainy,63.0,64.0,0.6666666666666666,0.328125,63,0.5039370078740157
+Carry out & Take away,Work,morning,Snowy,69.0,0.0,0.6956521739130435,,0,0.0
+Carry out & Take away,Work,morning,Sunny,222.0,122.0,0.7387387387387387,0.6721311475409836,122,0.3546511627906977
+Coffee House,Home,evening,Rainy,26.0,62.0,0.6923076923076923,0.2903225806451613,26,0.7045454545454546
+Coffee House,Home,evening,Snowy,62.0,62.0,0.3870967741935484,0.16129032258064516,62,0.5
+Coffee House,Home,evening,Sunny,213.0,218.0,0.431924882629108,0.29357798165137616,213,0.505800464037123
+Coffee House,No Urgent Place,afternoon,Snowy,0.0,18.0,,0.3333333333333333,0,1.0
+Coffee House,No Urgent Place,afternoon,Sunny,300.0,223.0,0.6133333333333333,0.515695067264574,223,0.42638623326959846
+Coffee House,No Urgent Place,evening,Sunny,154.0,148.0,0.6753246753246753,0.3310810810810811,148,0.4900662251655629
+Coffee House,No Urgent Place,morning,Rainy,67.0,0.0,0.7164179104477612,,0,0.0
+Coffee House,No Urgent Place,morning,Sunny,165.0,384.0,0.6181818181818182,0.6328125,165,0.6994535519125683
+Coffee House,Work,morning,Snowy,62.0,0.0,0.7096774193548387,,0,0.0
+Coffee House,Work,morning,Sunny,174.0,410.0,0.5229885057471264,0.375609756097561,174,0.702054794520548
+Restaurant(20-50),Home,evening,Snowy,0.0,58.0,,0.1896551724137931,0,1.0
+Restaurant(20-50),Home,evening,Sunny,322.0,75.0,0.4906832298136646,0.25333333333333335,75,0.1889168765743073
+Restaurant(20-50),No Urgent Place,afternoon,Sunny,61.0,52.0,0.5409836065573771,0.5192307692307693,52,0.46017699115044247
+Restaurant(20-50),No Urgent Place,evening,Rainy,0.0,31.0,,0.25806451612903225,0,1.0
+Restaurant(20-50),No Urgent Place,evening,Sunny,33.0,24.0,0.45454545454545453,0.20833333333333334,24,0.42105263157894735
+Restaurant(20-50),No Urgent Place,morning,Sunny,48.0,32.0,0.7291666666666666,0.4375,32,0.4
+Restaurant(20-50),Work,morning,Rainy,13.0,0.0,0.5384615384615384,,0,0.0
+Restaurant(20-50),Work,morning,Snowy,52.0,0.0,0.36538461538461536,,0,0.0
+Restaurant(20-50),Work,morning,Sunny,123.0,100.0,0.5447154471544715,0.18,100,0.4484304932735426
+Restaurant(<20),Home,evening,Snowy,0.0,64.0,,0.203125,0,1.0
+Restaurant(<20),Home,evening,Sunny,102.0,191.0,0.7941176470588235,0.5287958115183246,102,0.6518771331058021
+Restaurant(<20),No Urgent Place,afternoon,Rainy,0.0,18.0,,0.5,0,1.0
+Restaurant(<20),No Urgent Place,afternoon,Snowy,63.0,0.0,0.8888888888888888,,0,0.0
+Restaurant(<20),No Urgent Place,afternoon,Sunny,261.0,138.0,0.9157088122605364,0.644927536231884,138,0.3458646616541353
+Restaurant(<20),No Urgent Place,evening,Rainy,0.0,13.0,,0.6923076923076923,0,1.0
+Restaurant(<20),No Urgent Place,evening,Sunny,200.0,280.0,0.845,0.8035714285714286,200,0.5833333333333334
+Restaurant(<20),No Urgent Place,morning,Snowy,49.0,0.0,0.7551020408163265,,0,0.0
+Restaurant(<20),No Urgent Place,morning,Sunny,28.0,138.0,0.7857142857142857,0.6666666666666666,28,0.8313253012048193
+Restaurant(<20),Work,morning,Rainy,0.0,79.0,,0.31645569620253167,0,1.0
+Restaurant(<20),Work,morning,Snowy,26.0,64.0,0.46153846153846156,0.328125,26,0.7111111111111111
+Restaurant(<20),Work,morning,Sunny,205.0,4.0,0.7853658536585366,0.25,4,0.019138755980861243

@@ -1,0 +1,6 @@
+ứng viên,hợp lệ,số cạnh,cha của Y,cha của T,val log-loss Y,val LL cả mạng
+ngưỡng 0.15,True,32,"T, coupon, destination, habit_match, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6063830785662033,-10.627045596886743
+ngưỡng 0.20,True,26,"T, coupon, destination, habit_match","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6095622814990443,-10.79096132532685
+ngưỡng 0.30,True,22,"T, coupon, habit_match","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6257396246575705,-10.93434776865036
+ngưỡng 0.10,True,38,"T, coupon, destination, habit_match, passenger, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",0.6273652204078469,-10.385653117753682
+ngưỡng 0.05,True,41,"T, age_bin, coupon, destination, direction_same, dist, habit_match, passenger, weather","coupon, destination, direction_same, dist, passenger, time_bin, weather",1.3326234562700405,-11.090911353615875

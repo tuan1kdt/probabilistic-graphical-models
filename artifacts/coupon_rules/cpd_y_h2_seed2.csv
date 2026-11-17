@@ -1,0 +1,91 @@
+T,coupon,destination,habit_match,p1
+0,Bar,Home,high,0.8207920792079207
+0,Bar,Home,low,0.3882718065991506
+0,Bar,Home,mid,0.8039806996381182
+0,Bar,No Urgent Place,high,0.6997780244173141
+0,Bar,No Urgent Place,low,0.27812451240443126
+0,Bar,No Urgent Place,mid,0.6223796033994334
+0,Bar,Work,high,0.5
+0,Bar,Work,low,0.5
+0,Bar,Work,mid,0.5
+0,Carry out & Take away,Home,high,0.8286420692278433
+0,Carry out & Take away,Home,low,0.7252448313384113
+0,Carry out & Take away,Home,mid,0.8331619537275065
+0,Carry out & Take away,No Urgent Place,high,0.8501829065513802
+0,Carry out & Take away,No Urgent Place,low,0.8617224880382776
+0,Carry out & Take away,No Urgent Place,mid,0.8262630158118011
+0,Carry out & Take away,Work,high,0.7822606991179354
+0,Carry out & Take away,Work,low,0.6860718171926007
+0,Carry out & Take away,Work,mid,0.7141857209519366
+0,Coffee House,Home,high,0.7996670366259712
+0,Coffee House,Home,low,0.27865926219754067
+0,Coffee House,Home,mid,0.6281138790035588
+0,Coffee House,No Urgent Place,high,0.7998889300259163
+0,Coffee House,No Urgent Place,low,0.4808291004424054
+0,Coffee House,No Urgent Place,mid,0.8200117543344109
+0,Coffee House,Work,high,0.7448313384113167
+0,Coffee House,Work,low,0.4500231374363721
+0,Coffee House,Work,mid,0.7955832389580973
+0,Restaurant(20-50),Home,high,0.6664098613251156
+0,Restaurant(20-50),Home,low,0.4019399415360085
+0,Restaurant(20-50),Home,mid,0.6895341416719847
+0,Restaurant(20-50),No Urgent Place,high,0.8165829145728642
+0,Restaurant(20-50),No Urgent Place,low,0.48958935801041065
+0,Restaurant(20-50),No Urgent Place,mid,0.7246879334257975
+0,Restaurant(20-50),Work,high,0.7845849802371542
+0,Restaurant(20-50),Work,low,0.46213714766512415
+0,Restaurant(20-50),Work,mid,0.5713476783691959
+0,Restaurant(<20),Home,high,0.832892998678996
+0,Restaurant(<20),Home,low,0.825301204819277
+0,Restaurant(<20),Home,mid,0.7269861286254728
+0,Restaurant(<20),No Urgent Place,high,0.8861903724678719
+0,Restaurant(<20),No Urgent Place,low,0.8111576741749608
+0,Restaurant(<20),No Urgent Place,mid,0.857672971031841
+0,Restaurant(<20),Work,high,0.7424409015942826
+0,Restaurant(<20),Work,low,0.785336856010568
+0,Restaurant(<20),Work,mid,0.7870643827525103
+1,Bar,Home,high,0.7760736196319018
+1,Bar,Home,low,0.2717614804660727
+1,Bar,Home,mid,0.40036900369003686
+1,Bar,No Urgent Place,high,0.6836734693877551
+1,Bar,No Urgent Place,low,0.3268602540834846
+1,Bar,No Urgent Place,mid,0.6974193548387096
+1,Bar,Work,high,0.5
+1,Bar,Work,low,0.5
+1,Bar,Work,mid,0.5
+1,Carry out & Take away,Home,high,0.6960646521433591
+1,Carry out & Take away,Home,low,0.7093023255813954
+1,Carry out & Take away,Home,mid,0.7900626678603402
+1,Carry out & Take away,No Urgent Place,high,0.6713605712019041
+1,Carry out & Take away,No Urgent Place,low,0.6456647398843931
+1,Carry out & Take away,No Urgent Place,mid,0.7082369273484498
+1,Carry out & Take away,Work,high,0.5888340530536705
+1,Carry out & Take away,Work,low,0.31863979848866497
+1,Carry out & Take away,Work,mid,0.5695713281799016
+1,Coffee House,Home,high,0.4189797449362341
+1,Coffee House,Home,low,0.11189153871283895
+1,Coffee House,Home,mid,0.4157829070492826
+1,Coffee House,No Urgent Place,high,0.6688120632585509
+1,Coffee House,No Urgent Place,low,0.3813509109761517
+1,Coffee House,No Urgent Place,mid,0.7019950124688279
+1,Coffee House,Work,high,0.527006751687922
+1,Coffee House,Work,low,0.24749498997995995
+1,Coffee House,Work,mid,0.39171679777880614
+1,Restaurant(20-50),Home,high,0.5
+1,Restaurant(20-50),Home,low,0.21522388059701497
+1,Restaurant(20-50),Home,mid,0.25752773375594296
+1,Restaurant(20-50),No Urgent Place,high,0.5622837370242214
+1,Restaurant(20-50),No Urgent Place,low,0.3572372769332452
+1,Restaurant(20-50),No Urgent Place,mid,0.5384068278805121
+1,Restaurant(20-50),Work,high,0.5
+1,Restaurant(20-50),Work,low,0.1326530612244898
+1,Restaurant(20-50),Work,mid,0.1674364896073903
+1,Restaurant(<20),Home,high,0.45363480251860333
+1,Restaurant(<20),Home,low,0.4510337323177367
+1,Restaurant(<20),Home,mid,0.4767591994835378
+1,Restaurant(<20),No Urgent Place,high,0.7388793315310888
+1,Restaurant(<20),No Urgent Place,low,0.6533809785596482
+1,Restaurant(<20),No Urgent Place,mid,0.740104963918653
+1,Restaurant(<20),Work,high,0.35606773283160864
+1,Restaurant(<20),Work,low,0.2921478060046189
+1,Restaurant(<20),Work,mid,0.32408131352619235

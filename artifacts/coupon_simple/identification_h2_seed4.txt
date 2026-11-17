@@ -1,0 +1,31 @@
+Estimand type: EstimandType.NONPARAMETRIC_ATE
+
+### Estimand : 1
+Estimand name: backdoor
+Estimand expression:
+ d               
+────(E[Y|coupon])
+d[T]             
+Estimand assumption 1, Unconfoundedness: If U→{T} and U→Y then P(Y|T,coupon,U) = P(Y|T,coupon)
+
+### Estimand : 2
+Estimand name: iv
+Estimand expression:
+ ⎡                               -1⎤
+ ⎢    d         ⎛    d          ⎞  ⎥
+E⎢──────────(Y)⋅⎜──────────([T])⎟  ⎥
+ ⎣d[weather]    ⎝d[weather]     ⎠  ⎦
+Estimand assumption 1, As-if-random: If U→→Y then ¬(U →→{weather})
+Estimand assumption 2, Exclusion: If we remove {weather}→{T}, then ¬({weather}→Y)
+
+### Estimand : 3
+Estimand name: frontdoor
+No such variable(s) found!
+
+### Estimand : 4
+Estimand name: general_adjustment
+Estimand expression:
+ d               
+────(E[Y|coupon])
+d[T]             
+Estimand assumption 1, Unconfoundedness: If U→{T} and U→Y then P(Y|T,coupon,U) = P(Y|T,coupon)

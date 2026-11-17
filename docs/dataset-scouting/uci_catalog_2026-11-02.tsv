@@ -1,0 +1,690 @@
+uci_id	name	area	n	p	characteristics	year
+1	Abalone	Biology	4177	8	Tabular	1994
+2	Adult	Social Science	48842	14	Multivariate	1996
+3	Annealing	Physics and Chemistry	798	38	Multivariate	
+4	Anonymous Microsoft Web Data	Computer Science	37711	294		1998
+5	Arrhythmia	Health and Medicine	452	279	Multivariate	1997
+6	Artificial Characters	Computer Science	6000	7	Multivariate	1992
+7	Audiology (Original)	Health and Medicine	226		Multivariate	1987
+8	Audiology (Standardized)	Health and Medicine	226	70	Multivariate	1992
+9	Auto MPG	Other	398	7	Multivariate	1993
+10	Automobile	Other	205	25	Multivariate	1985
+11	Badges	Other	294	0	Univariate,Text	1994
+12	Balance Scale	Social Science	625	4	Multivariate	1976
+13	Balloons	Social Science	16	4	Multivariate	1991
+14	Breast Cancer	Health and Medicine	286	9	Multivariate	1988
+15	Breast Cancer Wisconsin (Original)	Health and Medicine	699	9	Multivariate	1990
+16	Breast Cancer Wisconsin (Prognostic)	Health and Medicine	198	33	Multivariate	1995
+17	Breast Cancer Wisconsin (Diagnostic)	Health and Medicine	569	30	Multivariate	1993
+18	Pittsburgh Bridges	Other	108	12	Multivariate	1989
+19	Car Evaluation	Other	1728	6	Multivariate	1988
+20	Census Income	Social Science	48842	14	Multivariate	1996
+21	Chess (King-Rook vs. King-Knight)	Games	0	0	Multivariate,Data-Generator	1983
+22	Chess (King-Rook vs. King-Pawn)	Games	3196	35	Multivariate	1983
+23	Chess (King-Rook vs. King)	Games	28056	6	Multivariate	1994
+24	Chess (Domain Theories)	Games	0	0	Domain-Theory	
+25	Bach Chorales	Other	100	6	Univariate,Time-Series	1966
+26	Connect-4	Games	67557	42	Multivariate,Spatial	1995
+27	Credit Approval	Business	690	15	Multivariate	1987
+28	Japanese Credit Screening	Business	125	15	Multivariate,Domain-Theory	1992
+29	Computer Hardware	Computer Science	209	10	Multivariate	1987
+30	Contraceptive Method Choice	Health and Medicine	1473	9	Multivariate	1999
+31	Covertype	Biology	581012	54	Multivariate	1998
+32	Cylinder Bands	Physics and Chemistry	512	39	Multivariate	1994
+33	Dermatology	Health and Medicine	366	34	Multivariate	1998
+34	Diabetes	Health and Medicine	1	20	Multivariate,Time-Series	
+35	DGP2 - The Second Data Generation Program	Other	0	0	Data-Generator	1990
+36	Document Understanding	Other	0	0		1993
+37	EBL Domain Theories	Computer Science	0	0		
+38	Echocardiogram	Health and Medicine	132	9	Multivariate	1988
+39	Ecoli	Biology	336	7	Multivariate	1996
+40	Flags	Other	194	30	Multivariate	1990
+41	Function Finding	Physics and Chemistry	352	0		1990
+42	Glass Identification	Physics and Chemistry	214	9	Multivariate	1987
+43	Haberman's Survival	Health and Medicine	306	3	Multivariate	1976
+44	Hayes-Roth	Social Science	160	4	Multivariate	1977
+45	Heart Disease	Health and Medicine	303	13	Multivariate	1989
+46	Hepatitis	Health and Medicine	155	19	Multivariate	1983
+47	Horse Colic	Biology	368	27	Multivariate	1989
+49	ICU	Health and Medicine	1		Multivariate,Time-Series	
+50	Image Segmentation	Other	2310	19	Multivariate	1990
+51	Internet Advertisements	Computer Science	3279	1558	Multivariate	1999
+52	Ionosphere	Physics and Chemistry	351	34	Multivariate	1989
+53	Iris	Biology	150	4	Tabular	1936
+54	ISOLET	Computer Science	7797	617	Multivariate	1991
+55	Kinship	Social Science	104	12	Relational	1986
+56	Labor Relations	Social Science	57	16	Multivariate	1988
+57	LED Display Domain	Computer Science	0	7	Multivariate,Data-Generator	1984
+58	Lenses	Other	24	3	Multivariate	1987
+59	Letter Recognition	Computer Science	20000	16	Multivariate	1991
+60	Liver Disorders	Health and Medicine	345	5	Multivariate	2016
+61	Logic Theorist	Computer Science	0	0	Domain-Theory	
+62	Lung Cancer	Health and Medicine	32	56	Multivariate	1991
+63	Lymphography	Health and Medicine	148	19	Multivariate	1988
+64	Mechanical Analysis	Computer Science	209	8	Multivariate	1990
+65	Meta-data	Other	528	0	Multivariate	1994
+66	Mobile Robots	Computer Science	0	0	Domain-Theory	1995
+67	Molecular Biology (Promoter Gene Sequences)	Biology	106	0	Sequential,Domain-Theory	1987
+68	Molecular Biology (Protein Secondary Structure)	Biology	128	0	Sequential	1988
+69	Molecular Biology (Splice-junction Gene Sequences)	Biology	3190	60	Sequential,Domain-Theory	1991
+70	MONK's Problems	Other	432	6	Multivariate	1993
+71	Moral Reasoner	Computer Science	202	0	Domain-Theory	1990
+72	Multiple Features	Computer Science	2000	0	Multivariate	1998
+73	Mushroom	Biology	8124	22	Multivariate	1981
+74	Musk (Version 1)	Physics and Chemistry	476	168	Multivariate	1994
+75	Musk (Version 2)	Physics and Chemistry	6598	166	Multivariate	1994
+76	Nursery	Social Science	12960	8	Multivariate	1989
+77	Othello Domain Theory	Games	0	0	Domain-Theory	1991
+78	Page Blocks Classification	Computer Science	5473	10	Multivariate	1994
+80	Optical Recognition of Handwritten Digits	Computer Science	5620	64	Multivariate	1998
+81	Pen-Based Recognition of Handwritten Digits	Computer Science	10992	16	Multivariate	1996
+82	Post-Operative Patient	Health and Medicine	90	8	Multivariate	1991
+83	Primary Tumor	Health and Medicine	339	17	Multivariate	1987
+84	Prodigy	Other	0	0	Domain-Theory	
+85	Qualitative Structure Activity Relationships	Physics and Chemistry	0	0	Domain-Theory	
+86	Quadruped Mammals	Biology	0	72	Multivariate,Data-Generator	1989
+87	Servo	Computer Science	167	4	Multivariate	1986
+88	Shuttle Landing Control	Physics and Chemistry	15	6	Multivariate	1988
+89	Solar Flare	Physics and Chemistry	1389	10	Multivariate	1989
+90	Soybean (Large)	Biology	307	35	Multivariate	1980
+91	Soybean (Small)	Biology	47	35	Multivariate	1980
+92	Challenger USA Space Shuttle O-Ring	Physics and Chemistry	23	4	Multivariate	1993
+93	Low Resolution Spectrometer	Physics and Chemistry	531	102	Multivariate	1988
+94	Spambase	Computer Science	4601	57	Multivariate	1999
+95	SPECT Heart	Health and Medicine	267	22	Multivariate	2001
+96	SPECTF Heart	Health and Medicine	267	44	Multivariate	2001
+97	Sponge	Biology	76	0	Multivariate	
+98	Statlog Project	Other	1		Other	1993
+99	Student Loan Relational	Social Science	1000	0	Domain-Theory	1991
+100	Teaching Assistant Evaluation	Other	151	0	Multivariate	1997
+101	Tic-Tac-Toe Endgame	Games	958	9	Multivariate	1991
+102	Thyroid Disease	Health and Medicine	7200	5	Multivariate,Domain-Theory	1986
+103	Trains	Other	10	0	Multivariate	1977
+104	University	Other	285	17	Multivariate	1987
+105	Congressional Voting Records	Social Science	435	16	Multivariate	1987
+106	Water Treatment Plant	Physics and Chemistry	527	0	Multivariate	1993
+107	Waveform Database Generator (Version 1)	Physics and Chemistry	5000	21	Multivariate,Data-Generator	1984
+108	Waveform Database Generator (Version 2)	Physics and Chemistry	5000	0	Multivariate,Data-Generator	1984
+109	Wine	Physics and Chemistry	178	13	Tabular	1992
+110	Yeast	Biology	1484	8	Multivariate	1991
+111	Zoo	Biology	101	16	Multivariate	1990
+112	Undocumented	Other	0	0		
+113	Twenty Newsgroups	Other	20000	0	Text	1997
+114	Australian Sign Language Signs	Other	6650	0	Multivariate,Time-Series	1995
+115	Australian Sign Language Signs (High Quality)	Other	2565	0	Multivariate,Time-Series	2002
+116	US Census Data (1990)	Social Science	2458285	68	Multivariate	2001
+117	Census-Income (KDD)	Social Science	299285	41	Multivariate	2000
+118	Coil 1999 Competition Data	Physics and Chemistry	340	0	Multivariate	1999
+119	Corel Image Features	Other	68040	0	Multivariate	1998
+120	E. Coli Genes	Biology	0	0	Relational	2000
+121	EEG Database	Health and Medicine	122	0	Multivariate,Time-Series	1995
+122	El Nino	Climate and Environment	178080	11	Other	1999
+123	Entree Chicago Recommendation Data	Other	50672	0	Transactional,Sequential	1999
+124	CMU Face Images	Other	640	0	Image	1997
+125	Insurance Company Benchmark (COIL 2000)	Social Science	9000	0	Multivariate	2000
+126	Internet Usage Data	Computer Science	10104	0	Multivariate	1999
+127	IPUMS Census Database	Social Science	256932	0	Multivariate	1997
+128	Japanese Vowels	Other	640	0	Multivariate,Time-Series	1999
+129	KDD Cup 1998	Other	191779	0	Multivariate	1998
+130	KDD Cup 1999 Data	Computer Science	4000000	0	Multivariate	1999
+131	M. Tuberculosis Genes	Biology	0	0	Relational	2000
+132	Movie	Other	10000	0	Multivariate,Relational	1990
+133	MSNBC.com Anonymous Web Data	Computer Science	989818	0	Sequential	1999
+134	NSF Research Award Abstracts 1990-2003	Other	129000	0	Text	2003
+135	Pioneer-1 Mobile Robot Data	Computer Science	0	0	Multivariate,Time-Series	1999
+136	Pseudo Periodic Synthetic Time Series	Other	100000	0	Univariate,Time-Series	1999
+137	Reuters-21578 Text Categorization Collection	Business	21578	5	Text	1987
+138	Robot Execution Failures	Physics and Chemistry	463	90	Multivariate,Time-Series	1998
+139	Synthetic Control Chart Time Series	Other	600	0	Time-Series	1999
+140	Syskill and Webert Web Page Ratings	Computer Science	332	5	Multivariate,Text	1997
+141	UNIX User Data	Computer Science	0	0	Text,Sequential	
+142	Volcanoes on Venus - JARtool experiment	Climate and Environment	1		Image	1995
+143	Statlog (Australian Credit Approval)	Business	690	14	Multivariate	1987
+144	Statlog (German Credit Data)	Social Science	1000	20	Multivariate	1994
+145	Statlog (Heart)	Health and Medicine	270	13	Multivariate	
+146	Statlog (Landsat Satellite)	Climate and Environment	6435	36	Multivariate	1993
+147	Statlog (Image Segmentation)	Other	2310	19	Multivariate	1990
+148	Statlog (Shuttle)	Physics and Chemistry	58000	7	Multivariate	
+149	Statlog (Vehicle Silhouettes)	Other	946	18	Multivariate	
+150	Connectionist Bench (Nettalk Corpus)	Other	20008	0	Multivariate	1988
+151	Connectionist Bench (Sonar, Mines vs. Rocks)	Physics and Chemistry	208	60	Multivariate	1988
+152	Connectionist Bench (Vowel Recognition - Deterding Data)	Other	528	10		1988
+153	Economic Sanctions	Business	0	0	Domain-Theory	1988
+154	Protein Data	Biology	0	0		
+155	Cloud	Climate and Environment	1024	10	Multivariate,Image	1989
+156	CalIt2 Building People Counts	Other	10080	0	Multivariate,Time-Series	2006
+157	Dodgers Loop Sensor	Other	50400	0	Multivariate,Time-Series	2006
+158	Poker Hand	Games	1025010	10	Multivariate	2002
+159	MAGIC Gamma Telescope	Physics and Chemistry	19020	10	Multivariate	2004
+160	UJI Pen Characters	Computer Science	1364	0	Multivariate,Sequential	2007
+161	Mammographic Mass	Health and Medicine	961	5	Multivariate	2007
+162	Forest Fires	Climate and Environment	517	12	Multivariate	2007
+163	Reuters Transcribed Subset	Business	200	0	Text	2007
+164	Bag of Words	Other	8000000	100000	Text	2008
+165	Concrete Compressive Strength	Physics and Chemistry	1030	8	Multivariate	1998
+166	Hill-Valley	Other	606	101	Sequential	2008
+167	Arcene	Health and Medicine	900	10000	Multivariate	2004
+168	Dexter	Other	2600	20000	Multivariate	2004
+169	Dorothea	Biology	1950	100000	Multivariate	2004
+170	Gisette	Computer Science	13500	5000	Multivariate	2004
+171	Madelon	Other	4400	0	Multivariate	2004
+172	Ozone Level Detection	Climate and Environment	2536	72	Multivariate,Sequential,Time-Series	2008
+173	Abscisic Acid Signaling Network	Biology	300	43	Multivariate	2008
+174	Parkinsons	Health and Medicine	197	22	Multivariate	2007
+175	Character Trajectories	Computer Science	2858	0	Time-Series	2006
+176	Blood Transfusion Service Center	Business	748	4	Multivariate	2008
+177	UJI Pen Characters (Version 2)	Computer Science	11640	0	Multivariate,Sequential	2008
+178	Semeion Handwritten Digit	Computer Science	1593	0	Multivariate	1998
+179	SECOM	Computer Science	1567	591	Multivariate	2008
+180	Plants	Biology	34781	70	Multivariate	2008
+181	Libras Movement	Other	360	0	Multivariate,Sequential	2009
+182	Concrete Slump Test	Computer Science	103	0	Multivariate	2007
+183	Communities and Crime	Social Science	1994	127	Multivariate	2002
+184	Acute Inflammations	Health and Medicine	120	6	Multivariate	2003
+186	Wine Quality	Business	4898	11	Multivariate	2009
+187	URL Reputation	Computer Science	2396130	3231961	Multivariate,Time-Series	2009
+188	p53 Mutants	Biology	16772	5408	Multivariate	2009
+189	Parkinsons Telemonitoring	Health and Medicine	5875	19	Tabular	2009
+190	Demospongiae	Biology	503	0	Multivariate	2009
+191	Opinosis Opinion / Review	Computer Science	51		Text	2010
+192	Breast Tissue	Health and Medicine	106	0	Multivariate	1996
+193	Cardiotocography	Health and Medicine	2126	21	Multivariate	2000
+194	Wall-Following Robot Navigation Data	Computer Science	5456	0	Multivariate,Sequential	2009
+195	Spoken Arabic Digit	Other	8800	13	Multivariate,Time-Series	2008
+196	Localization Data for Person Activity	Health and Medicine	164860	8	Univariate,Sequential,Time-Series	2010
+197	AutoUniv	Other	0	0	Multivariate	2010
+198	Steel Plates Faults	Physics and Chemistry	1941	27	Multivariate	2010
+199	MiniBooNE particle identification	Physics and Chemistry	130065	0	Multivariate	2005
+203	Year Prediction MSD	Other	515345	0	Multivariate	2011
+204	PEMS-SF	Computer Science	440	138672	Multivariate,Time-Series	2011
+205	OpinRank Review Dataset	Computer Science	0	0	Text	2011
+206	Relative location of CT slices on axial axis	Computer Science	53500	386	Domain-Theory	2011
+208	Online Handwritten Assamese Characters Dataset	Computer Science	8235	0	Multivariate,Sequential	2015
+209	PubChem Bioassay Data	Biology	0	0	Multivariate	2009
+210	Record Linkage Comparison Patterns	Other	5749132	0	Multivariate	2009
+211	Communities and Crime Unnormalized	Social Science	2215	125	Multivariate	2009
+212	Vertebral Column	Health and Medicine	310	6	Multivariate	2005
+213	EMG Physical Action Data Set	Health and Medicine	10000	0	Time-Series	2011
+214	Vicon Physical Action Data Set	Health and Medicine	3000	0	Time-Series	2007
+215	Amazon Commerce Reviews	Other	1500	10000	Multivariate,Text,Domain-Theory	2011
+216	Amazon Access Samples	Business	30000	20000	Time-Series,Domain-Theory	2011
+217	Reuter_50_50	Computer Science	2500	10000	Multivariate,Text,Domain-Theory	2006
+218	Farm Ads	Business	4143	54877	Text	2011
+219	DBWorld e-mails	Computer Science	64	4702	Text	2011
+220	KEGG Metabolic Relation Network (Directed)	Biology	53414	0	Multivariate,Univariate,Text	2011
+221	KEGG Metabolic Reaction Network (Undirected)	Biology	65554	0	Multivariate,Univariate,Text	2011
+222	Bank Marketing	Business	45211	16	Multivariate	2014
+223	YouTube Comedy Slam Preference Data	Computer Science	1138562	3	Text	2012
+224	Gas Sensor Array Drift Dataset	Computer Science	13910	0	Multivariate	2012
+225	ILPD (Indian Liver Patient Dataset)	Health and Medicine	583	10	Multivariate	2022
+226	OPPORTUNITY Activity Recognition	Computer Science	2551	0	Multivariate,Time-Series	2010
+227	Nomao	Computer Science	34465	0	Univariate	2012
+228	SMS Spam Collection	Computer Science	5574	0	Multivariate,Text,Domain-Theory	2011
+229	Skin Segmentation	Computer Science	245057	3	Univariate	2009
+230	Planning Relax	Computer Science	182	0	Univariate	2004
+231	PAMAP2 Physical Activity Monitoring	Computer Science	3850505	0	Multivariate,Time-Series	2012
+232	Restaurant & consumer data	Computer Science	138	0	Multivariate	2011
+233	CNAE-9	Business	1080	0	Multivariate,Text	2009
+235	Individual Household Electric Power Consumption	Physics and Chemistry	2075259	9	Multivariate,Time-Series	2006
+236	Seeds	Biology	210	0	Multivariate	2010
+237	Northix	Computer Science	115	200	Multivariate,Univariate,Text	2012
+238	QtyT40I10D100K	Business	3960456	0	Sequential	1994
+239	Legal Case Reports	Other	0	0	Text	2010
+240	Human Activity Recognition Using Smartphones	Computer Science	10299	0	Multivariate,Time-Series	2013
+241	One-hundred plant species leaves data set	Biology	1600	64		2013
+242	Energy Efficiency	Computer Science	768	8	Multivariate	2012
+243	Yacht Hydrodynamics	Physics and Chemistry	308	0	Multivariate	1981
+244	Fertility	Health and Medicine	100	9	Multivariate	2012
+245	Daphnet Freezing of Gait	Health and Medicine	237	0	Multivariate,Time-Series	2010
+246	3D Road Network (North Jutland, Denmark)	Computer Science	434874	4	Sequential,Text	2013
+247	ISTANBUL STOCK EXCHANGE	Business	536	10	Multivariate,Univariate,Time-Series	2013
+248	Buzz in social media 	Computer Science	140000	0	Time-Series,Multivariate	2013
+249	First-order theorem proving	Computer Science	6118	0	Multivariate	2012
+250	Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)	Computer Science	165632	0	Sequential	2012
+251	Gas sensor arrays in open sampling settings	Computer Science	18000	1950000	Multivariate,Time-Series	2013
+252	Climate Model Simulation Crashes	Climate and Environment	540	0	Multivariate	2013
+253	MicroMass	Biology	931	1300	Multivariate	2014
+254	QSAR biodegradation	Other	1055	0	Multivariate	2013
+255	BLOGGER	Computer Science	100	0	Multivariate	2012
+256	Daily and Sports Activities	Computer Science	9120	5625	Multivariate,Time-Series	2010
+257	User Knowledge Modeling	Computer Science	403	5	Multivariate	2009
+259	Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection	Business	111740	0	Multivariate	2009
+260	NYSK	Social Science	10421	7	Multivariate,Sequential,Text	2014
+262	Turkiye Student Evaluation	Other	5820	0	Multivariate	2013
+263	ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)	Computer Science	403	5	Multivariate	2009
+264	EEG Eye State	Health and Medicine	14980	14	Multivariate,Sequential,Time-Series	2013
+265	Physicochemical Properties of Protein Tertiary Structure	Biology	45730	0	Multivariate	2013
+266	seismic-bumps	Other	2584	0	Multivariate	2010
+267	Banknote Authentication	Computer Science	1372	4	Multivariate	2012
+268	USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat	Other	306	5	Domain-Theory	2013
+269	YouTube Multiview Video Games Dataset	Computer Science	120000	1000000	Multivariate,Text	2013
+270	Gas Sensor Array Drift at Different Concentrations	Computer Science	13910	128	Multivariate,Time-Series	2012
+271	Activities of Daily Living (ADLs) Recognition Using Binary Sensors	Computer Science	2747	0	Multivariate,Sequential,Time-Series	2013
+272	SkillCraft1 Master Table Dataset	Games	3395	0	Multivariate	2013
+273	Weight Lifting Exercises monitored with Inertial Measurement Units	Health and Medicine	39242	0	Multivariate	2013
+274	SML2010	Computer Science	4137	0	Multivariate,Sequential,Time-Series,Text	2014
+275	Bike Sharing	Social Science	17389	13	Multivariate	2013
+276	Predict keywords activities in a online social media	Computer Science	51	35	Multivariate,Sequential,Time-Series	2014
+277	Thoracic Surgery Data	Health and Medicine	470	16	Multivariate	2014
+278	EMG dataset in Lower Limb	Computer Science	132	5	Multivariate,Time-Series	2014
+279	SUSY	Physics and Chemistry	5000000	0		2014
+280	HIGGS	Physics and Chemistry	11000000	0		2014
+281	Qualitative_Bankruptcy	Computer Science	250	0	Multivariate	2014
+282	LSVT Voice Rehabilitation	Health and Medicine	126	0	Multivariate	2014
+283	Dataset for ADL Recognition with Wrist-worn Accelerometer	Computer Science	0	0	Multivariate,Time-Series	2012
+285	Wilt	Biology	4889	0	Multivariate	2013
+286	User Identification From Walking Activity	Other	0	0	Univariate,Sequential,Time-Series	2012
+287	Activity Recognition from Single Chest-Mounted Accelerometer	Other	0	0	Univariate,Sequential,Time-Series	2012
+288	Leaf	Computer Science	340	0	Multivariate	2013
+289	Dresses_Attribute_Sales	Computer Science	501	13	Text	2014
+290	Tamilnadu Electricity Board Hourly Readings	Engineering	45781	0	Multivariate	2013
+291	Airfoil Self-Noise	Physics and Chemistry	1503	5	Multivariate	1989
+292	Wholesale customers	Business	440	7	Multivariate	2013
+293	Twitter Data set for Arabic Sentiment Analysis	Social Science	2000	2	Text	2013
+294	Combined Cycle Power Plant	Computer Science	9568	4	Multivariate	2014
+295	Urban Land Cover	Climate and Environment	168	148	Multivariate	2013
+296	Diabetes 130-US Hospitals for Years 1999-2008	Health and Medicine	101766	47	Multivariate	2014
+298	Bach Choral Harmony	Other	5665	0	Sequential	2014
+299	StoneFlakes	Other	79	0	Multivariate	2009
+300	Tennis Major Tournament Match Statistics	Other	127	42	Multivariate	2014
+301	Parkinson's Speech with Multiple Types of Sound Recordings	Health and Medicine	1040	0	Multivariate	2013
+302	Gesture Phase Segmentation	Other	9900	0	Multivariate,Sequential,Time-Series	2013
+303	Perfume Data	Computer Science	560	0	Univariate,Domain-Theory	2004
+304	BlogFeedback	Social Science	60021	0	Multivariate	2014
+305	REALDISP Activity Recognition Dataset	Computer Science	1419	0	Multivariate,Time-Series	2012
+306	Newspaper and magazine images segmentation dataset	Computer Science	101	0		2012
+307	AAAI 2014 Accepted Papers	Computer Science	399	0	Multivariate	2014
+308	Gas sensor array under flow modulation	Computer Science	58	120432	Multivariate,Time-Series	2015
+309	Gas sensor array exposed to turbulent gas mixtures	Computer Science	180	150000	Multivariate,Time-Series	2014
+310	UJIIndoorLoc	Computer Science	21048	0	Multivariate	2014
+311	Sentence Classification	Other	0	0	Text	2013
+312	Dow Jones Index	Business	750	15	Time-Series	2013
+313	sEMG for Basic Hand movements	Health and Medicine	3000	2500	Time-Series	2013
+314	AAAI 2013 Accepted Papers	Computer Science	150	0	Multivariate	2014
+315	Geographical Origin of Music	Other	1059	68	Multivariate	2014
+316	Condition Based Maintenance of Naval Propulsion Plants	Computer Science	11934	0	Multivariate	2014
+317	Grammatical Facial Expressions	Computer Science	27965	0	Multivariate,Sequential	2014
+318	NoisyOffice	Computer Science	216	216	Multivariate	2007
+319	MHEALTH	Computer Science	120	0	Multivariate,Time-Series	2014
+320	Student Performance	Social Science	649	30	Multivariate	2008
+321	ElectricityLoadDiagrams20112014	Computer Science	370	140256	Time-Series	2015
+322	Gas sensor array under dynamic gas mixtures	Computer Science	4178504	19	Multivariate,Time-Series	2015
+323	microblogPCU	Computer Science	221579	20	Multivariate,Univariate,Sequential,Text	2015
+324	Firm-Teacher_Clave-Direction_Classification	Other	10800	20	Multivariate	2011
+325	Dataset for Sensorless Drive Diagnosis	Computer Science	58509	0	Multivariate	2013
+326	TV News Channel Commercial Detection Dataset	Computer Science	129685	12	Multivariate	2014
+327	Phishing Websites	Computer Science	11055	30	Tabular	2012
+328	Greenhouse Gas Observing Network	Climate and Environment	2921	5232	Multivariate,Time-Series	2015
+329	Diabetic Retinopathy Debrecen	Health and Medicine	1151	19	Multivariate	2014
+330	HIV-1 protease cleavage	Biology	6590	1	Multivariate	2015
+331	Sentiment Labelled Sentences	Other	3000	0	Text	2015
+332	Online News Popularity	Business	39797	58	Multivariate	2015
+333	Forest type mapping	Biology	326	27	Multivariate	2012
+334	wiki4HE	Social Science	913	0	Multivariate	2015
+335	Online Video Characteristics and Transcoding Time Dataset	Computer Science	168286	0	Multivariate	2014
+336	Chronic Kidney Disease	Other	400	24	Multivariate	2015
+337	Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014	Business	314080	0	Sequential,Time-Series	2015
+338	Folio	Other	637	20	Multivariate	2015
+339	Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015	Computer Science	1710671	9	Multivariate,Sequential,Time-Series,Domain-Theory	2013
+340	Cuff-Less Blood Pressure Estimation	Health and Medicine	12000	0	Multivariate	2015
+341	Smartphone-Based Recognition of Human Activities and Postural Transitions	Health and Medicine	10929	0	Multivariate,Time-Series	2015
+342	Mice Protein Expression	Biology	1080	80	Multivariate	2015
+343	UJIIndoorLoc-Mag	Computer Science	40000	0	Multivariate,Sequential,Time-Series	2015
+344	Heterogeneity Activity Recognition	Computer Science	43930257	0	Multivariate,Time-Series	2015
+346	Educational Process Mining (EPM): A Learning Analytics Data Set	Computer Science	230318	0	Multivariate,Sequential,Time-Series	2015
+347	HEPMASS	Physics and Chemistry	10500000	0	Multivariate	2016
+348	Indoor User Movement Prediction from RSS data	Computer Science	13197	4	Multivariate,Sequential,Time-Series	2014
+349	Open University Learning Analytics dataset	Computer Science	0	0	Multivariate,Sequential,Time-Series	2015
+350	Default of Credit Card Clients	Business	30000	23	Multivariate	2009
+351	Mesothelioma's disease data set 	Computer Science	324	0	Multivariate	2012
+352	Online Retail	Business	541909	6	Multivariate,Sequential,Time-Series	2015
+353	SIFT10M	Computer Science	11164866	0	Multivariate	2016
+354	GPS Trajectories	Computer Science	163	15	Multivariate	2015
+355	Detect Malacious Executable(AntiVirus)	Computer Science	373	0	Multivariate	2016
+357	Occupancy Detection 	Computer Science	20560	6	Multivariate,Time-Series	2016
+358	Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson's Disease	Computer Science	40	7	Multivariate	2013
+359	News Aggregator	Other	422937	0	Multivariate	2017
+360	Air Quality	Computer Science	9358	15	Multivariate,Time-Series	2008
+361	Twin gas sensor arrays	Computer Science	640	480000	Multivariate,Time-Series,Domain-Theory	2016
+362	Gas sensors for home activity monitoring	Computer Science	919438	0	Multivariate,Time-Series	2016
+363	Facebook Comment Volume	Other	40949	0	Multivariate	2015
+364	Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)	Computer Science	5744	0	Time-Series	2016
+365	Polish Companies Bankruptcy	Business	10503	65	Multivariate	2016
+366	Activity Recognition system based on Multisensor data fusion (AReM)	Computer Science	42240	6	Multivariate,Sequential,Time-Series	2016
+367	Dota2 Games Results	Games	102944	115	Multivariate	2016
+368	Facebook Metrics	Business	500	18	Multivariate	2016
+369	UbiqLog (smartphone lifelogging)	Computer Science	9782222	0	Multivariate	2013
+371	NIPS Conference Papers 1987-2015	Computer Science	11463	5812	Text	2016
+372	HTRU2	Physics and Chemistry	17898	8	Multivariate	2015
+373	Drug Consumption (Quantified)	Social Science	1885	12	Multivariate	2015
+374	Appliances Energy Prediction	Computer Science	19735	28	Multivariate,Time-Series	2017
+375	Miskolc IIS Hybrid IPS	Computer Science	1540	0	Text	2016
+376	KDC-4007 dataset Collection	Computer Science	4007	0	Multivariate,Text	2017
+377	Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone	Computer Science	153540	25	Multivariate,Sequential,Time-Series	2016
+378	DrivFace	Computer Science	606	6400	Multivariate	2016
+379	Website Phishing	Computer Science	1353	9	Multivariate	2014
+380	YouTube Spam Collection	Computer Science	1956	3	Text	2015
+381	Beijing PM2.5	Climate and Environment	43824	11	Multivariate,Time-Series	2015
+382	Cargo 2000 Freight Tracking and Tracing	Business	3942	98	Multivariate,Sequential	2015
+383	Cervical Cancer (Risk Factors)	Health and Medicine	858	36	Multivariate	2017
+384	Quality Assessment of Digital Colposcopies	Health and Medicine	287	0	Multivariate	2017
+385	KASANDR	Other	17764280	2158859	Multivariate	2017
+386	FMA: A Dataset For Music Analysis	Computer Science	106574	0	Multivariate,Time-Series	2017
+387	Air quality	Other	9358	15	Multivariate,Time-Series	2008
+389	Devanagari Handwritten Character Dataset	Computer Science	92000	0		2015
+390	Stock Portfolio Performance	Business	315	12	Multivariate	2015
+391	MoCap Hand Postures	Computer Science	78095	0	Multivariate	2014
+392	Early biomarkers of Parkinson’s disease based on natural connected speech	Health and Medicine	130	0	Multivariate	2017
+393	Data for Software Engineering Teamwork Assessment in Education Setting	Computer Science	74	0	Sequential,Time-Series	2016
+394	PM2.5 Data of Five Chinese Cities	Physics and Chemistry	52854	0	Multivariate,Time-Series	2016
+395	Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet	Computer Science	77	0	Multivariate	2013
+396	Sales Transactions Weekly	Business	811	106	Multivariate,Time-Series	2014
+397	Las Vegas Strip	Business	504	0		2017
+398	Eco-hotel	Business	401	0	Text	2017
+399	MEU-Mobile KSD	Computer Science	2856	0	Multivariate	2016
+400	Crowdsourced Mapping	Climate and Environment	10546	29	Multivariate	2016
+401	gene expression cancer RNA-Seq	Biology	801	20531	Multivariate	2016
+402	Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer	Computer Science	1540	0	Multivariate,Sequential,Time-Series	2016
+403	chestnut - LARVIC	Computer Science	1451	3	Multivariate	2014
+404	Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network	Computer Science	1075	22	Text	2016
+405	Motion Capture Hand Postures	Computer Science	78095	0	Multivariate	2014
+406	Anuran Calls (MFCCs)	Biology	7195	0	Multivariate	2015
+407	TTC-3600: Benchmark dataset for Turkish text categorization	Computer Science	3600	4814	Text	2015
+408	Gastrointestinal Lesions in Regular Colonoscopy	Computer Science	76	698	Multivariate	2016
+409	Daily Demand Forecasting Orders	Business	60	12	Time-Series	2016
+410	Paper Reviews	Computer Science	405	10	Text	2017
+411	extention of Z-Alizadeh sani dataset	Health and Medicine	303	0	Tabular	2013
+412	Z-Alizadeh Sani	Health and Medicine	303	0	Tabular	2013
+413	Dynamic Features of VirusShare Executables	Computer Science	107888	482	Multivariate,Time-Series	2017
+414	IDA2016Challenge	Computer Science	76000	0	Multivariate	2016
+415	DSRC Vehicle Communications	Computer Science	10000	5	Sequential,Text	2016
+416	Mturk User-Perceived Clusters over Images	Computer Science	180	0	Multivariate,Text	2016
+417	Character Font Images	Computer Science	745000	0	Multivariate	2016
+418	DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels	Computer Science	12234	8519	Text	2016
+419	Autistic Spectrum Disorder Screening Data for Children  	Health and Medicine	292	20	Multivariate	2017
+420	Autistic Spectrum Disorder Screening Data for Adolescent   	Health and Medicine	104	21	Multivariate	2017
+421	APS Failure at Scania Trucks	Computer Science	60000	171	Multivariate	2016
+422	Wireless Indoor Localization	Computer Science	2000	0	Multivariate	2017
+423	HCC Survival	Health and Medicine	165	0	Multivariate	2015
+424	CSM (Conventional and Social Media Movies) Dataset 2014 and 2015	Computer Science	217	12	Multivariate	2015
+425	University of Tehran Question Dataset 2016 (UTQD.2016)	Other	1175	3	Text	2017
+426	Autism Screening Adult	Social Science	704	20		2017
+427	Activity recognition with healthy older people using a batteryless wearable sensor	Health and Medicine	75128	9	Sequential	2013
+428	Immunotherapy Dataset	Health and Medicine	90	8	Univariate	2017
+429	Cryotherapy Dataset 	Health and Medicine	90	0	Tabular	2017
+430	OCT data & Color Fundus Images of Left & Right Eyes	Computer Science	50	0	Multivariate	2014
+431	Discrete Tone Image Dataset	Computer Science	71	11	Multivariate	2018
+432	News Popularity in Multiple Social Media Platforms	Computer Science	93239	0	Multivariate,Time-Series,Text	2018
+433	Ultrasonic flowmeter diagnostics	Computer Science	540	0	Multivariate	2017
+434	ICMLA 2014 Accepted Papers Data Set	Other	105	0	Multivariate	2017
+435	BLE RSSI Dataset for Indoor localization and Navigation	Computer Science	6611	0	Multivariate,Sequential,Time-Series	2017
+436	Container Crane Controller Data Set	Computer Science	15	0	Univariate,Domain-Theory	2016
+437	Residential Building	Computer Science	372	0	Multivariate	2015
+438	Health News in Twitter	Computer Science	58000	25000	Text	2017
+439	chipseq	Biology	4960	0	Sequential	2017
+440	SGEMM GPU kernel performance	Computer Science	241600	0	Multivariate	2017
+441	Repeat Consumption Matrices	Computer Science	130000	21000	Multivariate	2018
+442	detection_of_IoT_botnet_attacks_N_BaIoT	Computer Science	7062606	0	Multivariate,Sequential	2018
+445	Absenteeism at work	Business	740	19	Multivariate,Time-Series	2012
+446	SCADI	Health and Medicine	70	0	Multivariate	2018
+447	Condition monitoring of hydraulic systems	Computer Science	2205	43680	Multivariate,Time-Series	2015
+448	Carbon Nanotubes	Computer Science	10721	0	Univariate	2016
+449	Optical Interconnection Network 	Computer Science	640	0	Multivariate	2015
+450	Sports articles for objectivity analysis	Social Science	1000	0	Multivariate,Text	2018
+451	Breast Cancer Coimbra	Health and Medicine	116	9	Multivariate	2018
+452	GNFUV Unmanned Surface Vehicles Sensor Data	Computer Science	1672	0	Multivariate,Time-Series	2017
+453	Dishonest Internet users Dataset	Computer Science	322	0	Multivariate	2015
+454	Victorian Era Authorship Attribution	Computer Science	93600	1000	Text	2018
+455	Simulated Falls and Daily Living Activities Data Set	Health and Medicine	3060	138	Time-Series	2014
+456	Multimodal Damage Identification for Humanitarian Computing	Social Science	5879	0	Multivariate,Text	2018
+457	EEG Steady-State Visual Evoked Potential Signals	Health and Medicine	9200	0	Multivariate,Time-Series	2018
+458	Roman Urdu Data Set	Computer Science	20000	0	Text	2017
+459	Avila	Computer Science	20867	0	Multivariate	2018
+460	PANDOR	Other	48000000		Multivariate	2018
+461	Drug Reviews (Druglib.com)	Health and Medicine	4143	8	Multivariate,Text	2018
+463	Physical Unclonable Functions	Computer Science	6000000	0	Multivariate	2018
+464	Superconductivty Data	Physics and Chemistry	21263	81	Multivariate	2018
+465	WESAD (Wearable Stress and Affect Detection)	Computer Science	63000000	0	Multivariate,Time-Series	2018
+466	GNFUV Unmanned Surface Vehicles Sensor Data Set 2	Computer Science	10190	0	Multivariate,Sequential,Time-Series	2017
+467	Student Academics Performance	Computer Science	300	22	Multivariate	2018
+468	Online Shoppers Purchasing Intention Dataset	Business	12330	17	Multivariate	2018
+469	PMU-UD	Computer Science	5180	9	Univariate	2018
+470	Parkinson's Disease Classification	Computer Science	756	754	Multivariate	2018
+471	Electrical Grid Stability Simulated Data 	Physics and Chemistry	10000	12	Multivariate	2018
+472	Caesarian Section Classification Dataset	Health and Medicine	80	0	Tabular	2018
+473	BAUM-1	Computer Science	1184	0	Time-Series	2017
+474	BAUM-2	Computer Science	1047	0	Time-Series	2015
+475	Audit Data	Business	777	0	Multivariate	2018
+476	BuddyMove Data Set	Other	249	0	Multivariate,Text	2014
+477	Real Estate Valuation	Business	414	6	Multivariate	2018
+479	Somerville Happiness Survey	Health and Medicine	143	0	Tabular	2017
+480	2.4 GHZ Indoor Channel Measurements	Computer Science	7840	0	Multivariate	2016
+481	EMG Data for Gestures	Health and Medicine	30000	0	Time-Series	2018
+482	Parking Birmingham	Computer Science	35717	4	Multivariate,Univariate,Sequential,Time-Series	2017
+483	Behavior of the urban traffic of the city of Sao Paulo in Brazil	Computer Science	135	18	Multivariate,Time-Series	2011
+484	Travel Reviews	Other	980	10	Multivariate,Text	2018
+485	Travel Review Ratings	Other	5456	24	Multivariate,Text	2018
+486	Rice Leaf Diseases	Computer Science	120	0	Multivariate	2017
+487	Gas sensor array temperature modulation	Computer Science	4095000	0	Multivariate,Time-Series	2018
+488	Facebook Live Sellers in Thailand	Business	7051	11	Multivariate	2018
+489	Parkinson Dataset with replicated acoustic features 	Health and Medicine	240	0	Multivariate	2016
+492	Metro Interstate Traffic Volume	Other	48204	8	Multivariate,Sequential,Time-Series	2019
+493	Query Analytics Workloads Dataset	Computer Science	260000	8	Multivariate	2018
+494	Wave Energy Converters	Computer Science	288000	0	Multivariate	2018
+495	PPG-DaLiA	Computer Science	8300000	0	Multivariate,Time-Series	2019
+496	Alcohol QCM Sensor	Computer Science	125	8	Multivariate	2019
+498	Incident management process enriched event log	Business	141712	36	Multivariate,Sequential	2018
+499	Opinion Corpus for Lebanese Arabic Reviews (OCLAR)	Computer Science	3916	3916	Text	2019
+500	MEx	Computer Science	6262	0	Time-Series	2019
+501	Beijing Multi-Site Air Quality	Climate and Environment	420768	0	Multivariate,Time-Series	2017
+502	Online Retail II	Business	1067371	0	Multivariate,Sequential,Time-Series,Text	2012
+503	Hepatitis C Virus (HCV) for Egyptian patients	Health and Medicine	1385	28	Multivariate	2017
+504	QSAR fish toxicity	Physics and Chemistry	908	0	Multivariate	2015
+505	QSAR aquatic toxicity	Physics and Chemistry	546	0	Multivariate	2014
+506	Human Activity Recognition from Continuous Ambient Sensor Data	Other	13956534	0	Multivariate,Sequential,Time-Series	2012
+507	WISDM Smartphone and Smartwatch Activity and Biometrics Dataset 	Computer Science	15630426	6	Multivariate,Time-Series	2019
+508	QSAR oral toxicity	Physics and Chemistry	8992	1024	Multivariate	2019
+509	QSAR androgen receptor	Physics and Chemistry	1687	1024	Multivariate	2019
+510	QSAR Bioconcentration classes dataset	Biology	779	14	Multivariate	2019
+511	QSAR fish bioconcentration factor (BCF)	Biology	1056	7	Multivariate	2019
+512	A study of  Asian Religious and Biblical Texts	Social Science	590	8265	Multivariate,Text	2019
+513	Real-time Election Results: Portugal 2019	Social Science	21643	29	Multivariate,Time-Series,Text	2019
+514	Bias correction of numerical prediction model temperature forecast	Climate and Environment	7750	7	Multivariate	2020
+515	Bar Crawl: Detecting Heavy Drinking	Health and Medicine	14057567	15	Multivariate,Time-Series	2020
+516	Kitsune Network Attack	Computer Science	27170754	7	Multivariate,Sequential,Time-Series	2019
+517	Shoulder Implant X-Ray Manufacturer Classification	Health and Medicine	597	1	Multivariate	2020
+518	Speaker Accent Recognition	Social Science	329	12	Multivariate	2020
+519	Heart Failure Clinical Records	Health and Medicine	299	12	Multivariate	2020
+520	Deepfakes: Medical Image Tamper Detection	Computer Science	20000	200000	Multivariate	2020
+521	selfBACK	Computer Science	26136	6	Time-Series	2020
+522	South German Credit	Business	1000	21	Multivariate	2019
+523	Exasens	Health and Medicine	399	4	Multivariate	2020
+524	Swarm Behaviour	Computer Science	24017	2400	Multivariate	2020
+525	Crop mapping using fused optical-radar data set	Other	325834	175	Multivariate,Time-Series	2020
+526	Bitcoin Heist Ransomware Address	Computer Science	2916697	10	Multivariate,Time-Series	2020
+527	Facebook Large Page-Page Network	Social Science	22470	4714	Multivariate	2020
+528	Amphibians	Biology	189	23	Multivariate	2020
+529	Early Stage Diabetes Risk Prediction	Computer Science	520	16	Multivariate	2020
+530	Turkish Spam V01	Social Science	826	2	Text	2019
+531	Stock keeping units	Business	2279	9	Multivariate	2019
+533	Detect Malware Types	Computer Science	7107	280	Multivariate,Time-Series,Text	2019
+534	Wave Energy Converters	Computer Science	288000	49	Multivariate	2019
+535	Youtube cookery channels viewers comments in Hinglish	Computer Science	9800	3	Multivariate,Text	2019
+536	Pedestrians in Traffic	Computer Science	4760	14	Multivariate,Sequential,Time-Series	2019
+537	Cervical Cancer Behavior Risk	Health and Medicine	72	19	Multivariate,Univariate	2019
+538	Sattriya_Dance_Single_Hand_Gestures Dataset	Computer Science	1450	0	Multivariate	2019
+539	Divorce Predictors data set	Social Science	170	54	Multivariate,Univariate	2019
+540	3W dataset	Computer Science	1984	8	Multivariate,Time-Series	2019
+541	Malware static and dynamic features VxHeaven and Virus Total	Computer Science	2955	1087	Multivariate	2019
+542	Internet Firewall Data	Computer Science	65532	12	Multivariate	2019
+543	User Profiling and Abusive Language Detection Dataset	Computer Science	65919	3		2019
+544	Estimation of Obesity Levels Based On Eating Habits and Physical Condition 	Health and Medicine	2111	16	Multivariate	2019
+545	Rice (Cammeo and Osmancik)	Biology	3810	7	Multivariate	2019
+546	Vehicle routing and scheduling problems	Business	18	9	Multivariate	2019
+547	Algerian Forest Fires	Biology	244	14	Multivariate	2019
+548	Breath Metabolomics	Health and Medicine	104	1656	Multivariate,Time-Series	2019
+549	Horton General Hospital	Health and Medicine	139	6	Multivariate,Time-Series	2019
+550	UrbanGB, urban road accidents coordinates labelled by the urban center	Computer Science	360177	2	Univariate	2019
+551	Gas Turbine CO and NOx Emission Data Set	Computer Science	36733	12	Multivariate	2019
+552	Activity recognition using wearable physiological measurements	Health and Medicine	4480	533	Multivariate	2019
+553	Clickstream Data for Online Shopping	Business	165474	14	Multivariate,Sequential	2019
+554	CNNpred: CNN-based stock market prediction using a diverse set of variables	Computer Science	1985	84	Sequential,Time-Series	2019
+555	Apartment for Rent Classified	Business	10000	21	Multivariate	2019
+556	: Simulated Data set of Iraqi tourism places	Computer Science	232	16	Multivariate	2020
+557	Nasarian CAD Dataset	Health and Medicine	150	52	Multivariate	2020
+560	Seoul Bike Sharing Demand	Business	8760	13	Multivariate	2020
+561	Person Classification Gait Data	Computer Science	48	321	Multivariate	2020
+562	Shill Bidding Dataset	Computer Science	6321	13	Multivariate	2020
+563	Iranian Churn	Business	3150	13	Multivariate	2020
+564	Unmanned Aerial Vehicle (UAV) Intrusion Detection	Computer Science	17256	55	Multivariate	2020
+565	Bone marrow transplant: children	Health and Medicine	187	36	Multivariate	2020
+566	Exasens	Health and Medicine	399	4	Multivariate	2020
+567	COVID-19 Surveillance	Computer Science	14	7	Multivariate	2020
+568	Refractive errors	Health and Medicine	467	79	Multivariate	2020
+570	CLINC150	Other	23700	0	Text	2020
+571	HCV data	Health and Medicine	615	12	Multivariate	2020
+572	Taiwanese Bankruptcy Prediction	Business	6819	95	Multivariate	2020
+573	South German Credit	Business	1000	21	Multivariate	2020
+574	IIWA14-R820-Gazebo-Dataset-10Trajectories	Computer Science	0	0		2020
+575	Guitar Chords finger positions	Other	2633	5	Text	2020
+576	Russian Corpus of Biographical Texts	Other	200	2	Text	2020
+577	Codon usage	Biology	13028	69	Multivariate	2020
+578	Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset	Health and Medicine	800	9	Time-Series	2020
+579	Myocardial infarction complications	Health and Medicine	1700	111	Multivariate	2020
+580	Hungarian Chickenpox Cases	Health and Medicine	521	20	Time-Series	2021
+581	Simulated data for survival modelling	Other	120000	25	Multivariate,Time-Series	2018
+582	Student Performance on an Entrance Examination	Computer Science	666	11	Multivariate	2018
+583	Chemical Composition of Ceramic Samples	Physics and Chemistry	88	19	Multivariate	2019
+584	Labeled Text Forum Threads Dataset	Computer Science	200	9	Text	2019
+585	Stock keeping units	Business	2279	9	Multivariate	2019
+586	BLE RSSI dataset for Indoor localization	Computer Science	23570	5	Sequential,Time-Series	2019
+587	Basketball dataset	Games	10000	7	Time-Series	2019
+588	GitHub MUSAE	Social Science	37700	4006	Multivariate	2019
+589	Anticancer peptides	Biology	1850	2	Sequential	2019
+591	Gender by Name	Social Science	147270	4	Text	2020
+595	LastFM Asia Social Network	Social Science	7624	7842	Multivariate	2020
+596	Wheat Kernels	Computer Science	314	15	Multivariate	2020
+597	Productivity Prediction of Garment Employees	Business	1197	14	Multivariate,Time-Series	2020
+598	Multi-view Brain Networks	Health and Medicine	70	70	Multivariate	2020
+599	LastFM Asia Social Network	Social Science	7624	7842	Multivariate	2020
+600	Wisesight Sentiment Corpus	Social Science	26737	4	Multivariate,Text	2020
+601	AI4I 2020 Predictive Maintenance Dataset	Computer Science	10000	6	Multivariate,Time-Series	2020
+602	Dry Bean	Biology	13611	16	Multivariate	2020
+603	In-Vehicle Coupon Recommendation	Business	12684	25	Multivariate	2017
+604	Gait Classification	Computer Science	48	321	Multivariate	2020
+605	Wikipedia Math Essentials	Social Science	731	1068	Time-Series	2021
+606	Wikipedia Math Essentials	Social Science	731	1068	Time-Series	2021
+607	Synchronous Machine	Computer Science	557	5	Multivariate	2021
+608	Traffic Flow Forecasting	Engineering	2101	0	Multivariate	2019
+611	Hierarchical Sales Data	Engineering	1798	237	Time-Series	2021
+613	Smartphone Dataset for Anomaly Detection in Crowds	Computer Science	14221		Time-Series	2018
+683	MNIST Database of Handwritten Digits	Other	70000		Image	1998
+690	Palmer Penguins	Biology	344		Tabular	2014
+691	CIFAR-10	Computer Science	60000	0	Image	2009
+692	2D elastodynamic metamaterials	Engineering	20521	1	Tabular	2021
+693	ImageNet	Computer Science	14000000	0	Image	2009
+695	Sundanese Twitter Dataset	Computer Science	2510	1	Tabular	2020
+696	Open Web Text Corpus	Other	8013769	0	Text	2019
+697	Predict Students' Dropout and Academic Success	Social Science	4424	36	Tabular	2021
+713	Auction Verification	Computer Science	2043	7	Tabular	2022
+715	LT-FS-ID: Intrusion detection in WSNs	Computer Science	182	4	Tabular	2022
+719	Bengali Hate Speech Detection Dataset	Computer Science	4500	0	Text	2020
+722	NATICUSdroid (Android Permissions)	Computer Science	29333	86	Tabular	2021
+728	Toxicity	Biology	171	1203	Tabular	2021
+729	Period Changer	Biology	90	1177	Tabular	2021
+730	Physical Therapy Exercises	Engineering	268881		Time-Series	2014
+732	DARWIN	Health and Medicine	174	451	Tabular	2022
+733	Water Quality Prediction	Computer Science	705	0	Other	2019
+734	Traffic Flow Forecasting	Computer Science	2101	0	Other	2019
+735	Cisco Secure Workload Networks of Computing Hosts	Computer Science	1000000	0	Sequential,Text,Other	2022
+742	SoDA	Health and Medicine	1800		Time-Series	2022
+743	MaskReminder	Health and Medicine	7600		Time-Series	2022
+747	181 early modern English plays: Transcriptions of early editions in TEI encoding	Other	181		Tabular	2021
+748	Sirtuin6 Small Molecules	Biology	100	6	Tabular	2016
+750	Similarity Prediction	Physics and Chemistry	200	0	Tabular,Image	2022
+752	Bosch CNC Machining Dataset 	Engineering	2700	3	Multivariate,Time-Series	2022
+754	Dataset based on UWB for Clinical Establishments	Computer Science	608	8	Tabular	2022
+755	Accelerometer Gyro Mobile Phone	Computer Science	31991	8	Tabular,Sequential,Multivariate,Time-Series	2022
+759	Glioma Grading Clinical and Mutation Features	Health and Medicine	839	23	Tabular,Multivariate	2022
+760	Multivariate Gait Data	Health and Medicine	181800	7	Sequential,Multivariate,Time-Series	2016
+763	Land Mines	Engineering	338	3	Tabular,Multivariate,Other	2018
+769	Turkish User Reviews	Computer Science	37056		Text	2022
+770	NASA Flood Extent Detection	Physical Science	50000		Image	2022
+773	DeFungi	Computer Science	9114	0	Image	2021
+779	HARTH	Computer Science	6461328	8	Multivariate,Time-Series	
+780	HAR70+	Computer Science	2259597	6	Multivariate,Time-Series	
+791	MetroPT-3 Dataset	Computer Science	1516948	15	Tabular,Multivariate,Time-Series	2021
+799	Single Elder Home Monitoring: Gas and Position	Engineering	444631	10	Tabular	2023
+813	TUNADROMD	Computer Science	4465	242	Tabular	2021
+827	Sepsis Survival Minimal Clinical Records	Health and Medicine	110341	3	Multivariate	2020
+830	Visegrad Group companies data	Business	85	83	Multivariate	2021
+837	Product Classification and Clustering	Business	35311	7	Tabular,Text	2020
+844	Average Localization Error (ALE) in sensor node localization process in WSNs	Computer Science	107	4	Multivariate	2020
+845	TamilSentiMix	Computer Science	15744		Multivariate,Text	2020
+846	Accelerometer	Physics and Chemistry	153000	5	Multivariate	2019
+847	Pedal Me Bicycle Deliveries	Social Science	36	15	Time-Series	2021
+848	Secondary Mushroom	Biology	61068	20	Tabular	2021
+849	Power Consumption of Tetouan City	Social Science	52417	6	Multivariate,Time-Series	2018
+850	Raisin	Biology	900	7	Multivariate	2020
+851	Steel Industry Energy Consumption	Physics and Chemistry	35040	9	Multivariate	2021
+852	Gender Gap in Spanish WP	Social Science	4746	18	Multivariate	2021
+853	Non Verbal Tourists	Social Science	73	22	Multivariate	2021
+854	Roman Urdu Sentiment Analysis Dataset (RUSAD)	Computer Science	11000	2	Text	2018
+855	TUANDROMD (Tezpur University Android Malware Dataset)	Computer Science	4464	241	Multivariate	2020
+856	Higher Education Students Performance Evaluation	Social Science	145	31	Multivariate	2019
+857	Risk Factor Prediction of Chronic Kidney Disease	Health and Medicine	200	28	Multivariate	2020
+858	Rocket League Skillshots	Games	297		Tabular,Time-Series	2020
+859	Image Recognition Task Execution Times in Mobile Edge Computing	Computer Science	4000	2	Sequential,Time-Series	2019
+860	REJAFADA	Computer Science	1996	6825	Multivariate	2019
+861	Influenza Outbreak Event Prediction via Twitter	Health and Medicine	75839	523	Multivariate	2015
+862	Turkish Music Emotion	Other	400	50	Multivariate	2019
+863	Maternal Health Risk	Health and Medicine	1013	6	Multivariate	2020
+864	Room Occupancy Estimation	Computer Science	10129	18	Multivariate,Time-Series	2018
+866	9mers from cullpdb	Biology	158716		Sequential	2021
+869	Shell Commands Used by Participants of Hands-on Cybersecurity Training	Computer Science	21459	9	Sequential	
+877	MOVER: Medical Informatics Operating Room Vitals and Events Repository	Health and Medicine	83468		Tabular,Sequential,Multivariate,Time-Series	2023
+878	Cirrhosis Patient Survival Prediction	Health and Medicine	418	17	Tabular	1989
+879	Ajwa or Medjool	Other	200	6	Tabular,Image	2023
+880	SUPPORT2	Health and Medicine	9105	42	Tabular,Multivariate	1995
+882	Large-scale Wave Energy Farm	Engineering	63600	149	Multivariate	2020
+887	National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset	Health and Medicine	6287	7	Tabular	2019
+890	AIDS Clinical Trials Group Study 175	Health and Medicine	2139	23	Tabular,Multivariate	1996
+891	CDC Diabetes Health Indicators	Health and Medicine	253680	21	Tabular,Multivariate	2017
+892	TCGA Kidney Cancers	Health and Medicine	1024	60660	Tabular,Multivariate	2013
+894	Bongabdo	Computer Science	111		Sequential,Text,Image	2023
+908	RealWaste	Computer Science	4752		Image	2023
+911	Recipe Reviews and User Feedback	Computer Science	18182	15	Tabular,Other	2023
+913	Forty Soybean Cultivars from Subsequent Harvests	Other	320	11	Tabular	2023
+915	Differentiated Thyroid Cancer Recurrence	Health and Medicine	383	16	Tabular	2023
+920	Jute Pest	Biology	7235	17	Image	2024
+925	Infrared Thermography Temperature	Health and Medicine	1020	33	Tabular	2021
+936	National Poll on Healthy Aging (NPHA)	Health and Medicine	714	14	Tabular	2017
+938	Regensburg Pediatric Appendicitis	Health and Medicine	782	53	Tabular,Image	2023
+942	RT-IoT2022 	Engineering	123117	83	Tabular,Sequential,Multivariate	2023
+963	UR3 CobotOps	Engineering	7409	20	Multivariate,Time-Series	2024
+966	An eye on the vine - a dataset for fungi segmentation in microscopic vine wood images	Biology	1308		Image	2024
+967	PhiUSIIL Phishing URL (Website)	Computer Science	235795	54	Tabular	2024
+990	Printed Circuit Board Processed Image	Computer Science	723552	5	Tabular,Image,Other	2016
+994	Micro Gas Turbine Electrical Energy Prediction	Engineering	71225	1	Sequential,Multivariate,Time-Series	2024
+995	ApisTox	Biology	1035	13	Other	2024
+1013	Synthetic Circle Data Set	Other	10000	2	Multivariate	2024
+1025	Turkish Crowdfunding Startups	Business	1628	38	Text	2023
+1031	Assessing Mathematics Learning in Higher Education	Engineering	9546	8	Tabular	2024
+1035	CAN-MIRGU	Computer Science	48		Sequential,Multivariate,Time-Series	2024
+1050	Twitter Geospatial Data	Social Science	14262517	4	Multivariate,Time-Series,Spatiotemporal	2015
+1081	Gas sensor array low-concentration 	Computer Science	90		Multivariate,Time-Series	2023
+1091	Lattice-physics (PWR fuel assembly neutronics simulation results)	Physics and Chemistry	24000	39	Tabular,Multivariate	2024
+1101	PIRvision_FoG_presence_detection	Climate and Environment	15302	59	Tabular,Sequential,Multivariate,Time-Series,Text	2023
+1104	Drug Induced Autoimmunity Prediction 	Health and Medicine	477	195	Tabular	2025
+1125	Inflation Research Abstracts Classification	Computer Science	1138	1	Text	2025
+1128	RecGym: Gym Workouts Recognition Dataset with IMU and Capacitive Sensor	Health and Medicine	4432070	11	Time-Series	2025
+1134	BEED: Bangalore EEG Epilepsy Dataset 	Health and Medicine	8000	17	Tabular,Multivariate	2024
+1150	Gallstone	Computer Science	320	38	Tabular	2024
+1158	High-Resolution Load Dataset from Smart Meters Across Various Cities in Morocco	Other	5	5	Time-Series	2025
+1162	Neurofibromatosis Type 1; Clinical Symptoms of Familial and Sporadic Cases	Health and Medicine	331	20	Tabular	2025
+1175	PGCB Hourly Generation Dataset (Bangladesh)	Climate and Environment	92650	14	Time-Series	2025
+1186	Paddy Dataset	Computer Science	2790	45	Tabular	2023
+1192	Amaranthus Viridis leaves	Computer Science	12	2	Image	2025
+1198	COREVQA	Computer Science	5608		Tabular,Text,Image	2025
+1202	HLS-CMDS: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope	Health and Medicine	535		Tabular	2025
+1276	Amazon Product and Google Locations Reviews	Business	3055000	2	Time-Series	2026

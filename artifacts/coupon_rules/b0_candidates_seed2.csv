@@ -1,0 +1,7 @@
+ứng viên,hợp lệ,số cạnh,cha của Y,cha của T,val log-loss Y,val LL cả mạng
+"HC k2, tối đa 6 cha",True,41,"T, coupon, destination, direction_same, habit_match, time_bin","coupon, destination, dist, passenger, time_bin, weather",0.6052683395344319,-10.827744315281352
+"HC k2, tối đa 4 cha",True,35,"T, coupon, destination, habit_match","coupon, destination, dist, weather",0.6056968876234586,-10.791004449876583
+"HC bdeu, tối đa 6 cha",True,35,"T, coupon, habit_match","coupon, destination, dist, passenger, time_bin, weather",0.6238891074884435,-10.482053523507885
+"HC bdeu, tối đa 4 cha",True,32,"T, coupon, habit_match","coupon, destination, dist, weather",0.6238891074884435,-10.641664822849846
+"HC bic-d, tối đa 4 cha",True,29,"T, coupon, habit_match","coupon, destination, dist, weather",0.6238891074884435,-10.802445169579977
+"HC bic-d, tối đa 6 cha",True,29,"T, coupon, habit_match","coupon, destination, dist, weather",0.6238891074884435,-10.802445169579977

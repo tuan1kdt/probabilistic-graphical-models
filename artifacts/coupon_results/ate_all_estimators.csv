@@ -1,0 +1,12 @@
+ước lượng,mean,std,min,max
+Chênh lệch thô trên TEST (không điều chỉnh),-0.1531,0.013,-0.1676,-0.138
+"B0: BN rời rạc, Hill Climbing + BDeu",-0.1643,0.0125,-0.1785,-0.1503
+H1: CPD của Y bằng MLP (DAG B0),-0.163,0.0056,-0.1694,-0.1565
+H2: DAG NOTEARS-MLP + BDeu,-0.1555,0.0139,-0.1785,-0.1443
+"DoWhy backdoor hồi quy, DAG B0",-0.1699,0.0071,-0.1809,-0.1631
+"DoWhy backdoor hồi quy, DAG H2",-0.1677,0.0074,-0.1783,-0.1597
+H1+H2: MLP trên DAG H2 (16.3),-0.1581,0.0053,-0.1637,-0.1523
+"Logit cộng tính, DAG B0 (16.6)",-0.1693,0.0069,-0.1797,-0.1619
+"Logit + coupon×T, DAG B0 (16.6)",-0.1672,0.0061,-0.175,-0.1598
+"MLP có phạt đơn điệu λ = 1, DAG B0 (16.7)",-0.1641,0.007,-0.1741,-0.1571
+"MLP có phạt đơn điệu λ = 1, DAG H2 (16.7)",-0.1572,0.0042,-0.1619,-0.1525

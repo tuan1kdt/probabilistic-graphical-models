@@ -1,0 +1,12 @@
+1.	Table of contents thêm số thứ tự
+2.	Đề mục ngắn gọn
+3.	Không tạo dữ liệu/hãy tìm và chọn dữ liệu, ví dụ từ UCI
+4.	Các ràng buột để kiểm tra tính đúng đắn của các DAG mà các tool/thuật toán tạo ra.
+5.	Khảo sát các thuật toán hiện có trong các thư viện phổ biến để học được cấu trúc DAG phù hợp.
+6.	Khảo sát các thuật toán phù hợp để học tham số
+7.	Code: bổ sung docstring (hàm này để làm gì, nhận vào gì, trả ra gì), bổ sung kiểu dữ liệu cho parameters
+8.	Không lập trình hướng đối tượng. Bạn nào muốn dùng structure thì hãy dùng dataclass trong Python
+9.	Code basic thôi, không lồng ghét function trong function, structured programming
+10.	 Dùng thư viện dowhy để kiểm tra can thiệp
+11.	Chọn biến can thiệp thì mình phải có khả năng can thiệp được.
+12.	Đi kèm lý thuyết/ý tưởng với code = giảng giải đoạn code đó ý nghĩa gì

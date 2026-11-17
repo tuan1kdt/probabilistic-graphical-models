@@ -1,0 +1,271 @@
+T,coupon,destination,habit_match,weather,p1
+0,Bar,Home,high,Rainy,0.8323076923076923
+0,Bar,Home,high,Snowy,0.5
+0,Bar,Home,high,Sunny,0.825824617860016
+0,Bar,Home,low,Rainy,0.20526815377313717
+0,Bar,Home,low,Snowy,0.5
+0,Bar,Home,low,Sunny,0.4047759000734754
+0,Bar,Home,mid,Rainy,0.44455852156057496
+0,Bar,Home,mid,Snowy,0.5
+0,Bar,Home,mid,Sunny,0.7939575394665215
+0,Bar,No Urgent Place,high,Rainy,0.5996309963099631
+0,Bar,No Urgent Place,high,Snowy,0.9986807387862796
+0,Bar,No Urgent Place,high,Sunny,0.7939575394665215
+0,Bar,No Urgent Place,low,Rainy,0.2069901053303543
+0,Bar,No Urgent Place,low,Snowy,0.20840833119053742
+0,Bar,No Urgent Place,low,Sunny,0.34287099903006785
+0,Bar,No Urgent Place,mid,Rainy,0.6086082059533386
+0,Bar,No Urgent Place,mid,Snowy,0.29434167573449405
+0,Bar,No Urgent Place,mid,Sunny,0.7014368610113291
+0,Bar,Work,high,Rainy,0.5
+0,Bar,Work,high,Snowy,0.5
+0,Bar,Work,high,Sunny,0.5
+0,Bar,Work,low,Rainy,0.5
+0,Bar,Work,low,Snowy,0.5
+0,Bar,Work,low,Sunny,0.5
+0,Bar,Work,mid,Rainy,0.5
+0,Bar,Work,mid,Snowy,0.5
+0,Bar,Work,mid,Sunny,0.5
+0,Carry out & Take away,Home,high,Rainy,0.8328197226502311
+0,Carry out & Take away,Home,high,Snowy,0.7996300863131935
+0,Carry out & Take away,Home,high,Sunny,0.8139084254341897
+0,Carry out & Take away,Home,low,Rainy,0.6656441717791411
+0,Carry out & Take away,Home,low,Snowy,0.5712401055408971
+0,Carry out & Take away,Home,low,Sunny,0.6841207988309791
+0,Carry out & Take away,Home,mid,Rainy,0.7137203166226913
+0,Carry out & Take away,Home,mid,Snowy,0.9986807387862796
+0,Carry out & Take away,Home,mid,Sunny,0.7856513114392771
+0,Carry out & Take away,No Urgent Place,high,Rainy,0.5
+0,Carry out & Take away,No Urgent Place,high,Snowy,0.7776825505656496
+0,Carry out & Take away,No Urgent Place,high,Sunny,0.9074996110160262
+0,Carry out & Take away,No Urgent Place,low,Rainy,0.9954128440366974
+0,Carry out & Take away,No Urgent Place,low,Snowy,0.6665638494756323
+0,Carry out & Take away,No Urgent Place,low,Sunny,0.8797187268689859
+0,Carry out & Take away,No Urgent Place,mid,Rainy,0.7488479262672811
+0,Carry out & Take away,No Urgent Place,mid,Snowy,0.6841207988309791
+0,Carry out & Take away,No Urgent Place,mid,Sunny,0.8635598569324637
+0,Carry out & Take away,Work,high,Rainy,0.6873915558126085
+0,Carry out & Take away,Work,high,Snowy,0.703564084989719
+0,Carry out & Take away,Work,high,Sunny,0.803232660494764
+0,Carry out & Take away,Work,low,Rainy,0.5998151571164511
+0,Carry out & Take away,Work,low,Snowy,0.5712401055408971
+0,Carry out & Take away,Work,low,Sunny,0.685616076150185
+0,Carry out & Take away,Work,mid,Rainy,0.5908326324642557
+0,Carry out & Take away,Work,mid,Snowy,0.45004625346901017
+0,Carry out & Take away,Work,mid,Sunny,0.7462006079027356
+0,Coffee House,Home,high,Rainy,0.6663244353182751
+0,Coffee House,Home,high,Snowy,0.588139281828074
+0,Coffee House,Home,high,Sunny,0.8748553798688777
+0,Coffee House,Home,low,Rainy,0.5
+0,Coffee House,Home,low,Snowy,0.294229722373435
+0,Coffee House,Home,low,Sunny,0.19135404926742877
+0,Coffee House,Home,mid,Rainy,0.5996309963099631
+0,Coffee House,Home,mid,Snowy,0.45004625346901017
+0,Coffee House,Home,mid,Sunny,0.6791826755151938
+0,Coffee House,No Urgent Place,high,Rainy,0.642668428005284
+0,Coffee House,No Urgent Place,high,Snowy,0.5
+0,Coffee House,No Urgent Place,high,Sunny,0.8321734808002983
+0,Coffee House,No Urgent Place,low,Rainy,0.5713813615333774
+0,Coffee House,No Urgent Place,low,Snowy,0.5
+0,Coffee House,No Urgent Place,low,Sunny,0.4638179935432783
+0,Coffee House,No Urgent Place,mid,Rainy,0.6920341394025604
+0,Coffee House,No Urgent Place,mid,Snowy,0.5
+0,Coffee House,No Urgent Place,mid,Sunny,0.7757266300078555
+0,Coffee House,Work,high,Rainy,0.5
+0,Coffee House,Work,high,Snowy,0.8745664739884393
+0,Coffee House,Work,high,Sunny,0.7803611738148984
+0,Coffee House,Work,low,Rainy,0.5
+0,Coffee House,Work,low,Snowy,0.5483582089552239
+0,Coffee House,Work,low,Sunny,0.3125433927331636
+0,Coffee House,Work,mid,Rainy,0.5
+0,Coffee House,Work,mid,Snowy,0.8745664739884393
+0,Coffee House,Work,mid,Sunny,0.7566283141570785
+0,Restaurant(20-50),Home,high,Rainy,0.5
+0,Restaurant(20-50),Home,high,Snowy,0.5
+0,Restaurant(20-50),Home,high,Sunny,0.6665809768637532
+0,Restaurant(20-50),Home,low,Rainy,0.5
+0,Restaurant(20-50),Home,low,Snowy,0.5
+0,Restaurant(20-50),Home,low,Sunny,0.3645963930948018
+0,Restaurant(20-50),Home,mid,Rainy,0.5
+0,Restaurant(20-50),Home,mid,Snowy,0.5
+0,Restaurant(20-50),Home,mid,Sunny,0.6626143207673433
+0,Restaurant(20-50),No Urgent Place,high,Rainy,0.5
+0,Restaurant(20-50),No Urgent Place,high,Snowy,0.5
+0,Restaurant(20-50),No Urgent Place,high,Sunny,0.8741339491916859
+0,Restaurant(20-50),No Urgent Place,low,Rainy,0.5
+0,Restaurant(20-50),No Urgent Place,low,Snowy,0.5
+0,Restaurant(20-50),No Urgent Place,low,Sunny,0.5238042759532731
+0,Restaurant(20-50),No Urgent Place,mid,Rainy,0.5
+0,Restaurant(20-50),No Urgent Place,mid,Snowy,0.5
+0,Restaurant(20-50),No Urgent Place,mid,Sunny,0.6999074502545118
+0,Restaurant(20-50),Work,high,Rainy,0.9954128440366974
+0,Restaurant(20-50),Work,high,Snowy,0.7488479262672811
+0,Restaurant(20-50),Work,high,Sunny,0.8741339491916859
+0,Restaurant(20-50),Work,low,Rainy,0.27310924369747897
+0,Restaurant(20-50),Work,low,Snowy,0.3000925497454882
+0,Restaurant(20-50),Work,low,Sunny,0.46429358607009036
+0,Restaurant(20-50),Work,mid,Rainy,0.33435582822085896
+0,Restaurant(20-50),Work,mid,Snowy,0.4445015416238438
+0,Restaurant(20-50),Work,mid,Sunny,0.6175830157866086
+0,Restaurant(<20),Home,high,Rainy,0.5
+0,Restaurant(<20),Home,high,Snowy,0.5
+0,Restaurant(<20),Home,high,Sunny,0.8180033651149747
+0,Restaurant(<20),Home,low,Rainy,0.5
+0,Restaurant(<20),Home,low,Snowy,0.5
+0,Restaurant(<20),Home,low,Sunny,0.7497109826589595
+0,Restaurant(<20),Home,mid,Rainy,0.5
+0,Restaurant(<20),Home,mid,Snowy,0.5
+0,Restaurant(<20),Home,mid,Sunny,0.8248496066635816
+0,Restaurant(<20),No Urgent Place,high,Rainy,0.5
+0,Restaurant(<20),No Urgent Place,high,Snowy,0.8138183383555747
+0,Restaurant(<20),No Urgent Place,high,Sunny,0.9112925294171303
+0,Restaurant(<20),No Urgent Place,low,Rainy,0.5
+0,Restaurant(<20),No Urgent Place,low,Snowy,0.7891918208373905
+0,Restaurant(<20),No Urgent Place,low,Sunny,0.7926168435312713
+0,Restaurant(<20),No Urgent Place,mid,Rainy,0.5
+0,Restaurant(<20),No Urgent Place,mid,Snowy,0.7883588465646137
+0,Restaurant(<20),No Urgent Place,mid,Sunny,0.9068258146500862
+0,Restaurant(<20),Work,high,Rainy,0.5
+0,Restaurant(<20),Work,high,Snowy,0.5832049306625577
+0,Restaurant(<20),Work,high,Sunny,0.8291939489726802
+0,Restaurant(<20),Work,low,Rainy,0.5
+0,Restaurant(<20),Work,low,Snowy,0.4003690036900369
+0,Restaurant(<20),Work,low,Sunny,0.7776349614395887
+0,Restaurant(<20),Work,mid,Rainy,0.5
+0,Restaurant(<20),Work,mid,Snowy,0.400184842883549
+0,Restaurant(<20),Work,mid,Sunny,0.8063906032251643
+1,Bar,Home,high,Rainy,0.5
+1,Bar,Home,high,Snowy,0.5
+1,Bar,Home,high,Sunny,0.699630314232902
+1,Bar,Home,low,Rainy,0.5
+1,Bar,Home,low,Snowy,0.5
+1,Bar,Home,low,Sunny,0.23617896631524815
+1,Bar,Home,mid,Rainy,0.5
+1,Bar,Home,mid,Snowy,0.5
+1,Bar,Home,mid,Sunny,0.38900308324768756
+1,Bar,No Urgent Place,high,Rainy,0.6663244353182751
+1,Bar,No Urgent Place,high,Snowy,0.5
+1,Bar,No Urgent Place,high,Sunny,0.5998151571164511
+1,Bar,No Urgent Place,low,Rainy,0.3750413223140496
+1,Bar,No Urgent Place,low,Snowy,0.5
+1,Bar,No Urgent Place,low,Sunny,0.3402366863905326
+1,Bar,No Urgent Place,mid,Rainy,0.6314508276533592
+1,Bar,No Urgent Place,mid,Snowy,0.5
+1,Bar,No Urgent Place,mid,Sunny,0.7498554077501446
+1,Bar,Work,high,Rainy,0.5
+1,Bar,Work,high,Snowy,0.5
+1,Bar,Work,high,Sunny,0.5
+1,Bar,Work,low,Rainy,0.5
+1,Bar,Work,low,Snowy,0.5
+1,Bar,Work,low,Sunny,0.5
+1,Bar,Work,mid,Rainy,0.5
+1,Bar,Work,mid,Snowy,0.5
+1,Bar,Work,mid,Sunny,0.5
+1,Carry out & Take away,Home,high,Rainy,0.5
+1,Carry out & Take away,Home,high,Snowy,0.5
+1,Carry out & Take away,Home,high,Sunny,0.7221650809976857
+1,Carry out & Take away,Home,low,Rainy,0.5
+1,Carry out & Take away,Home,low,Snowy,0.5
+1,Carry out & Take away,Home,low,Sunny,0.7026013006503251
+1,Carry out & Take away,Home,mid,Rainy,0.5
+1,Carry out & Take away,Home,mid,Snowy,0.5
+1,Carry out & Take away,Home,mid,Sunny,0.7998889300259163
+1,Carry out & Take away,No Urgent Place,high,Rainy,0.6968592260235558
+1,Carry out & Take away,No Urgent Place,high,Snowy,0.5
+1,Carry out & Take away,No Urgent Place,high,Sunny,0.661132364192808
+1,Carry out & Take away,No Urgent Place,low,Rainy,0.7389380530973452
+1,Carry out & Take away,No Urgent Place,low,Snowy,0.5
+1,Carry out & Take away,No Urgent Place,low,Sunny,0.6665381649961449
+1,Carry out & Take away,No Urgent Place,mid,Rainy,0.7616740088105727
+1,Carry out & Take away,No Urgent Place,mid,Snowy,0.5
+1,Carry out & Take away,No Urgent Place,mid,Sunny,0.732508073196986
+1,Carry out & Take away,Work,high,Rainy,0.3704592186429061
+1,Carry out & Take away,Work,high,Snowy,0.5
+1,Carry out & Take away,Work,high,Sunny,0.7076331529478781
+1,Carry out & Take away,Work,low,Rainy,0.0015384615384615382
+1,Carry out & Take away,Work,low,Snowy,0.5
+1,Carry out & Take away,Work,low,Sunny,0.5453781512605042
+1,Carry out & Take away,Work,mid,Rainy,0.315968841285297
+1,Carry out & Take away,Work,mid,Snowy,0.5
+1,Carry out & Take away,Work,mid,Sunny,0.6457770921712302
+1,Coffee House,Home,high,Rainy,0.2502890173410405
+1,Coffee House,Home,high,Snowy,0.2502890173410405
+1,Coffee House,Home,high,Sunny,0.4905693328676214
+1,Coffee House,Home,low,Rainy,0.1937313432835821
+1,Coffee House,Home,low,Snowy,0.06477611940298507
+1,Coffee House,Home,low,Sunny,0.17436724987260066
+1,Coffee House,Home,mid,Rainy,0.5624277456647399
+1,Coffee House,Home,mid,Snowy,0.37514450867052024
+1,Coffee House,Home,mid,Sunny,0.41382061921481006
+1,Coffee House,No Urgent Place,high,Rainy,0.5
+1,Coffee House,No Urgent Place,high,Snowy,0.5
+1,Coffee House,No Urgent Place,high,Sunny,0.6368573497465605
+1,Coffee House,No Urgent Place,low,Rainy,0.5
+1,Coffee House,No Urgent Place,low,Snowy,0.533292231812577
+1,Coffee House,No Urgent Place,low,Sunny,0.39678796604279404
+1,Coffee House,No Urgent Place,mid,Rainy,0.5
+1,Coffee House,No Urgent Place,mid,Snowy,0.5712401055408971
+1,Coffee House,No Urgent Place,mid,Sunny,0.6904593951150692
+1,Coffee House,Work,high,Rainy,0.5
+1,Coffee House,Work,high,Snowy,0.5
+1,Coffee House,Work,high,Sunny,0.5612129227281315
+1,Coffee House,Work,low,Rainy,0.5
+1,Coffee House,Work,low,Snowy,0.5
+1,Coffee House,Work,low,Sunny,0.2740585774058577
+1,Coffee House,Work,mid,Rainy,0.5
+1,Coffee House,Work,mid,Snowy,0.5
+1,Coffee House,Work,mid,Sunny,0.40180195073565883
+1,Restaurant(20-50),Home,high,Rainy,0.5
+1,Restaurant(20-50),Home,high,Snowy,0.5
+1,Restaurant(20-50),Home,high,Sunny,0.33435582822085896
+1,Restaurant(20-50),Home,low,Rainy,0.5
+1,Restaurant(20-50),Home,low,Snowy,0.13969005596211795
+1,Restaurant(20-50),Home,low,Sunny,0.20012340600575895
+1,Restaurant(20-50),Home,mid,Rainy,0.5
+1,Restaurant(20-50),Home,mid,Snowy,0.26338851022395326
+1,Restaurant(20-50),Home,mid,Sunny,0.2502312673450509
+1,Restaurant(20-50),No Urgent Place,high,Rainy,0.33435582822085896
+1,Restaurant(20-50),No Urgent Place,high,Snowy,0.5
+1,Restaurant(20-50),No Urgent Place,high,Sunny,0.3752886836027713
+1,Restaurant(20-50),No Urgent Place,low,Rainy,0.2502890173410405
+1,Restaurant(20-50),No Urgent Place,low,Snowy,0.5
+1,Restaurant(20-50),No Urgent Place,low,Sunny,0.40847457627118644
+1,Restaurant(20-50),No Urgent Place,mid,Rainy,0.44455852156057496
+1,Restaurant(20-50),No Urgent Place,mid,Snowy,0.5
+1,Restaurant(20-50),No Urgent Place,mid,Sunny,0.5135067533766884
+1,Restaurant(20-50),Work,high,Rainy,0.5
+1,Restaurant(20-50),Work,high,Snowy,0.5
+1,Restaurant(20-50),Work,high,Sunny,0.4167950693374422
+1,Restaurant(20-50),Work,low,Rainy,0.5
+1,Restaurant(20-50),Work,low,Snowy,0.5
+1,Restaurant(20-50),Work,low,Sunny,0.1618567928124149
+1,Restaurant(20-50),Work,mid,Rainy,0.5
+1,Restaurant(20-50),Work,mid,Snowy,0.5
+1,Restaurant(20-50),Work,mid,Sunny,0.16025166543301259
+1,Restaurant(<20),Home,high,Rainy,0.5
+1,Restaurant(<20),Home,high,Snowy,0.16700924974306267
+1,Restaurant(<20),Home,high,Sunny,0.5925714285714285
+1,Restaurant(<20),Home,low,Rainy,0.5
+1,Restaurant(<20),Home,low,Snowy,0.33359013867488446
+1,Restaurant(<20),Home,low,Sunny,0.5526059425231369
+1,Restaurant(<20),Home,mid,Rainy,0.5
+1,Restaurant(<20),Home,mid,Snowy,0.15032377428307123
+1,Restaurant(<20),Home,mid,Sunny,0.5843952873286847
+1,Restaurant(<20),No Urgent Place,high,Rainy,0.38477951635846375
+1,Restaurant(<20),No Urgent Place,high,Snowy,0.5
+1,Restaurant(<20),No Urgent Place,high,Sunny,0.7432229543748435
+1,Restaurant(<20),No Urgent Place,low,Rainy,0.33435582822085896
+1,Restaurant(<20),No Urgent Place,low,Snowy,0.5
+1,Restaurant(<20),No Urgent Place,low,Sunny,0.6562198649951784
+1,Restaurant(<20),No Urgent Place,mid,Rainy,0.5554984583761562
+1,Restaurant(<20),No Urgent Place,mid,Snowy,0.5
+1,Restaurant(<20),No Urgent Place,mid,Sunny,0.7382640144665461
+1,Restaurant(<20),Work,high,Rainy,0.4054527263631816
+1,Restaurant(<20),Work,high,Snowy,0.3572372769332452
+1,Restaurant(<20),Work,high,Sunny,0.5
+1,Restaurant(<20),Work,low,Rainy,0.14332892998678995
+1,Restaurant(<20),Work,low,Snowy,0.30036968576709794
+1,Restaurant(<20),Work,low,Sunny,0.5
+1,Restaurant(<20),Work,mid,Rainy,0.30778357854769817
+1,Restaurant(<20),Work,mid,Snowy,0.18199663488502524
+1,Restaurant(<20),Work,mid,Sunny,0.0045871559633027525

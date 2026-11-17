@@ -1,0 +1,89 @@
+{
+ "STATES": {
+  "habit_match": [
+   "high",
+   "low",
+   "mid"
+  ],
+  "age_bin": [
+   "26-35",
+   "36-50",
+   "50+",
+   "<26"
+  ],
+  "income_bin": [
+   "37.5-75k",
+   "75k+",
+   "<37.5k"
+  ],
+  "gender": [
+   "Female",
+   "Male"
+  ],
+  "has_children": [
+   "0",
+   "1"
+  ],
+  "coupon": [
+   "Bar",
+   "Carry out & Take away",
+   "Coffee House",
+   "Restaurant(20-50)",
+   "Restaurant(<20)"
+  ],
+  "destination": [
+   "Home",
+   "No Urgent Place",
+   "Work"
+  ],
+  "time_bin": [
+   "afternoon",
+   "evening",
+   "morning"
+  ],
+  "passenger": [
+   "Alone",
+   "Friend(s)",
+   "Kid(s)",
+   "Partner"
+  ],
+  "weather": [
+   "Rainy",
+   "Snowy",
+   "Sunny"
+  ],
+  "dist": [
+   "15-25",
+   "25+",
+   "<15"
+  ],
+  "direction_same": [
+   "0",
+   "1"
+  ],
+  "T": [
+   "0",
+   "1"
+  ],
+  "Y": [
+   "0",
+   "1"
+  ]
+ },
+ "NODES": [
+  "habit_match",
+  "age_bin",
+  "income_bin",
+  "gender",
+  "has_children",
+  "coupon",
+  "destination",
+  "time_bin",
+  "passenger",
+  "weather",
+  "dist",
+  "direction_same",
+  "T",
+  "Y"
+ ]
+}
