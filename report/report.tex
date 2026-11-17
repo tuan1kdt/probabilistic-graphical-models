@@ -17,7 +17,6 @@
 \usepackage{amsmath,amssymb,amsfonts}%
 \usepackage{amsthm}%
 \usepackage{mathrsfs}%
-\usepackage[title]{appendix}%
 \usepackage{xcolor}%
 \usepackage{textcomp}%
 \usepackage{manyfoot}%
@@ -30,7 +29,6 @@
 \renewcommand{\tablename}{Bảng}
 \renewcommand{\refname}{Tài liệu tham khảo}
 \renewcommand{\abstractname}{Tóm tắt}
-\renewcommand{\appendixname}{Phụ lục}
 \renewcommand{\keywordname}{Từ khóa}
 %% Chữ nối giữa hai tác giả: "và" thay cho "and"
 \makeatletter
@@ -87,7 +85,7 @@ Theo đề bài, báo cáo so sánh ba mô hình trên cùng dữ liệu, cùng 
 
 Kết quả chính: ba mô hình cho cùng câu trả lời. Đặt hạn 2 giờ thay cho 1 ngày đi kèm xác suất chấp nhận thấp hơn khoảng 15--16 điểm phần trăm (từ khoảng 64\% xuống khoảng 49\%), ổn định qua năm cách chia dữ liệu; thay thành phần truyền thống bằng neural network không làm đổi kết luận can thiệp và chỉ cải thiện dự đoán ở mức rất nhỏ.
 
-\textbf{Bố cục.} Mục~\ref{sec:related} điểm lại các công trình liên quan; Mục~\ref{sec:problem} phát biểu bài toán; Mục~\ref{sec:methods} mô tả ba mô hình và giao thức chung; Mục~\ref{sec:design} trình bày thiết kế thực nghiệm; Mục~\ref{sec:results} báo cáo Bảng A, B, C; Mục~\ref{sec:conclusion} kết luận và nêu hạn chế; Mục~\ref{sec:qa} trả lời các câu hỏi bảo vệ. Các mục này ứng với mục 2.1--2.7 và 2.9 của đề bài; mục 2.8 là phần Tóm tắt.
+\textbf{Bố cục.} Mục~\ref{sec:related} điểm lại các công trình liên quan; Mục~\ref{sec:problem} phát biểu bài toán; Mục~\ref{sec:methods} mô tả ba mô hình và giao thức chung; Mục~\ref{sec:design} trình bày thiết kế thực nghiệm; Mục~\ref{sec:results} báo cáo Bảng A, B, C; Mục~\ref{sec:conclusion} kết luận và nêu hạn chế. Các mục này ứng với mục 2.1--2.7 của đề bài; mục 2.8 là phần Tóm tắt.
 
 %% ===================================================================
 \section{Công trình liên quan}\label{sec:related}
@@ -701,26 +699,6 @@ Các phép thử này phát hiện lỗi của \emph{phương pháp ước lư�
 \end{enumerate}
 
 %% ===================================================================
-\section{Hỏi và đáp}\label{sec:qa}
-%% (mục 2.9 của rubric)
-
-\textbf{Câu 1. Vì sao tin được DAG khi nó do thuật toán học ra?} Không tin vào toàn bộ DAG. Phần mà kết luận dựa vào là các cạnh đi vào $T$ và $Y$, và phần này được bảo vệ bằng ba lớp: bộ luật viết trước khi học, có lý do cho từng nút (Bảng~\ref{tab:rules}); kiểm tra bằng số liệu cho các luật dựa trên cách dữ liệu được tạo (chi-square với $T$, Cramér's V giữa người trả lời và kịch bản, Mục~\ref{sec:overlap}); và \texttt{check\_dag} cho mọi DAG. Hai thuật toán khác họ (Hill Climbing và NOTEARS-MLP) cho cùng lõi parents của $Y$ gồm \var{coupon} và \var{CoffeeHouse}. Chiều của các cạnh trong nội bộ một nhóm biến không được diễn giải.
-
-\textbf{Câu 2. Vì sao hiệu ứng nhận diện được, và vì sao tập điều chỉnh của mô hình khác tập của DoWhy?} Trong mọi DAG tuân thủ bộ luật, $Y$ không có con và mọi biến nền đều có trước $T$, nên $\PaY\setminus\{T\}$ thoả tiêu chí backdoor (Mục~\ref{sec:b0}). Một DAG thường có nhiều tập backdoor hợp lệ; DoWhy trả về một tập, mô hình dùng tập gắn với CPD của $Y$. Cả hai được kiểm bằng d-separation trên cả 10 DAG. Ước lượng của mô hình (chuẩn hoá bằng CPD theo tập của mô hình) và ước lượng tham chiếu của DoWhy (hồi quy tuyến tính theo tập của DoWhy) cho kết quả cùng cỡ: $-$0,157 so với $-$0,164 trên DAG của B0.
-
-\textbf{Câu 3. H1 dùng neural network thì còn là Bayesian Network không?} Còn. MLP chỉ là cách tham số hoá $P(Y \mid \PaY)$. Vì mọi parents rời rạc, liệt kê mọi tổ hợp giá trị cho một CPD dạng bảng chính xác bằng hàm của mạng; bảng này được đặt vào bản sao của B0 và qua \texttt{check\_model()}. Mọi truy vấn sau đó, kể cả $\doop()$, chạy trên một Bayesian Network rời rạc thông thường.
-
-\textbf{Câu 4. So sánh ba mô hình có công bằng không?} Trong mỗi lần chạy, ba mô hình dùng cùng dòng TRAIN, VALIDATION, TEST, cùng trạng thái biến, cùng bộ luật, cùng quy tắc chọn trên VALIDATION, cùng ESS cho các CPD dạng bảng, cùng nhóm tham chiếu và cùng các mẫu bootstrap. Mỗi mở rộng chỉ đổi một thành phần. Điểm chưa đối xứng: H2 có thêm hệ số $w_T$ được chọn từ một phiên bản thực nghiệm trước, và ngân sách dò siêu tham số của ba mô hình không bằng nhau (6 ứng viên cho B0, 5 ngưỡng cho H2, một kiến trúc cho H1).
-
-\textbf{Câu 5. Refuter đạt thì kết luận nhân quả đúng?} Không. Placebo đạt cho biết phương pháp ước lượng không tạo ra hiệu ứng khi $T$ không còn liên hệ với $Y$; subset đạt cho biết ước lượng không phụ thuộc vào vài dòng cá biệt. Hai refuter của DoWhy kiểm ước lượng hồi quy tuyến tính trên DAG tương ứng; phép placebo tự cài mới kiểm trực tiếp CPD dạng bảng và MLP. Không phép thử nào phát hiện được confounder không đo.
-
-\textbf{Câu 6. Vì sao ATE của H2 khác B0 một cách hệ thống?} H2 luôn đưa \var{weather} vào parents của $Y$; hai mức Rainy và Snowy ít dòng nên nhiều tổ hợp không có dữ liệu TRAIN, và BDeu gán 0,5 cho cả hai loại hạn ở các ô đó, kéo hiệu về 0. Đây là giải thích phù hợp với số liệu (tỉ lệ ô trống 14,3\% so với 1,3\%) nhưng chưa được kiểm bằng một thí nghiệm riêng.
-
-\textbf{Câu 7. Vì sao chọn hạn coupon làm treatment?} Vì đó là biến người phát coupon tự đặt được, với chi phí thấp, và trong dữ liệu nó được gán theo kịch bản chứ không do người trả lời chọn.
-
-\textbf{Câu 8. CI 95\% có bao gồm việc DAG có thể sai không?} Không. Bootstrap giữ cố định DAG và nhóm TEST, chỉ học lại CPD của $Y$. Độ bất định về cấu trúc chỉ được phản ánh gián tiếp qua độ phân tán giữa các seed và qua so sánh B0 với H2.
-
-%% ===================================================================
 \backmatter
 
 \section*{Khai báo}
@@ -731,31 +709,6 @@ Các phép thử này phát hiện lỗi của \emph{phương pháp ước lư�
 %% TODO (nhóm): rà lại và chỉnh câu khai báo dưới đây cho đúng với cách nhóm đã dùng AI.
 \item \textbf{Sử dụng AI.} Nhóm có dùng trợ lý AI (Claude của Anthropic) để hỗ trợ lập trình notebook và soạn bản thảo báo cáo này từ output đã lưu của notebook. Các ràng buộc DAG được kiểm lại độc lập bằng số liệu (Mục~\ref{sec:overlap}). Nhóm chịu trách nhiệm về toàn bộ nội dung.
 \end{itemize}
-
-\begin{appendices}
-
-\section{Ma trận độ mạnh cạnh của H2}\label{app:adj}
-
-Hình~\ref{fig:adj} là ma trận $A$ của H2 ở seed 0 theo công thức~\eqref{eq:adj}. Ô xám là cạnh bị cấm (luôn bằng 0); ô có ghi số là cạnh được giữ ở ngưỡng đã chọn. Độ mạnh cạnh là đại lượng nội bộ của thuật toán học, không phải hiệu ứng nhân quả hay xác suất cạnh đó có thật.
-
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.92\textwidth]{figures/h2_adjacency_seed0.png}
-\caption{Ma trận độ mạnh cạnh do NOTEARS-MLP học ở seed 0 (hàng: nút đi; cột: nút đến; ngưỡng giữ cạnh 0,15).}\label{fig:adj}
-\end{figure}
-
-\section{Kết quả nhận diện của DoWhy ở seed 0}\label{app:ident}
-
-Văn bản nhận diện đầy đủ của từng DAG được lưu trong các file \texttt{identification\_b0\_seed*.txt} và \texttt{identification\_h2\_seed*.txt}. Ở seed 0, DoWhy trả về estimand loại \texttt{NONPARAMETRIC\_ATE}, viết dưới dạng $\frac{d}{d[T]}E[Y \mid Z]$, với các kết quả sau:
-
-\begin{itemize}
-\item \textbf{DAG của B0.} Backdoor: đạo hàm theo $T$ của $E[Y \mid Z]$ với $Z$ = \{\var{coupon}, \var{direction\_same}, \var{has\_children}, \var{destination}\}. Biến công cụ (iv): không tìm thấy. Frontdoor: không tìm thấy. General adjustment: $Z$ = \{\var{coupon}, \var{passenger}, \var{dist}, \var{time\_bin}, \var{weather}, \var{destination}\}.
-\item \textbf{DAG của H2.} Backdoor và general adjustment: $Z$ = \{\var{coupon}, \var{weather}, \var{destination}\}. Biến công cụ: không tìm thấy. Frontdoor: không tìm thấy.
-\end{itemize}
-
-Giả định đi kèm mỗi estimand là unconfoundedness: nếu $U \to T$ và $U \to Y$ thì $P(Y \mid T, Z, U) = P(Y \mid T, Z)$ với $Z$ là tập điều chỉnh tương ứng.
-
-\end{appendices}
 
 \bibliography{references}
 
